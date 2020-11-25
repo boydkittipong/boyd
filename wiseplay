@@ -1,0 +1,110 @@
+{
+"name": "ติดตาม@YOUTUBE:แอนดรอยด์แอพฟรี",
+"author": "โดย@กระเทียม สุรินทร์",
+"image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
+"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/MAIN2",
+"groups": [
+
+{
+"name": "ช่องดิจิตอล ทีวีไทย",
+"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+"url": "http://tiny.cc/thaitv01",
+"import": false
+},	
+{
+"name": "กีฬา ทรูสปอร์ต",
+"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+"url": "http://tiny.cc/truesports",
+"import": false
+},
+{
+"name": "กีฬารอบโลก",
+"image": "https://i.gifer.com/P7fY.gif",
+"url": "http://tiny.cc/worldsports",
+"import": false
+},
+{
+"name": "ช่องหนังและซีรีส์",
+"image": "https://i.gifer.com/8V9H.gif",
+"url": "http://tiny.cc/entertainment01",
+"import": false
+},
+{
+"name": "ช่องสารคดี",
+"image": "https://i.gifer.com/Irn.gif",
+"url": "http://tiny.cc/docs01",
+"import": false
+},
+{
+"name": "ช่องสำหรับเด็ก",
+"image": "https://i.gifer.com/4STH.gif",
+"url": "http://tiny.cc/kids01",
+"import": false
+},
+{
+"name": "ข่าวต่างประเทศ",
+"image": "https://i.gifer.com/14u9.gif",
+"url": "http://tiny.cc/worldnews01",
+"import": false
+},	
+{
+"name": "UK TV",
+"image": "https://i.gifer.com/7ASc.gif",
+"url": "http://tiny.cc/UKTV",
+"import": false
+},	
+{
+"name": "USA TV",
+"image": "https://i.gifer.com/7hfV.gif",
+"url": "http://tiny.cc/USATV",
+"import": false
+},	
+{
+"name": "อาเซียน ทีวี",
+"image": "https://media2.giphy.com/media/h20T7QwvkMGEZ7XEEt/giphy.gif?cid=6c09b9529wwl3r7ufgppu0y8bj4ld0wyv5marbfgwek5qxer&rid=giphy.gif",
+"url": "http://tiny.cc/aseantv",
+"import": false
+},
+{
+"name": "สถานีเพลง",
+"image": "https://i.gifer.com/Yzg5.gif",
+"url": "http://tiny.cc/musiconly",
+"import": false
+},
+{
+"name": "Music Choice",
+"image": "https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc=s180-rw",
+"url": "http://tiny.cc/mchoice",
+"import": false
+},
+{
+"name": "หนังไทย",
+"image": "https://www.kindpng.com/picc/m/287-2874735_photo-thai-movie-icon-hd-png-download.png",
+"url": "http://tiny.cc/thaimovie",
+"import": false
+},
+{
+"name": "หนังต่างประเทศ",
+"image": "https://www.pellegrino.com.br/sites/default/files/world%20film.jpg",
+"url": "http://tiny.cc/worldmovie",
+"import": false
+},	
+{
+"name": "หนังการ์ตูน",
+"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-netflix-animation-index-1585754615.jpg",
+"url": "http://tiny.cc/m_cartoons",
+"import": false
+},	
+{
+"name": "หนังที่ผมชอบ",
+"image": "https://i.giphy.com/media/WR9nVPD18i3ZVdJLNu/giphy.gif",
+"url": "http://tiny.cc/myhorror",
+"import": false
+},		
+
+
+
+
+
+]
+}
