@@ -4,8 +4,6 @@
 "image": "https://lh3.googleusercontent.com/proxy/tREKBGC3PDzroWUi5K152QWgMi-4neU0aDLSfW1lGYTPknNN0-c__UKdw9fCc4wzdyJ6HqZAjXA_AFSP0w4EaC7YEcI_QgKewVYQ23n5LzeCfEMwQs3P-G3c3A3I4LNZTAV0",
 "url": "https://pastebin.com/1u4AXxgS",
 "stations": [
- 
-
 {
 "name": "CH3 HD",
 "image": "https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",
@@ -513,6 +511,7 @@
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
+{
 "name": "True Sport HD 3",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
 "url": "https://we-play.tv/watching/tv/true-sports-hd-3",
@@ -603,9 +602,6 @@
 "referer": "https://ustvgo.tv/",
 "playInNatPlayer": "true"
 },
-
-
-
 {
 "name": "Fox Sports HD",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
@@ -683,9 +679,6 @@
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
- 
- 
- 
 {
 "name": "LFCTV",
 "image": "https://static.tvmaze.com/uploads/images/large_landscape/32/81235.jpg",
@@ -767,10 +760,6 @@
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
- 
- 
- 
- 
 {
 "name": "btsport1",
 "image": "https://ball8k.com/stream/img_ch/20200923165446_btsport1.jpg",
@@ -820,8 +809,6 @@
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
- 
- 
 {
 "name": "Sportklub4 Slovenia",
 "image": "https://ball8k.com/stream/img_ch/20200923170720_sportklub4slovenia.jpg",
@@ -896,9 +883,6 @@
 "url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/f78dd87f-118d-46b5-abb4-f4633460acf8/2.m3u8",
 "playInNatPlayer": "tot"
 },
-
-
-
 {
 "name": "Cartoon Club",  
 "image": "https://tv.guchill.com/images/img_tv/tv/ch67.gif",  
