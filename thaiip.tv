@@ -1163,3 +1163,13 @@ https://iptvhome-ra2eye.cdn.byteark.com/OCN/index.m3u8
 #EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093651.jpg",JTBC
 https://iptvhome-ra2eye.cdn.byteark.com/JTBC/index.m3u8
 #EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093704.jpg",MB
+N
+https://iptvhome-ra2eye.cdn.byteark.com/MBN/index.m3u8
+#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093942.jpg",SPOTV
+https://iptvhome-ra2eye.cdn.byteark.com/SPOTV/index.m3u8
+#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093952.jpg",SPOTV2
+https://iptvhome-ra2eye.cdn.byteark.com/SPOTV2/index.m3u8
+#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-094043.jpg",OBS
+https://iptvhome-ra2eye.cdn.byteark.com/OBS/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo-small="http://thaiip.tv/tvlogo2/37.png" tvg-logo="http://thaiip.tv/tvlogo2/37.png" tvg-chno="53" group-title="0-info",Contact line id : thaiip.tv
+http://bit.ly/2CY1SU3
