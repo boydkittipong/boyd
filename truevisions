@@ -1,0 +1,123 @@
+{
+"name": "truevisions",
+"author": "ฺPLATINUM_HD",
+"image": "https://lh3.googleusercontent.com/proxy/tREKBGC3PDzroWUi5K152QWgMi-4neU0aDLSfW1lGYTPknNN0-c__UKdw9fCc4wzdyJ6HqZAjXA_AFSP0w4EaC7YEcI_QgKewVYQ23n5LzeCfEMwQs3P-G3c3A3I4LNZTAV0",
+"url": "https://pastebin.com/1u4AXxgS",
+"stations": [
+ 
+
+{
+"name": "CH3 HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH5 HD",
+"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
+"url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "CH7 HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",
+"url": "https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MCOT HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-073941.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NBT HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074028.jpg",
+"url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Thai PBS HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074157.jpg",
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ไทยรัฐ TV",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",
+"url": "http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TNN16",
+"image": "https://www.mx7.com/i/00b/u122QH.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NEW 18",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",
+"url": "https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Nation TV",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Workpoint",
+"image": "https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "true4U",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "GMM 25",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "CH8",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",
+"url": "https://cdn6.goprimetime.info/feed/ch8/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "MONO29",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
+"url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ONE 31",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Amarin 34 HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "PPTV HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",
+"url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+
+
+
+ 
+ 
+]
+}
