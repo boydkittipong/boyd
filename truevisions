@@ -119,9 +119,111 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "Fan TV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=42",
+"playInNatPlayer": "true"
+},
+{
+"name": "CAT HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-20-062235.jpg",
+"url": "https://cdn6.goprimetime.info/feed/CAT/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "TGN",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TGN.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=138",
+"playInNatPlayer": "true"
+},
+{
+"name": "ฟ้าวันใหม่",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-08-072933.jpg",
+"url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Club",  
+"image": "https://tv.guchill.com/images/img_tv/tv/ch67.gif",  
+"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boomerang",  
+"image": "https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",  
+"url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney Channel TH",  
+"image": "https://lumiere-a.akamaihd.net/v1/images/tv-tile-disneychannel-2017_d6596f95.png?region=0,0,540,405&width=320",  
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=86",
+"playInNatPlayer": "true"
+},
+{
+"name": "Aniplus",  
+"image": "https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg",  
+"url": "https://www.we-play.tv/watching/tv/aniplus",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Network",  
+"image": "https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",  
+"url": "https://www.we-play.tv/watching/tv/cartoon-network",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nickelodeon",  
+"image": "http://tvsmagazine.com/images/channels/sm_NICK.jpg",  
+"url": "https://www.we-play.tv/watching/tv/nickelodeon",
+"playInNatPlayer": "true"
+},
+{
+"name": "Baby TV",  
+"image": "https://www.logolynx.com/images/logolynx/s_2c/2c660238ffec78dde85554a81a5b3274.jpeg",  
+"url": "https://www.we-play.tv/watching/tv/babytv",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Spark Jump",  
+"image": "http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",  
+"url": "https://www.we-play.tv/watching/tv/true-spark-jump",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Spark Play",  
+"image": "http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",  
+"url": "https://we-play.tv/watching/tv/true-spark-play",
+"playInNatPlayer": "true"
+},
+{
+"name": "Toonee",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-11-052323.png",  
+"url": "https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Animax",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",  
+"url": "http://203.154.177.124:8899/live/ch5/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "CTB",
 "image": "http://thaiip.tv/tvlogo2/ctb.png",
 "url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w503199585.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "มังกร",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=208",
 "playInNatPlayer": "tot"
 },
 {
@@ -185,6 +287,27 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "KBS World",  
+"image": "https://www.wowkeren.com/display/images/photo/2019/09/27/00275387_8.jpg",  
+"url": "https://www.we-play.tv/watching/tv/kbs-world",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Music HD",  
+"image": "https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",  
+"url": "https://www.we-play.tv/watching/tv/true-music-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Stingray iConcerts",  
+"image": "https://www.we-play.tv//uploads/posters/-poster1602704553.jpeg",  
+"url": "https://www.we-play.tv/watching/tv/stingray-iconcerts",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Fox ไทย",  
 "image": "http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",  
 "url": "https://we-play.tv/watching/tv/fox-thai",
@@ -202,6 +325,12 @@
 "name": "FOX Action",  
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",  
 "url": "https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "FOX Family Movies",  
+"image": "https://middleeast-business.com/wp-content/uploads/2016/04/middle_east_business_FOX-Family-Movies.jpg",  
+"url": "https://www.we-play.tv/watching/tv/fox-family-movies",
 "playInNatPlayer": "true"
 },
 {
@@ -247,6 +376,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Red by HBO",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",  
+"url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "AXN HD",
 "image": "https://png.pngitem.com/pimgs/s/334-3348608_axn-hd-logo-2015-axn-logo-png-transparent.png",
 "url": "https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8",
@@ -280,6 +415,13 @@
 "name": "Star Chinese Movies",  
 "image": "https://www.nowtv.now.com/media/logo/139-wbg-e.png",  
 "url": "https://we-play.tv/watching/tv/star-chinese-movies",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Star Chinese Channel",  
+"image": "https://cms.cignal.tv/Upload/Images/Star-Chinese.png",  
+"url": "https://www.we-play.tv/watching/tv/star-chinese-channel",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
@@ -410,6 +552,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "BBC Earth",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=52",
+"playInNatPlayer": "true"
+},
+{
 "name": "Love Nature",
 "image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
 "url": "https://we-play.tv/watching/tv/lovenature-4k",
@@ -422,6 +570,14 @@
 "url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
 "playInNatPlayer": "true"
 },
+{
+"name": "Science Channel",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=114",
+"playInNatPlayer": "true"
+},
+
+
 {
 "name": "Asian Food Network",
 "image": "https://www.we-play.tv//uploads/posters/asian-food-channel-poster1602705524.jpeg",
@@ -828,6 +984,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Fox Sports News Australia",
+"image": "https://www.img.in.th/images/8d3ad78d93e857bd8f479f5ea2ef6d65.jpg",
+"url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "Bein Sports 1 TH",
 "image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
 "url": "https://www.we-play.tv/watching/tv/bein-sports-1",
@@ -860,6 +1022,18 @@
 "image": "https://ball8k.com/stream/img_ch/20200923165428_beinsportsarabia3hd.jpg",  
 "url": "https://ball8k.com/m/ch.php?stream=beinsportsarabia3hd",
 "referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 1",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-07-051537.jpg",  
+"url": "https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eurosport 2",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-07-051552.jpg",  
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -993,14 +1167,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Sportklub4 Slovenia",
-"image": "https://ball8k.com/stream/img_ch/20200923170720_sportklub4slovenia.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=sportklub4slovenia",
+"name": "CMORE LIVE HD",
+"image": "https://ball8k.com/stream/img_ch/20200923165706_cmorelivehd.jpg",
+"url": "https://ball8k.com/m/ch.php?stream=cmorelivehd",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "C More football",
+"name": "CMORE football",
 "image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
 "url": "https://ball8k.com/m/ch.php?stream=cmorefootball",
 "referer": "https://ball8k.com/",
@@ -1042,7 +1216,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "MLB Network-สำรอง",
+"name": "NFL Network",
 "image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/nfln-logo-dark.png",
 "url": "https://ustvgo.tv/nfl-network-live-free/",
 "referer": "https://ustvgo.tv/",
@@ -1065,72 +1239,6 @@
 "image": "https://a.jsrdn.com/hls/2/world-poker-tour/thumbv_20200812_214157.jpg",
 "url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/f78dd87f-118d-46b5-abb4-f4633460acf8/2.m3u8",
 "playInNatPlayer": "tot"
-},
-{
-"name": "Cartoon Club",  
-"image": "https://tv.guchill.com/images/img_tv/tv/ch67.gif",  
-"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Boomerang",  
-"image": "https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",  
-"url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Disney Channel TH",  
-"image": "https://lumiere-a.akamaihd.net/v1/images/tv-tile-disneychannel-2017_d6596f95.png?region=0,0,540,405&width=320",  
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=86",
-"playInNatPlayer": "true"
-},
-{
-"name": "Aniplus",  
-"image": "https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg",  
-"url": "https://www.we-play.tv/watching/tv/aniplus",
-"playInNatPlayer": "true"
-},
-{
-"name": "Cartoon Network",  
-"image": "https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",  
-"url": "https://www.we-play.tv/watching/tv/cartoon-network",
-"playInNatPlayer": "true"
-},
-{
-"name": "Nickelodeon",  
-"image": "http://tvsmagazine.com/images/channels/sm_NICK.jpg",  
-"url": "https://www.we-play.tv/watching/tv/nickelodeon",
-"playInNatPlayer": "true"
-},
-{
-"name": "Baby TV",  
-"image": "https://www.logolynx.com/images/logolynx/s_2c/2c660238ffec78dde85554a81a5b3274.jpeg",  
-"url": "https://www.we-play.tv/watching/tv/babytv",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Spark Jump",  
-"image": "http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",  
-"url": "https://www.we-play.tv/watching/tv/true-spark-jump",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Spark Play",  
-"image": "http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",  
-"url": "https://we-play.tv/watching/tv/true-spark-play",
-"playInNatPlayer": "true"
-},
-{
-"name": "Toonee",  
-"image": "https://il.mahidol.ac.th/upload/img/2020-11-11-052323.png",  
-"url": "https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Animax",  
-"image": "https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",  
-"url": "http://203.154.177.124:8899/live/ch5/playlist.m3u8",
-"playInNatPlayer": "true"
 },
 {
 "name": "ABC NEWS",
@@ -1229,27 +1337,33 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CAT HD",
-"image": "https://il.mahidol.ac.th/upload/img/2020-09-20-062235.jpg",
-"url": "https://cdn6.goprimetime.info/feed/CAT/index.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "ฟ้าวันใหม่",
-"image": "https://il.mahidol.ac.th/upload/img/2020-10-08-072933.jpg",
-"url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "TPTV",
-"image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
-"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
 "name": "RS Mall",
 "image": "https://th-test-11.slatic.net/shop/366e252ff7d3653461d2c3cb8415b8cc.jpeg_200x200.jpg",
 "url": "http://stream.rs.co.th/sbd-hi/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "OShopping",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/OShopping.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=131",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Shopping",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/True_Shopping.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=197",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Select",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/True_Select.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=198",
+"playInNatPlayer": "true"
+},
+{
+"name": "JKN",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=133",
 "playInNatPlayer": "true"
 },
 
