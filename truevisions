@@ -6,13 +6,13 @@
 "stations": [
 {
 "name": "CH3 HD",
-"image": "https://mpics.mgronline.com/pics/Images/559000011619001.JPEG",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",
 "url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH5 HD",
-"image": "http://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png",
+"image": "https://mpics.mgronline.com/pics/Images/559000011619001.JPEG",
 "url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
 "playInNatPlayer": "tot"
 }, 
@@ -778,6 +778,12 @@
 {
 "name": "Fox Sports HD_สำรอง",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports HD_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
 "url": "https://ball8k.com/m/ch.php?stream=foxsport1",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
@@ -787,6 +793,12 @@
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
 "url": "https://www.we-play.tv/watching/tv/fox-sports-2",
 "referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 2_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -807,7 +819,12 @@
 "name": "Fox Sports 3_สำรอง",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
 "url": "https://ball8k.com/m/ch.php?stream=foxsport3",
-"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Fox Sports 3_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
+"url": "http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
