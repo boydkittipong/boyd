@@ -715,14 +715,14 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "T Sports Channe",
+"name": "T-Sports",
 "image": "http://thaiip.tv/tvlogo2/tsport.png",
 "url": "https://edge-n7.worldwidetv.club/nv9ERY1b5iUzusl47oP_cQ/1606561614/live-o33-th-abr/sd-tsports/liveorigin/sd-tsports_480/chunks.m3u8",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "tot"
 },
 {
-"name": "T-Sport",
+"name": "T-Sports",
 "image": "http://thaiip.tv/tvlogo2/tsport.png",
 "url": "http://61.19.18.239/live/tsport.sdp/chunklist_w2042959702.m3u8",
 "playInNatPlayer": "tot"
@@ -737,8 +737,21 @@
 {
 "name": "True Tennis_สำรอง",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
+"url": "https://edge-n3.worldwidetv.club/1soNzQCszr4BGuXpeiDlXw/1606562353/live-o33-th-abr/hd-tennis/liveorigin/hd-tennis_720/chunks.m3u8",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Tennis_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
 "url": "https://ball8k.com/m/ch.php?stream=truetennis",
 "referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Tennis_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=26",
 "playInNatPlayer": "true"
 },
 {
