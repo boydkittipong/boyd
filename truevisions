@@ -133,7 +133,13 @@
 {
 "name": "TGN",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/TGN.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=138",
+"url": "https://www.livedoomovies.com/02_TGN_480p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "JKN",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png",
+"url": "https://www.livedoomovies.com/02_JKN_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -175,7 +181,7 @@
 {
 "name": "Disney Channel TH",  
 "image": "https://lumiere-a.akamaihd.net/v1/images/tv-tile-disneychannel-2017_d6596f95.png?region=0,0,540,405&width=320",  
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=86",
+"url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -235,7 +241,7 @@
 {
 "name": "มังกร",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=208",
+"url": "https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -329,7 +335,7 @@
 {
 "name": "FOX Movies",  
 "image": "http://tvsmagazine.com/images/channels/sm_FMP.jpg",  
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=38",
+"url": "https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
@@ -447,7 +453,7 @@
 {
 "name": "Hits Movies",  
 "image": "https://hitstv.com/assets/logo-HITSMOVIES.png",  
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=234",
+"url": "https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -585,7 +591,7 @@
 {
 "name": "Science Channel",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=114",
+"url": "https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 
@@ -641,7 +647,7 @@
 {
 "name": "Premiere Football HD 1_สำรอง",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
+"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
@@ -666,7 +672,7 @@
 {
 "name": "Premiere Football HD 2",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=152",
+"url": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "tot"
 },
@@ -697,7 +703,7 @@
 {
 "name": "Premiere Football HD 3_สำรอง",
 "image": "https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
+"url": "https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -721,7 +727,7 @@
 {
 "name": "Premiere Football HD 4_สำรอง",
 "image": "https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=154",
+"url": "https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -739,7 +745,7 @@
 {
 "name": "Premiere Football HD 5_สำรอง",
 "image": "https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=155",
+"url": "https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -765,7 +771,7 @@
 {
 "name": "True Sport HD_สำรอง",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=22",
+"url": "https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -801,12 +807,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sport HD 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=24",
-"playInNatPlayer": "true"
-},
-{
 "name": "True Sport 2",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
 "url": "https://we-play.tv/watching/tv/true-sports-2",
@@ -823,7 +823,7 @@
 {
 "name": "True Sport 2_สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=31",
+"url": "https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -836,7 +836,7 @@
 {
 "name": "True Sport 5_สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=32",
+"url": "https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -856,7 +856,7 @@
 {
 "name": "True Sport 6_สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=33",
+"url": "https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -876,7 +876,7 @@
 {
 "name": "True Sport 7_สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=60",
+"url": "https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -911,12 +911,6 @@
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
 "url": "https://ball8k.com/m/ch.php?stream=truetennis",
 "referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Tennis_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=26",
 "playInNatPlayer": "true"
 },
 {
@@ -1208,30 +1202,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CMORE LIVE HD",
-"image": "https://ball8k.com/stream/img_ch/20200923165706_cmorelivehd.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=cmorelivehd",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "CMORE football",
 "image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=cmorefootball",
+"url": "https://node11.cloud-streaming.com/ball8k_t4/cmorefootball/chunks.m3u8?nimblesessionid=1141257&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAyOjQxOjMwIFBNJmhhc2hfdmFsdWU9MENjL1dHREFnb2paaERSNXdhak51Zz09JnZhbGlkbWludXRlcz0xJmlkPTUwOTQzOQ==",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Eirsport1",
-"image": "https://ball8k.com/stream/img_ch/20200923165802_eirsport1.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=eirsport1",
+"name": "CMORE HD",
+"image": "https://ball8k.com/stream/img_ch/20200923165706_cmorelivehd.jpg",
+"url": "https://node11.cloud-streaming.com/ball8k_t4/cmorelivehd/chunks.m3u8?nimblesessionid=1141757&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAyOjQ0OjE3IFBNJmhhc2hfdmFsdWU9RGs4bEIwd1dDREp2S3J0blFjRnB5Zz09JnZhbGlkbWludXRlcz0xJmlkPTczMzU3NQ==",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Novasport",
 "image": "https://ball8k.com/stream/img_ch/20200923170407_Nova_Sport.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=novasport",
+"url": "https://node11.cloud-streaming.com/ball8k_t4/novasport/chunks.m3u8?nimblesessionid=1139799&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAyOjM1OjI4IFBNJmhhc2hfdmFsdWU9b21WZmxXSjhLV3BCbHd2R1g1QzFuUT09JnZhbGlkbWludXRlcz0xJmlkPTkxMjc0Mg==",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
@@ -1413,36 +1400,7 @@
 "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
 "playInNatPlayer": "true"
 },
-{
-"name": "RS Mall",
-"image": "https://th-test-11.slatic.net/shop/366e252ff7d3653461d2c3cb8415b8cc.jpeg_200x200.jpg",
-"url": "http://stream.rs.co.th/sbd-hi/index.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "OShopping",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/OShopping.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=131",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Shopping",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/True_Shopping.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=197",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Select",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/True_Select.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=198",
-"playInNatPlayer": "true"
-},
-{
-"name": "JKN",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png",
-"url": "https://www.doomovie-hd.com/?r=tv_view&id=133",
-"playInNatPlayer": "true"
-},
+
 
 
 
