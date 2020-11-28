@@ -6,7 +6,7 @@
 "stations": [
 {
 "name": "CH3 HD",
-"image": "https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",
+"image": "https://mpics.mgronline.com/pics/Images/559000011619001.JPEG",
 "url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
@@ -110,12 +110,6 @@
 "name": "PPTV HD",
 "image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",
 "url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "T-Sport",
-"image": "http://thaiip.tv/tvlogo2/tsport.png",
-"url": "http://61.19.18.239/live/tsport.sdp/chunklist_w2042959702.m3u8",
 "playInNatPlayer": "tot"
 },
 {
@@ -722,9 +716,15 @@
 },
 {
 "name": "T Sports Channe",
-"image": "https://overseer.blackboxsys.net/images/png/sd-tsports.png",
+"image": "http://thaiip.tv/tvlogo2/tsport.png",
 "url": "https://edge-n7.worldwidetv.club/nv9ERY1b5iUzusl47oP_cQ/1606561614/live-o33-th-abr/sd-tsports/liveorigin/sd-tsports_480/chunks.m3u8",
 "referer": "https://dooball66.com/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "T-Sport",
+"image": "http://thaiip.tv/tvlogo2/tsport.png",
+"url": "http://61.19.18.239/live/tsport.sdp/chunklist_w2042959702.m3u8",
 "playInNatPlayer": "tot"
 },
 {
