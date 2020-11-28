@@ -2,7 +2,7 @@
 "name": "truevisions",
 "author": "ฺPLATINUM_HD",
 "image": "https://lh3.googleusercontent.com/proxy/tREKBGC3PDzroWUi5K152QWgMi-4neU0aDLSfW1lGYTPknNN0-c__UKdw9fCc4wzdyJ6HqZAjXA_AFSP0w4EaC7YEcI_QgKewVYQ23n5LzeCfEMwQs3P-G3c3A3I4LNZTAV0",
-"url": "https://pastebin.com/1u4AXxgS",
+"url": "http://tiny.cc/truevisions",
 "stations": [
 {
 "name": "CH3 HD",
@@ -108,13 +108,13 @@
 },
 {
 "name": "PPTV HD",
-"image": "http://thaiip.tv/tvlogo2/tsport.png",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",
 "url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "T-Sport",
-"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",
+"image": "http://thaiip.tv/tvlogo2/tsport.png",
 "url": "http://61.19.18.239/live/tsport.sdp/chunklist_w2042959702.m3u8",
 "playInNatPlayer": "tot"
 },
@@ -470,7 +470,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Premiere Football HD สำรอง",
+"name": "Premiere Football HD",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
 "url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
 "referer": "https://we-play.tv/",
@@ -479,7 +479,7 @@
 {
 "name": "Premiere Football HD 1_สำรอง",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
-"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=151",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
@@ -947,12 +947,6 @@
 "name": "Animax",  
 "image": "https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",  
 "url": "http://203.154.177.124:8899/live/ch5/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "NJPW World",  
-"image": "https://www.njpw1972.com/wp-content/uploads/2017/03/world.png",  
-"url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:hlscat.com",
 "playInNatPlayer": "true"
 },
 {
