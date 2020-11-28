@@ -150,14 +150,26 @@
 },
 {
 "name": "Cartoon Club",  
-"image": "https://tv.guchill.com/images/img_tv/tv/ch67.gif",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F21%2Fa01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png&w=320&h=240",  
 "url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Club สำรอง",  
+"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F21%2Fa01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png&w=320&h=240",  
+"url": "https://www.we-play.tv/watching/tv/cartoon-club",
 "playInNatPlayer": "true"
 },
 {
 "name": "Boomerang",  
 "image": "https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",  
 "url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney XD",  
+"image": "https://i1.adis.ws/i/dna/VC400026_1_image01?fmt=jpg&bg=rgb(255,255,255)&qlt=100&w=500&h=500",  
+"url": "https://www.we-play.tv/watching/tv/disney-xd",
 "playInNatPlayer": "true"
 },
 {
@@ -198,7 +210,7 @@
 },
 {
 "name": "True Spark Play",  
-"image": "http://tvsmagazine.com/images/channels/sm_SPKJMP.jpg",  
+"image": "https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",  
 "url": "https://we-play.tv/watching/tv/true-spark-play",
 "playInNatPlayer": "true"
 },
@@ -911,6 +923,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "ATP tennis",
+"image": "https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",
+"url": "http://203.154.243.89:11739/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tennis channel plus",
+"image": "https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png",
+"url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Tennis channel",
+"image": "https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png",
+"url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
+"playInNatPlayer": "true"
+}
+{
 "name": "Olympic Channel",
 "image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/oly.jpg",
 "url": "https://ustvgo.tv/olympic-channel/",
@@ -1078,29 +1108,43 @@
 {
 "name": "Skysports premiere",
 "image": "https://ball8k.com/stream/img_ch/20200923170647_skysportpremiere.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=skysportpremiere",
-"referer": "https://ball8k.com/",
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Skysports football",
 "image": "https://ball8k.com/stream/img_ch/20200923170612_skysportfootball.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=skysportfootball",
-"referer": "https://ball8k.com/",
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "SkySports Main Event",
+"image": "https://archive.org/services/img/SkySportsMainEvent_201708",
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Skysports arena",
 "image": "https://ball8k.com/stream/img_ch/20201020150457_skysportarena.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=skysportarena",
-"referer": "https://ball8k.com/",
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Skysports NFL",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-10-040800.jpg",
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Skysports F1",
+"image": "https://sport-tv-guide.live/images/stations/a359.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Skysports golf",
 "image": "https://ball8k.com/stream/img_ch/20200923170627_skysportgolf.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=skysportgolf",
-"referer": "https://ball8k.com/",
+"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 }, 
 {
@@ -1202,10 +1246,40 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Golf Channel",
+"image": "https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",
+"url": "http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "NBA TV",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",
 "url": "https://we-play.tv/watching/tv/nba-tv",
 "referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Thoroughbred Central",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-11-030611.jpg",
+"url": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Racing 1",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-11-030623.jpg",
+"url": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Sky Racing 2",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-11-030632.jpg",
+"url": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "GFS Hi Fight",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-10-025443.jpg",
+"url": "http://203.154.243.89:1422",
 "playInNatPlayer": "true"
 },
 {
@@ -1232,6 +1306,12 @@
 "name": "World Of Free sports",
 "image": "http://www.solarentertainmentcorp.com/solar_uploads/show_banners/World_of_Freesports_-_Logo.jpg",
 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/f758a438-4262-48f8-b627-dc3b6f46b2c1/2.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Ten sports",
+"image": "https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png",
+"url": "http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8",
 "playInNatPlayer": "tot"
 },
 {
