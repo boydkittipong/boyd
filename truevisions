@@ -514,13 +514,6 @@
 {
 "name": "Premiere Football HD 2_สำรอง",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
-"url": "https://we-play.tv/watching/tv/true-premier-football-hd-2",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 2_สำรอง",
-"image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
 "url": "http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -534,6 +527,24 @@
 "name": "Premiere Football HD 2_สำรอง",
 "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
 "url": "http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 3",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",
+"url": "http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Premiere Football HD 3_สำรอง",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=153",
+"playInNatPlayer": "true"
+},
+{
+"name": "Premiere Football HD 3_สำรอง",
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",
+"url": "http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
