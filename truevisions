@@ -133,7 +133,7 @@
 {
 "name": "TGN",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/TGN.png",
-"url": "https://www.livedoomovies.com/02_TGN_480p/chunklist.m3u8",
+"url": "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -1294,7 +1294,7 @@
 },
 {
 "name": "World Of Free sports",
-"image": "http://www.solarentertainmentcorp.com/solar_uploads/show_banners/World_of_Freesports_-_Logo.jpg",
+"image": "https://d14c63magvk61v.cloudfront.net/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png",
 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/f758a438-4262-48f8-b627-dc3b6f46b2c1/2.m3u8",
 "playInNatPlayer": "tot"
 },
@@ -1306,8 +1306,14 @@
 },
 {
 "name": "World Poker Tour",
-"image": "https://a.jsrdn.com/hls/2/world-poker-tour/thumbv_20200812_214157.jpg",
+"image": "https://a.jsrdn.com/hls/2/world-poker-tour/logo_20200812_214158_70.png",
 "url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/f78dd87f-118d-46b5-abb4-f4633460acf8/2.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "United Fight Alliance",
+"image": "https://a.jsrdn.com/hls/22778/united-fight-alliance-1/logo_20201015_215118_70.png",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/136a3116-9ba1-4b3e-accc-c869b6be9559/2.m3u8",
 "playInNatPlayer": "tot"
 },
 {
