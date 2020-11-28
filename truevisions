@@ -610,6 +610,44 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "True Sport HD 2",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD_2_สำรอง",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",
+"url": "https://ball8k.com/m/ch.php?stream=truesporthd2",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 3_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://we-play.tv/watching/tv/true-sports-hd-3",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 3_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://ball8k.com/m/ch.php?stream=truesporthd3",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport HD 3_สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=24",
+"playInNatPlayer": "true"
+},
+{
 "name": "True Sport 2",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
 "url": "https://we-play.tv/watching/tv/true-sports-2",
@@ -624,17 +662,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sport HD 3",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-"url": "https://we-play.tv/watching/tv/true-sports-hd-3",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesporthd3",
-"referer": "https://ball8k.com/",
+"name": "True Sport 2_สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=31",
 "playInNatPlayer": "true"
 },
 {
@@ -642,6 +672,12 @@
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
 "url": "https://ball8k.com/m/ch.php?stream=truesport5",
 "referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 5_สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=32",
 "playInNatPlayer": "true"
 },
 {
@@ -659,16 +695,35 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "True Sport 6_สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=33",
+"playInNatPlayer": "true"
+},
+{
 "name": "True Sport 7",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.we-play.tv/watching/tv/true-sports-7",
+"referer": "https://www.we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Sport 7_สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
 "url": "https://ball8k.com/m/ch.php?stream=truesport7",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
+"name": "True Sport 7_สำรอง",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=60",
+"playInNatPlayer": "true"
+},
+{
 "name": "T Sports Channe",
 "image": "https://overseer.blackboxsys.net/images/png/sd-tsports.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmcb4rf66f",
+"url": "https://edge-n7.worldwidetv.club/nv9ERY1b5iUzusl47oP_cQ/1606561614/live-o33-th-abr/sd-tsports/liveorigin/sd-tsports_480/chunks.m3u8",
 "referer": "https://dooball66.com/",
 "playInNatPlayer": "tot"
 },
