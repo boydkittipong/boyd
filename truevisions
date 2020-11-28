@@ -1306,15 +1306,45 @@
 },
 {
 "name": "World Poker Tour",
-"image": "https://a.jsrdn.com/hls/2/world-poker-tour/logo_20200812_214158_70.png",
+"image": "https://a.jsrdn.com/hls/2/world-poker-tour/thumbv_20200812_214157.jpg",
 "url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/f78dd87f-118d-46b5-abb4-f4633460acf8/2.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "United Fight Alliance",
-"image": "https://a.jsrdn.com/hls/22778/united-fight-alliance-1/logo_20201015_215118_70.png",
+"image": "https://a.jsrdn.com/hls/22778/united-fight-alliance-1/thumbv_20201015_215117.jpg",
 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/136a3116-9ba1-4b3e-accc-c869b6be9559/2.m3u8",
 "playInNatPlayer": "tot"
+},
+{
+"name": "Dot Esports",
+"image": "https://lh3.googleusercontent.com/9H8yYMJMXHrvD7k1RC-c0nSgpwhDbCtW4218coPdtfM8tJBjoZXOjytTE89ILWeWOQ",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/0e0f9fea-81e4-4418-8d6c-712b72c44100/2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Whistle TV",
+"image": "https://www.tubefilter.com/wp-content/uploads/2019/10/whistle-tv.jpg",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/whistle/941ec372-25fa-4f7b-907d-6d4ddaa7dba6/3.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "FloSports High Impact",
+"image": "https://www.flosports.tv/wp-content/uploads/2020/05/FloSports-Secondary-igniteblack.png",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/37d0360e-6415-4185-ad44-a3611c39bfa6/2.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Hard Knocks",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",
+"url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/4a6fdedf-d3a3-4ac2-99b3-f0b32c52ef81/1.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Ski TV",
+"image": "https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png",
+"url": "https://content-aapm1.uplynk.com/channel/cf30c9fc75cd42a6892e696818b0d19a/e.m3u8?ad=ss_skitv&ad.w=1920&h=1080&cb=rv0a&ip=101.108.235.49&ua=Mozilla%2F5.0%20(Windows%20NT%206.3%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F87.0.4280.66%20Safari%2F537.36&app_bundle=&app_name=DistroTV&app_store_url=&did=dd4dcd46-2333-4285-bbad-b24aa1aedb96&pod_max_dur=120&us_privacy=0&pbs=9de1141cf64741fea298564f2bf4e619",
+"playInNatPlayer": "true"
 },
 {
 "name": "ABC NEWS",
@@ -1412,6 +1442,25 @@
 "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
 "playInNatPlayer": "true"
 },
+{
+"name": "Drone Channel",
+"image": "https://a.jsrdn.com/hls/22895/drone-channel/thumbv_20201103_010327.jpg",
+"url": "https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/97246c8d-c81d-471a-9c4a-0281a88f6e03/3.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Kaloopy",
+"image": "https://a.jsrdn.com/hls/22868/kaloopy/thumbv_20200609_231840.jpg",
+"url": "https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/e4b1b6d9-b991-445d-b137-a312aabcf62d/0.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cooking Panda",
+"image": "https://lh3.googleusercontent.com/ltLOkMFEQgAB2NPWxPEQ4wogxFCIeazryD17OqMSNgAB1rAKYxv5GkPP9dOOLWL8UNTk",
+"url": "https://stream.ads.ottera.tv/cl/1ad99d2f-8688-4e52-b7a9-3a8b011a5cdc/1280x720_2770742_9.m3u8",
+"playInNatPlayer": "true"
+},
+
 
 
 
