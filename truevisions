@@ -1078,13 +1078,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CHELSEATV",
-"image": "https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png",
-"url": "https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "FC BAYERN.TV",  
 "image": "https://www.cpmonitor.de/_data/Fcb_TV_logo_2009.jpg",  
 "url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
@@ -1208,23 +1201,44 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CMORE football",
-"image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
-"url": "https://node11.cloud-streaming.com/ball8k_t4/cmorefootball/chunks.m3u8?nimblesessionid=1141257&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAyOjQxOjMwIFBNJmhhc2hfdmFsdWU9MENjL1dHREFnb2paaERSNXdhak51Zz09JnZhbGlkbWludXRlcz0xJmlkPTUwOTQzOQ==",
+"name": "Digisport1",
+"image": "https://ball8k.com/stream/img_ch/20200923165715_digisport1romania.jpg",
+"url": "https://ball8k.com/m/ch.php?stream=digisport1romania",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "CMORE HD",
-"image": "https://ball8k.com/stream/img_ch/20200923165706_cmorelivehd.jpg",
-"url": "https://node11.cloud-streaming.com/ball8k_t4/cmorelivehd/chunks.m3u8?nimblesessionid=1141757&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAyOjQ0OjE3IFBNJmhhc2hfdmFsdWU9RGs4bEIwd1dDREp2S3J0blFjRnB5Zz09JnZhbGlkbWludXRlcz0xJmlkPTczMzU3NQ==",
+"name": "Digisport2",
+"image": "https://ball8k.com/stream/img_ch/20200923165720_digisport2romania.jpg",
+"url": "https://ball8k.com/m/ch.php?stream=digisport2romania",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Digisport3",
+"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport3romania.png",
+"url": "https://ball8k.com/m/ch.php?stream=digisport3romania",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cmorefootball",
+"image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
+"url": "https://ball8k.com/m/ch.php?stream=cmorefootball",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Eirsport1",
+"image": "https://ball8k.com/stream/img_ch/20200923165802_eirsport1.jpg",
+"url": "https://ball8k.com/m/ch.php?stream=eirsport1",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Novasport",
 "image": "https://ball8k.com/stream/img_ch/20200923170407_Nova_Sport.jpg",
-"url": "https://node11.cloud-streaming.com/ball8k_t4/novasport/chunks.m3u8?nimblesessionid=1139799&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAyOjM1OjI4IFBNJmhhc2hfdmFsdWU9b21WZmxXSjhLV3BCbHd2R1g1QzFuUT09JnZhbGlkbWludXRlcz0xJmlkPTkxMjc0Mg==",
+"url": "https://ball8k.com/m/ch.php?stream=novasport",
 "referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
