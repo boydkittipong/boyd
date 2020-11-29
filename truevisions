@@ -1222,6 +1222,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Premiersports1",
+"image": "https://ball8k.com/stream/img_ch/20200923170434_premiersports1.jpg",
+"url": "https://ball8k.com/m/ch.php?stream=premiersports1",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Cmorefootball",
 "image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
 "url": "https://ball8k.com/m/ch.php?stream=cmorefootball",
