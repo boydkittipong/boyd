@@ -1332,12 +1332,6 @@
 "playInNatPlayer": "tot"
 },
 {
-"name": "SKWAD",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhHsNZ.png",
-"url": "https://stream.ads.ottera.tv/cl/eb451393-3c43-4ce8-bf25-d68a844876c6/1280x720_2772133_8.m3u8",
-"playInNatPlayer": "tot"
-},
-{
 "name": "United Fight Alliance",
 "image": "https://a.jsrdn.com/hls/22778/united-fight-alliance-1/thumbv_20201015_215117.jpg",
 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/136a3116-9ba1-4b3e-accc-c869b6be9559/2.m3u8",
@@ -1353,12 +1347,6 @@
 "name": "Hard Knocks",
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",
 "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/4a6fdedf-d3a3-4ac2-99b3-f0b32c52ef81/1.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Channel Fight",
-"image": "https://a.jsrdn.com/hls/22882/channel-fight/thumbv_20200930_055750.jpg",
-"url": "https://stream-us-east-1.getpublica.com/cl/bcd29fb1-49f9-4850-a5e7-cb6047f518ae/1302x720_2637590_4.m3u8",
 "playInNatPlayer": "true"
 },
 {
