@@ -318,7 +318,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True Music HD",  
+"name": "True Music",  
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tmusic.png",  
 "url": "https://www.we-play.tv/watching/tv/true-music-hd",
 "referer": "https://we-play.tv/",
@@ -379,7 +379,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "HBO HD",  
+"name": "HBO",  
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",  
 "url": "https://we-play.tv/watching/tv/hbo-hd",
 "referer": "https://we-play.tv/",
@@ -406,7 +406,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "AXN HD",
+"name": "AXN",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",
 "url": "https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
