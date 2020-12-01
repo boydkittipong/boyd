@@ -7,871 +7,231 @@
 
 
 {
-"name": "Premiere Football HD",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
-"url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 1_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
-"url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 1_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
-"url": "http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 1_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 1_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
-"url": "http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 2",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
-"url": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
+"name": "CH3",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "Premiere Football HD 2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
-"url": "http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",
-"url": "http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 3",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",
-"url": "http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8",
+"name": "CH5",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
+"url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
 "playInNatPlayer": "tot"
-},
-{
-"name": "Premiere Football HD 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",
-"url": "https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",
-"url": "http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 4",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
-"url": "http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Premiere Football HD 4_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
-"url": "http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 4_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
-"url": "https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 5",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",
-"url": "http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "Premiere Football HD 5_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",
-"url": "http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiere Football HD 5_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",
-"url": "https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
-"url": "https://we-play.tv/watching/tv/true-sports-hd",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesporthd",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
-"url": "https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 2",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD_2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesporthd2",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 3",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-"url": "https://we-play.tv/watching/tv/true-sports-hd-3",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesporthd3",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 2",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://we-play.tv/watching/tv/true-sports-2",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 2_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 2_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 5",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport5",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 5_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 6",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://www.we-play.tv/watching/tv/true-sports-6",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 6_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport6",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 6_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 7",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://www.we-play.tv/watching/tv/true-sports-7",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 7_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport7",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 7_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "T-Sports",
-"image": "http://thaiip.tv/tvlogo2/tsport.png",
-"url": "https://edge-n7.worldwidetv.club/nv9ERY1b5iUzusl47oP_cQ/1606561614/live-o33-th-abr/sd-tsports/liveorigin/sd-tsports_480/chunks.m3u8",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "tot"
-},
-{
-"name": "T-Sports",
-"image": "http://thaiip.tv/tvlogo2/tsport.png",
-"url": "http://61.19.18.239/live/tsport.sdp/chunklist_w2042959702.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "True Tennis",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
-"url": "https://we-play.tv/watching/tv/true-tennis",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Tennis_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
-"url": "https://edge-n3.worldwidetv.club/1soNzQCszr4BGuXpeiDlXw/1606562353/live-o33-th-abr/hd-tennis/liveorigin/hd-tennis_720/chunks.m3u8",
-"referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Tennis_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
-"url": "https://ball8k.com/m/ch.php?stream=truetennis",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "ATP tennis",
-"image": "https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",
-"url": "http://203.154.243.89:11739/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Tennis channel plus",
-"image": "https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png",
-"url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Tennis channel",
-"image": "https://cdn.mos.cms.futurecdn.net/nnbWtFDt8Y9wuHdR9AJxCF.png",
-"url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Olympic Channel",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2020/09/oly.jpg",
-"url": "https://ustvgo.tv/olympic-channel/",
-"referer": "https://ustvgo.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "WWE Network",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/09/wwe-269x151.png",
-"url": "https://ustvgo.tv/wwe-network/",
-"referer": "https://ustvgo.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports HD",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-hd",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports HD_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports HD_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
-"url": "https://ball8k.com/m/ch.php?stream=foxsport1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 2",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-2",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
-"url": "https://ball8k.com/m/ch.php?stream=foxsport2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-3",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
-"url": "https://ball8k.com/m/ch.php?stream=foxsport3",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
-"url": "http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports News Australia",
-"image": "https://www.img.in.th/images/8d3ad78d93e857bd8f479f5ea2ef6d65.jpg",
-"url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 1 TH",
-"image": "https://ballherehere.com/wp-content/uploads/2019/08/g2p4ejvka9wkscc400.png",
-"url": "https://www.we-play.tv/watching/tv/bein-sports-1",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 2 TH",  
-"image": "https://ballherehere.com/wp-content/uploads/2019/08/bein-sports-2-1.png",  
-"url": "https://www.we-play.tv/watching/tv/bein-sports-2",
-"referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 1",  
-"image": "https://ball8k.com/stream/img_ch/20200923165313_bein1.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=bein1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 2",  
-"image": "https://ball8k.com/stream/img_ch/20200923165330_bein2.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=bein2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 3",  
-"image": "https://ball8k.com/stream/img_ch/20200923165428_beinsportsarabia3hd.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=beinsportsarabia3hd",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Eurosport 1",  
-"image": "https://il.mahidol.ac.th/upload/img/2020-09-07-051537.jpg",  
-"url": "https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Eurosport 2",  
-"image": "https://il.mahidol.ac.th/upload/img/2020-09-07-051552.jpg",  
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "LFCTV",
-"image": "https://static.tvmaze.com/uploads/images/large_landscape/32/81235.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=lfctv",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MUTV",
-"image": "https://2.bp.blogspot.com/-3ncDztsWCa4/VjjB-cmYu4I/AAAAAAAACx0/WTkGikhby2s/s1600/tv-tv-channels-sports-channels-a13.jpg",
-"url": "https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "FC BAYERN.TV",  
-"image": "https://www.cpmonitor.de/_data/Fcb_TV_logo_2009.jpg",  
-"url": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Galatasaray TV",  
-"image": "https://i1.wp.com/www.sporkolik.net/wp-content/uploads/2018/05/gs-tv-artik-sifresiz.jpg?fit=900%2C451",  
-"url": "https://galatasaray.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Real Madrid TV",  
-"image": "https://png.pngitem.com/pimgs/s/291-2916625_logo-real-madrid-png-transparent-png.png",  
-"url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Skysports premiere",
-"image": "https://ball8k.com/stream/img_ch/20200923170647_skysportpremiere.jpg",
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Skysports football",
-"image": "https://ball8k.com/stream/img_ch/20200923170612_skysportfootball.jpg",
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "SkySports Main Event",
-"image": "https://archive.org/services/img/SkySportsMainEvent_201708",
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Skysports arena",
-"image": "https://ball8k.com/stream/img_ch/20201020150457_skysportarena.jpg",
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Skysports NFL",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY_F38A1Zp_gSMU0ij1KqNAqn3QQTG-9teiA&usqp=CAU",
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Skysports F1",
-"image": "https://www.pngkit.com/png/detail/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png",
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Skysports golf",
-"image": "https://ball8k.com/stream/img_ch/20200923170627_skysportgolf.jpg",
-"url": "https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8",
-"playInNatPlayer": "true"
 }, 
 {
-"name": "Supersport1",
-"image": "https://ball8k.com/stream/img_ch/20200923170817_supersport1al.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=supersport1al",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Supersport2",
-"image": "https://ball8k.com/stream/img_ch/20200923170821_supersport2al.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=supersport2al",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport1",
-"image": "https://ball8k.com/stream/img_ch/20200923165446_btsport1.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsport1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport1_สำรอง",
-"image": "https://ball8k.com/stream/img_ch/20200923165446_btsport1.jpg",
-"url": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport2",
-"image": "https://ball8k.com/stream/img_ch/20200923165452_btsport2.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsport2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport2_สำรอง",
-"image": "https://ball8k.com/stream/img_ch/20200923165452_btsport2.jpg",
-"url": "https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport3",
-"image": "https://ball8k.com/stream/img_ch/20200923165502_btsport3.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsport3",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport ESPN",
-"image": "https://ball8k.com/stream/img_ch/20200923165513_btsportespn.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsportespn",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "canal11pt",
-"image": "https://ball8k.com/stream/img_ch/20201009154532_canal11pt.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=canal11pt",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Digisport1",
-"image": "https://ball8k.com/stream/img_ch/20200923165715_digisport1romania.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=digisport1romania",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Digisport2",
-"image": "https://ball8k.com/stream/img_ch/20200923165720_digisport2romania.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=digisport2romania",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Digisport3",
-"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport3romania.png",
-"url": "https://ball8k.com/m/ch.php?stream=digisport3romania",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiersports1",
-"image": "https://ball8k.com/stream/img_ch/20200923170434_premiersports1.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=premiersports1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Cmorefootball",
-"image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=cmorefootball",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Eirsport1",
-"image": "https://ball8k.com/stream/img_ch/20200923165802_eirsport1.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=eirsport1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Novasport",
-"image": "https://ball8k.com/stream/img_ch/20200923170407_Nova_Sport.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=novasport",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Golf Channel",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",
-"url": "https://we-play.tv/watching/tv/golf-channel",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Golf Channel",
-"image": "https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",
-"url": "http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBA TV",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",
-"url": "https://we-play.tv/watching/tv/nba-tv",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Thoroughbred Central",
-"image": "https://il.mahidol.ac.th/upload/img/2020-09-11-030611.jpg",
-"url": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Racing 1",
-"image": "https://il.mahidol.ac.th/upload/img/2020-09-11-030623.jpg",
-"url": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Sky Racing 2",
-"image": "https://il.mahidol.ac.th/upload/img/2020-09-11-030632.jpg",
-"url": "https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "GFS Hi Fight",
-"image": "https://il.mahidol.ac.th/upload/img/2020-11-10-025443.jpg",
-"url": "http://203.154.243.89:1422",
-"playInNatPlayer": "true"
-},
-{
-"name": "Motor Vision",
-"image": "https://lh3.googleusercontent.com/proxy/F3H6iT1pJB8NB5wjEhi8AvHWTnEwUSigN6WE1e2YhB9MzfO-MeA_onYldVlGlYCeUs5VXoKwsIIMcL2WIK89UrOWFyHorl3d3GherEc_8MhuqbSUBi9T",
-"url": "https://www.we-play.tv/watching/tv/motor-vision",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "NFL Network",
-"image": "https://d6c4y8s5.stackpathcdn.com/wp-content/uploads/2019/01/nfln-logo-dark.png",
-"url": "https://ustvgo.tv/nfl-network-live-free/",
-"referer": "https://ustvgo.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Red Bull TV",
-"image": "https://i.imgur.com/A4GMBN6.png",
-"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+"name": "CH7",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
+"url": "https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "World Of Free sports",
-"image": "https://d14c63magvk61v.cloudfront.net/hls/22723/world-of-free-sports-tv/logo_20191213_002513.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/f758a438-4262-48f8-b627-dc3b6f46b2c1/2.m3u8",
+"name": "MCOT",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",
+"url": "https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "Ten sports",
-"image": "https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png",
-"url": "http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8",
+"name": "NBT",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",
+"url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Thai PBS",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",
+"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "World Poker Tour",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhHavN.png",
-"url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/f78dd87f-118d-46b5-abb4-f4633460acf8/2.m3u8",
+"name": "ไทยรัฐ TV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png",
+"url": "http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "SKWAD",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhHsNZ.png",
-"url": "https://stream.ads.ottera.tv/cl/eb451393-3c43-4ce8-bf25-d68a844876c6/1280x720_2772133_8.m3u8",
+"name": "TNN16",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",
+"url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "United Fight Alliance",
-"image": "https://a.jsrdn.com/hls/22778/united-fight-alliance-1/thumbv_20201015_215117.jpg",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/136a3116-9ba1-4b3e-accc-c869b6be9559/2.m3u8",
+"name": "NEW 18",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",
+"url": "https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "FloSports High Impact",
-"image": "https://www.flosports.tv/wp-content/uploads/2020/05/FloSports-Secondary-igniteblack.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/37d0360e-6415-4185-ad44-a3611c39bfa6/2.m3u8",
+"name": "Nation TV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png",
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Workpoint",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "true4U",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-24u.png",
+"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "GMM 25",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png",
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "CH8",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch8.png",
+"url": "https://cdn6.goprimetime.info/feed/ch8/index.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "MONO29",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mono.png",
+"url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "ONE 31",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png",
+"url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Amarin TV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png",
+"url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "PPTV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",
+"url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NEWS 1",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/NEWS1.png",
+"url": "http://news1.live14.com/stream/news1_hi.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Fan TV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",
+"url": "https://www.livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Hard Knocks",
-"image": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",
-"url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/4a6fdedf-d3a3-4ac2-99b3-f0b32c52ef81/1.m3u8",
+"name": "CAT HD",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-20-062235.jpg",
+"url": "https://cdn6.goprimetime.info/feed/CAT/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Channel Fight",
-"image": "https://a.jsrdn.com/hls/22882/channel-fight/thumbv_20200930_055750.jpg",
-"url": "https://stream-us-east-1.getpublica.com/cl/bcd29fb1-49f9-4850-a5e7-cb6047f518ae/1302x720_2637590_4.m3u8",
+"name": "TGN",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TGN.png",
+"url": "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "ChopperTown",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhVUGE.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/96801917-bf66-4f5c-b024-de932a984e7e/2.m3u8",
+"name": "JKN",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png",
+"url": "https://www.livedoomovies.com/02_JKN_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Motorcyclist",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhVxtk.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/73397e83-0e03-4f96-84ce-8d97e468bfbb/2.m3u8",
+"name": "ฟ้าวันใหม่",
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-08-072933.jpg",
+"url": "https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Cycleworld",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhV2Gy.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/358d3507-61ba-4203-bb55-cd68cae41c93/2.m3u8",
+"name": "TPTV",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TPTVLOGO.png",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "ABC NEWS",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",
-"url": "https://onvision.info/channels/abcnews.html",
+"name": "Cartoon Club",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
+"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "BBC News",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png",
-"url": "https://easyview.eu/watch.php?stream=nbcb",
+"name": "Cartoon Club สำรอง",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
+"url": "https://www.we-play.tv/watching/tv/cartoon-club",
 "playInNatPlayer": "true"
 },
 {
-"name": "CNN",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/300px-CNN_International_logo.svg.png",
-"url": "https://ustvgo.tv/cnn-live-streaming-free/",
+"name": "Boomerang",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png",  
+"url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "NBC NEWS",
-"image": "https://logodownload.org/wp-content/uploads/2020/06/nbc-logo-0.png",
-"url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8",
+"name": "Disney XD",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",  
+"url": "https://www.we-play.tv/watching/tv/disney-xd",
 "playInNatPlayer": "true"
 },
 {
-"name": "Al Jazeera",
-"image": "https://themaydan.com/wp-content/uploads/2018/02/aljazeera.jpg",
-"url": "https://live-hls-web-aje.getaj.net:443/AJE/01.m3u8",
+"name": "Disney Channel",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",  
+"url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Fox News",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/480px-Fox_News_Channel_logo.svg.png",
-"url": "https://ustvgo.tv/fox-news-live-streaming-free/",
+"name": "Aniplus",  
+"image": "https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg",  
+"url": "https://www.we-play.tv/watching/tv/aniplus",
 "playInNatPlayer": "true"
 },
 {
-"name": "CBSN",
-"image": "https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY400_.png",
-"url": "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/3c12d6ed-de76-4ab9-88cd-8b1d80a24e94:BRU/master.m3u8",
+"name": "Cartoon Network",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",  
+"url": "https://www.we-play.tv/watching/tv/cartoon-network",
 "playInNatPlayer": "true"
 },
 {
-"name": "Sky News",
-"image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",
-"url": "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8",
+"name": "Nickelodeon",  
+"image": "http://tvsmagazine.com/images/channels/sm_NICK.jpg",  
+"url": "https://www.we-play.tv/watching/tv/nickelodeon",
 "playInNatPlayer": "true"
 },
 {
-"name": "Euronews",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/480px-Euronews._2016_alternative_logo.png",
-"url": "https://euronews-en-p12-cdn.hexaglobe.net/7992ea2bbd223531218fc7b7ca8bb75e/5fa89768/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/playlist.m3u8",
+"name": "Baby TV",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png",  
+"url": "https://www.we-play.tv/watching/tv/babytv",
 "playInNatPlayer": "true"
 },
 {
-"name": "NHK World",
-"image": "https://mms.businesswire.com/media/20170929005029/en/614181/4/NHK_WORLD_TV_LOGO_webready.jpg",
-"url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u8",
+"name": "True Spark Jump",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png",  
+"url": "https://www.we-play.tv/watching/tv/true-spark-jump",
 "playInNatPlayer": "true"
 },
 {
-"name": "DW News",
-"image": "https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png",
-"url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on",
+"name": "True Spark Play",  
+"image": "https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",  
+"url": "https://we-play.tv/watching/tv/true-spark-play",
 "playInNatPlayer": "true"
 },
 {
-"name": "France 24",
-"image": "https://i.imgur.com/gDOEH0A.png",
-"url": "http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+"name": "Toonee",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-11-052323.png",  
+"url": "https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "Bloomberg TV",
-"image": "https://nowontv.info/img/bloomberg.png",
-"url": "https://onvision.info/channels/bloombergtv.html",
-"playInNatPlayer": "true"
-},
-{
-"name": "RT NEWS",
-"image": "https://seeklogo.com/images/R/rt-logo-C7591FA645-seeklogo.com.png",
-"url": "https://rt-news.secure.footprint.net/1103.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "The Weather Channel",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Weather_Channel_logo_1996-2005.svg/608px-The_Weather_Channel_logo_1996-2005.svg.png",
-"url": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "CHANNEL NEWS ASIA",
-"image": "https://il.mahidol.ac.th/upload/img/2020-09-28-014942.jpg",
-"url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Drone Channel",
-"image": "https://a.jsrdn.com/hls/22895/drone-channel/thumbv_20201103_010327.jpg",
-"url": "https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/97246c8d-c81d-471a-9c4a-0281a88f6e03/3.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Kaloopy",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhXP6P.png",
-"url": "https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/e4b1b6d9-b991-445d-b137-a312aabcf62d/0.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Travel Channel",
-"image": "https://cdn.realscreen.com/wp/wp-content/uploads/2020/01/Travel-Channel.jpg?c067c8",
-"url": "https://ustvgo.tv/travel-channel-live-free/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Cooking Panda",
-"image": "https://a.jsrdn.com/hls/22882/cooking-panda/thumbv_20201006_170137.jpg",
-"url": "https://stream.ads.ottera.tv/cl/299c4dda-8ff7-4f9e-9b84-392d9b1ed086/1280x720_2767603_6.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Trending",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhaZml.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/8fb1c633-06fa-4dfd-9b46-04bb2e490f5f/5.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Party",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhaqrQ.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/f6cd4a27-56df-4f21-8944-3b871ea53e50/5.m3u8",
+"name": "Animax",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",  
+"url": "http://203.154.177.124:8899/live/ch5/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 ]
