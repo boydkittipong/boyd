@@ -4,6 +4,8 @@
 "image": "https://www.img.in.th/images/09b70a36ac67832e7a2e114d7951f9b5.png",
 "url": "http://tiny.cc/truevisions",
 "stations": [
+
+
 {
 "name": "CH3",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",
@@ -1486,12 +1488,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Travel Channel",
-"image": "https://cdn.realscreen.com/wp/wp-content/uploads/2020/01/Travel-Channel.jpg?c067c8",
-"url": "https://ustvgo.tv/travel-channel-live-free/",
-"playInNatPlayer": "true"
-},
-{
 "name": "Cooking Panda",
 "image": "https://a.jsrdn.com/hls/22882/cooking-panda/thumbv_20201006_170137.jpg",
 "url": "https://stream.ads.ottera.tv/cl/299c4dda-8ff7-4f9e-9b84-392d9b1ed086/1280x720_2767603_6.m3u8",
@@ -1509,16 +1505,5 @@
 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/f6cd4a27-56df-4f21-8944-3b871ea53e50/5.m3u8",
 "playInNatPlayer": "true"
 },
-
-
-
-
-
-
-
-
-
- 
- 
 ]
 }
