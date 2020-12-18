@@ -1463,15 +1463,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Drone Channel",
-"image": "https://a.jsrdn.com/hls/22895/drone-channel/thumbv_20201103_010327.jpg",
-"url": "https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/97246c8d-c81d-471a-9c4a-0281a88f6e03/3.m3u8",
-"playInNatPlayer": "true"
-},
-{
 "name": "Kaloopy",
 "image": "https://sv1.picz.in.th/images/2020/12/01/jhXP6P.png",
-"url": "https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/e4b1b6d9-b991-445d-b137-a312aabcf62d/0.m3u8",
+"url": "https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/7c094cc6-ee3f-487c-ba83-74fcaf13f904/1.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -1480,17 +1474,6 @@
 "url": "https://ustvgo.tv/travel-channel-live-free/",
 "playInNatPlayer": "true"
 },
-{
-"name": "Trending",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhaZml.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/8fb1c633-06fa-4dfd-9b46-04bb2e490f5f/5.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Party",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhaqrQ.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/looptv/f6cd4a27-56df-4f21-8944-3b871ea53e50/5.m3u8",
-"playInNatPlayer": "true"
-},
+
 ]
 }
