@@ -1294,7 +1294,7 @@
 },
 {
 "name": "Motor Vision",
-"image": "https://lh3.googleusercontent.com/proxy/F3H6iT1pJB8NB5wjEhi8AvHWTnEwUSigN6WE1e2YhB9MzfO-MeA_onYldVlGlYCeUs5VXoKwsIIMcL2WIK89UrOWFyHorl3d3GherEc_8MhuqbSUBi9T",
+"image": "https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/motorvision-628x353.gif",
 "url": "https://www.we-play.tv/watching/tv/motor-vision",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -1329,42 +1329,6 @@
 "image": "https://sv1.picz.in.th/images/2020/12/01/jhHavN.png",
 "url": "https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/aa6ded0c-ffd4-41a8-a9c6-2293ad48bd53/2.m3u8",
 "playInNatPlayer": "tot"
-},
-{
-"name": "United Fight Alliance",
-"image": "https://a.jsrdn.com/hls/22778/united-fight-alliance-1/thumbv_20201015_215117.jpg",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/136a3116-9ba1-4b3e-accc-c869b6be9559/2.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "FloSports High Impact",
-"image": "https://www.flosports.tv/wp-content/uploads/2020/05/FloSports-Secondary-igniteblack.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/37d0360e-6415-4185-ad44-a3611c39bfa6/2.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Hard Knocks",
-"image": "https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",
-"url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/4a6fdedf-d3a3-4ac2-99b3-f0b32c52ef81/1.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "ChopperTown",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhVUGE.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/96801917-bf66-4f5c-b024-de932a984e7e/2.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Motorcyclist",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhVxtk.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/73397e83-0e03-4f96-84ce-8d97e468bfbb/2.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Cycleworld",
-"image": "https://sv1.picz.in.th/images/2020/12/01/jhV2Gy.png",
-"url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/358d3507-61ba-4203-bb55-cd68cae41c93/2.m3u8",
-"playInNatPlayer": "true"
 },
 {
 "name": "ABC NEWS",
