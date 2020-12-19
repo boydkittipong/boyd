@@ -1,0 +1,87 @@
+{
+"name": "ช่องการ์ตูน",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/18/jntpLy.png",
+"url": "B9%88%E0%B8%A2%E0%B9%8C",
+"stations": [
+{
+"name": "Cartoon Club",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
+"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Club สำรอง",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
+"url": "https://www.we-play.tv/watching/tv/cartoon-club",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boomerang",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png",  
+"url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney XD",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",  
+"url": "https://www.we-play.tv/watching/tv/disney-xd",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney Channel",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",  
+"url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Aniplus",  
+"image": "https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg",  
+"url": "https://www.we-play.tv/watching/tv/aniplus",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Network",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",  
+"url": "https://www.we-play.tv/watching/tv/cartoon-network",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nickelodeon",  
+"image": "http://tvsmagazine.com/images/channels/sm_NICK.jpg",  
+"url": "https://www.we-play.tv/watching/tv/nickelodeon",
+"playInNatPlayer": "true"
+},
+{
+"name": "Baby TV",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png",  
+"url": "https://www.we-play.tv/watching/tv/babytv",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Spark Jump",  
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png",  
+"url": "https://www.we-play.tv/watching/tv/true-spark-jump",
+"playInNatPlayer": "true"
+},
+{
+"name": "True Spark Play",  
+"image": "https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",  
+"url": "https://we-play.tv/watching/tv/true-spark-play",
+"playInNatPlayer": "true"
+},
+{
+"name": "Toonee",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-11-11-052323.png",  
+"url": "https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "Animax",  
+"image": "https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",  
+"url": "http://203.154.177.124:8899/live/ch5/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+]
+}
