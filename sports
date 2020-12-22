@@ -414,6 +414,13 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Bein Sports 4",  
+"image": "https://api.blackboxsys.net/images/png/fr-beinsportmax4.png",  
+"url": "https://edge-n7.worldwidetv.club/Mk3BVN6NKQb0nwicv22kug/1608666048/live-o33-th-abr/fr-beinsportmax4/liveorigin/fr-beinsportmax4_480/chunks.m3u8",
+"referer": "https://dooball66.com/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Eurosport 1",  
 "image": "https://il.mahidol.ac.th/upload/img/2020-09-07-051537.jpg",  
 "url": "https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8",
