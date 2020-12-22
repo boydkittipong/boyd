@@ -576,24 +576,7 @@
 "url": "https://edge-n8.worldwidetv.club/p7s4kHTXsGoNpK6gCp_WmQ/1608673554/live-o33-th-abr/uk-skysports4bkp/liveorigin/uk-skysports4bkp_480/chunks.m3u8",
 "playInNatPlayer": "tot"
 },
-{
-"name": "uk-skysports-golf",
-"image": "https://overseer.blackboxsys.net/images/png/uk-skysports-golf.png",
-"url": "https://edge-n8.worldwidetv.club/n9oLebXWwgn47choh2dhdQ/1608673535/live-o33-th-abr/uk-skysports-golf/liveorigin/uk-skysports-golf_720/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "uk-skysports1bkp",
-"image": "https://overseer.blackboxsys.net/images/png/uk-skysports1bkp.png",
-"url": "https://edge-n8.worldwidetv.club/LJEddlvCEwLq6Fqb3mk9-w/1608673512/live-o33-th-abr/uk-skysports1bkp/liveorigin/uk-skysports1bkp_480/chunks.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "uk-skysports-mainevent",
-"image": "https://overseer.blackboxsys.net/images/png/uk-skysports-mainevent.png",
-"url": "https://edge-n8.worldwidetv.club/yX1h2midDFfNFt3qa3wijw/1608673414/live-o33-th-abr/uk-skysports-mainevent/liveorigin/uk-skysports-mainevent_720/chunks.m3u8,
-"playInNatPlayer": "tot"
-},
+
 {
 "name": "uk-skysports-mix",
 "image": "https://overseer.blackboxsys.net/images/png/uk-skysports-mix.png",
