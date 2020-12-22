@@ -126,13 +126,6 @@
 {
 "name": "True Sport HD_สำรอง",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesporthd",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
 "url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -149,12 +142,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sport HD_2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesporthd2",
-"playInNatPlayer": "true"
-},
-{
 "name": "True Sport HD 3",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
 "url": "https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8",
@@ -168,13 +155,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "True Sport HD 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesporthd3",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "True Sport 2",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
 "url": "https://we-play.tv/watching/tv/true-sports-2",
@@ -184,21 +164,7 @@
 {
 "name": "True Sport 2_สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 2_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
 "url": "https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 5",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport5",
-"referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -217,13 +183,6 @@
 {
 "name": "True Sport 6_สำรอง",
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport6",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 6_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
 "url": "https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -232,13 +191,6 @@
 "image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
 "url": "https://www.we-play.tv/watching/tv/true-sports-7",
 "referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 7_สำรอง",
-"image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url": "https://ball8k.com/m/ch.php?stream=truesport7",
-"referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -272,13 +224,6 @@
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
 "url": "https://edge-n3.worldwidetv.club/1soNzQCszr4BGuXpeiDlXw/1606562353/live-o33-th-abr/hd-tennis/liveorigin/hd-tennis_720/chunks.m3u8",
 "referer": "https://dooball66.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Tennis_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",
-"url": "https://ball8k.com/m/ch.php?stream=truetennis",
-"referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -327,13 +272,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Fox Sports HD_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",
-"url": "https://ball8k.com/m/ch.php?stream=foxsport1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "Fox Sports 2",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
 "url": "https://www.we-play.tv/watching/tv/fox-sports-2",
@@ -347,23 +285,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Fox Sports 2_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",
-"url": "https://ball8k.com/m/ch.php?stream=foxsport2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "Fox Sports 3",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
 "url": "https://www.we-play.tv/watching/tv/fox-sports-3",
 "referer": "https://www.we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3_สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",
-"url": "https://ball8k.com/m/ch.php?stream=foxsport3",
 "playInNatPlayer": "true"
 },
 {
@@ -393,27 +318,6 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Bein Sports 1",  
-"image": "https://ball8k.com/stream/img_ch/20200923165313_bein1.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=bein1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 2",  
-"image": "https://ball8k.com/stream/img_ch/20200923165330_bein2.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=bein2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 3",  
-"image": "https://ball8k.com/stream/img_ch/20200923165428_beinsportsarabia3hd.jpg",  
-"url": "https://ball8k.com/m/ch.php?stream=beinsportsarabia3hd",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "Bein Sports 4",  
 "image": "https://api.blackboxsys.net/images/png/fr-beinsportmax4.png",  
 "url": "https://edge-n7.worldwidetv.club/Mk3BVN6NKQb0nwicv22kug/1608666048/live-o33-th-abr/fr-beinsportmax4/liveorigin/fr-beinsportmax4_480/chunks.m3u8",
@@ -431,19 +335,6 @@
 "image": "https://il.mahidol.ac.th/upload/img/2020-09-07-051552.jpg",  
 "url": "https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8",
 "playInNatPlayer": "true"
-},
-{
-"name": "LFCTV",
-"image": "https://static.tvmaze.com/uploads/images/large_landscape/32/81235.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=lfctv",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "MUTV",  
-"image": "https://www.sine.tv/images/icon/MUTV.png",  
-"url": "https://www.doonung1234.com/match/view/8143/mutv",
-"playInNatPlayer": "tot"
 },
 {
 "name": "FC BAYERN.TV",  
@@ -506,27 +397,6 @@
 "playInNatPlayer": "true"
 }, 
 {
-"name": "Supersport1",
-"image": "https://ball8k.com/stream/img_ch/20200923170817_supersport1al.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=supersport1al",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Supersport2",
-"image": "https://ball8k.com/stream/img_ch/20200923170821_supersport2al.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=supersport2al",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport1",
-"image": "https://ball8k.com/stream/img_ch/20200923165446_btsport1.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsport1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "btsport1_สำรอง",
 "image": "https://ball8k.com/stream/img_ch/20200923165446_btsport1.jpg",
 "url": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
@@ -534,87 +404,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "btsport2",
-"image": "https://ball8k.com/stream/img_ch/20200923165452_btsport2.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsport2",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
 "name": "btsport2_สำรอง",
 "image": "https://ball8k.com/stream/img_ch/20200923165452_btsport2.jpg",
 "url": "https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport3",
-"image": "https://ball8k.com/stream/img_ch/20200923165502_btsport3.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsport3",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "btsport ESPN",
-"image": "https://ball8k.com/stream/img_ch/20200923165513_btsportespn.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=btsportespn",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "canal11pt",
-"image": "https://ball8k.com/stream/img_ch/20201009154532_canal11pt.jpg",
-"url": "https://www.doonung1234.com/match/view/8807/canal11pt",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Digisport1",
-"image": "https://ball8k.com/stream/img_ch/20200923165715_digisport1romania.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=digisport1romania",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Digisport2",
-"image": "https://ball8k.com/stream/img_ch/20200923165720_digisport2romania.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=digisport2romania",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Digisport3",
-"image": "https://www.ball24.tv/wp-content/themes/ball24/logo/digisport3romania.png",
-"url": "https://ball8k.com/m/ch.php?stream=digisport3romania",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Premiersports1",
-"image": "https://ball8k.com/stream/img_ch/20200923170434_premiersports1.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=premiersports1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Cmorefootball",
-"image": "https://ball8k.com/stream/img_ch/20200923165701_cmorefootball.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=cmorefootball",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Eirsport1",
-"image": "https://ball8k.com/stream/img_ch/20200923165802_eirsport1.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=eirsport1",
-"referer": "https://ball8k.com/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Novasport",
-"image": "https://ball8k.com/stream/img_ch/20200923170407_Nova_Sport.jpg",
-"url": "https://ball8k.com/m/ch.php?stream=novasport",
-"referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
