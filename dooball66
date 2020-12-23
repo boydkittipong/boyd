@@ -20,6 +20,12 @@
 "playInNatPlayer": "tot"
 },
 {
+"name": "Sport digital",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--167.png",
+"url": "https://www.doofootball.com/live/streaming/sportdigital/581510",
+"playInNatPlayer": "tot"
+},
+{
 "name": "fox sports 1",
 "image": "https://sv1.picz.in.th/images/2020/12/23/jpIFOf.jpg",
 "url": "https://edge-n2.worldwidetv.club/uGAc6EHPNSHbn2Tl2fzhsw/1608668946/live-o33-th-abr/hd-foxsports1/liveorigin/hd-foxsports1_720/chunks.m3u8",
