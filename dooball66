@@ -8,9 +8,15 @@
 
 
 {
-"name": "canal 11",
+"name": "Canal 11",
 "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
 "url": "https://www.doofootball.com/live/streaming/canal11pt/618431",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Espn brazil",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1232.png",
+"url": "https://www.doofootball.com/live/streaming/espnbrazil/593995",
 "playInNatPlayer": "tot"
 },
 {
