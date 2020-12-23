@@ -6,6 +6,13 @@
 "stations": [
 
 
+
+{
+"name": "canal 11",
+"image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
+"url": "https://www.doofootball.com/live/streaming/canal11pt/618431",
+"playInNatPlayer": "tot"
+},
 {
 "name": "fox sports 1",
 "image": "https://sv1.picz.in.th/images/2020/12/23/jpIFOf.jpg",
