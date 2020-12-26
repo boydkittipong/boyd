@@ -1,0 +1,80 @@
+{
+"name": "Sci-fi วิทยาศาสตร์",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jr0LJW.png",
+"url": "",
+"stations": [
+{
+"name": "Surrogates (2009) คนอึดฝ่านรกโคลนนิ่ง",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/Surrogates-2009.jpg",
+"url": "https://www.playgetvideo.com/playget/play.php?id=3880",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Evolution (2001) รวมพันธุ์เฉพาะกิจ พิทักษ์โลก",
+"image": "https://iokmovie.com/wp-content/uploads/2020/11/Evolution-2001.jpg",
+"url": "https://server1.onplayget.xyz/hls/N4TOKj3/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Red Planet (2000) เรด แพลนเน็ท ดาวแดงเดือด",
+"image": "https://iokmovie.com/wp-content/uploads/2020/11/Red-Planet-2000.jpg",
+"url": "https://server1.onplayget.xyz/hls/swvHYXw/file_720.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Equals (2015) ฝ่ากฎล้ำ โลกห้ามรัก",
+"image": "https://iokmovie.com/wp-content/uploads/2020/10/Equals-2015.jpg",
+"url": "https://server1.onplayget.xyz/hls/gfH4IYK/file_360.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Space Between Us (2007) รักเราห่างแค่ดาวอังคาร",
+"image": "https://iokmovie.com/wp-content/uploads/2020/10/The-Space-Between-Us-2007.jpg",
+"url": "https://server1.onplayget.xyz/hls/Yba3pic/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Stargate: The Ark of Truth (2008) สตาร์เกท ผ่ายุทธการสยบจักรวาล",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/The-Ark-of-Truth-2008.jpg",
+"url": "https://server1.onplayget.xyz/hls/9SUuG9v/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Stargate: Continuum (2008) สตาร์เกท ข้ามมิติทะลุจักรวาล",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/Continuum-2008.jpg",
+"url": "https://server1.onplayget.xyz/hls/FOtgh3V/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Enders Game (2013) สงครามพลิกจักรวาล",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/Enders-Game-2013.jpg",
+"url": "https://www.playgetvideo.com/playget/play.php?id=3789",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Invasion (2007) บุก…เพาะพันธุ์มฤตยู",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/The-Invasion-2007.jpg",
+"url": "https://www.playgetvideo.com/playget/play.php?id=3755",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Project Almanac (2015) กล้า ซ่าส์ ท้าเวลา",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/Project-Almanac-2015.jpg",
+"url": "https://server1.onplayget.xyz/hls/nhrkhk9/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "The Invisible Man (2020) มนุษย์ล่องหน",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/The-Invisible-Man-2020.jpg",
+"url": "https://server1.onplayget.xyz/hls/90pu1ak/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Jupiter Ascending (2015) ศึกดวงดาวพิฆาตสะท้านจักรวาล",
+"image": "https://iokmovie.com/wp-content/uploads/2020/08/Jupiter-Ascending-2015.jpg",
+"url": "https://server1.onplayget.xyz/hls/3tGEZOx/file_1080.mp4/index-v1-a1.m3u8",
+"playInNatPlayer": "tot"
+},
+]
+}
