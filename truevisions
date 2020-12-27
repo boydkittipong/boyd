@@ -21,17 +21,35 @@
 {
 "name": "CH5",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
+"url": "https://www.adintrend.tv/hd/m/ch5",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "CH5 สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
 "url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "CH7",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=3",
+"playInNatPlayer": "tot"
+},
+{
+"name": "CH7 สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
 "url": "https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MCOT",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",
+"url": "https://www.adintrend.tv/hd/m/ch9",
+"playInNatPlayer": "tot"
+},
+{
+"name": "MCOT สำรอง",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",
 "url": "https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8",
 "playInNatPlayer": "tot"
@@ -57,11 +75,23 @@
 {
 "name": "TNN16",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",
+"url": "https://www.tnnthailand.com/live",
+"playInNatPlayer": "tot"
+},
+{
+"name": "TNN16 สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",
 "url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "NEW 18",
+"image": "https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",
+"url": "https://www.doomovie-hd.com/?r=tv_view&id=67",
+"playInNatPlayer": "tot"
+},
+{
+"name": "NEW 18 สำรอง",
 "image": "https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",
 "url": "https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
 "playInNatPlayer": "tot"
@@ -69,11 +99,23 @@
 {
 "name": "Nation TV",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png",
+"url": "https://www.adintrend.tv/hd/m/ch37",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Nation TV สำรอง",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png",
 "url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Workpoint",
+"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",
+"url": "https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8",
+"playInNatPlayer": "tot"
+}, 
+{
+"name": "Workpoint สำรอง",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",
 "url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
 "playInNatPlayer": "tot"
