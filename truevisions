@@ -241,6 +241,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "บันเทิงเกินร้อย",  
+"image": "https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png",  
+"url": "https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w969421994.m3u8",
+"playInNatPlayer": "tot"
+},
+{
 "name": "TPTV",
 "image": "https://www.doomovie-hd.com/assets/img/ch_logo/TPTVLOGO.png",
 "url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
