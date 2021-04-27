@@ -499,13 +499,13 @@
 },
 {
 "name": "Red by HBO",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-screenred.jpg",  
 "url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "AXN",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-axn.png",
 "url": "https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 }, 
@@ -529,7 +529,7 @@
 },
 {
 "name": "Warner",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png",
+"image": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1587692263_logo-warner-tv.jpg",
 "url": "http://203.154.243.89:1205",
 "playInNatPlayer": "tot"
 },
@@ -556,13 +556,13 @@
 },
 {
 "name": "Hits Movies",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/HITSMOVIE.png",  
 "url": "https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Hits",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/HITS.png",  
+"image": "hhttps://www.img05.xyz/assets/img/ch_logo/HITS.png",  
 "url": "https://we-play.tv/watching/tv/hits",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -606,7 +606,7 @@
 },
 {
 "name": "X-Zyte",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-xzyte.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-xzyte.png",  
 "url": "https://we-play.tv/watching/tv/true-xzyte",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -627,41 +627,41 @@
 },
 {
 "name": "Discovery Channel",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-discovery.png",
 "url": "https://we-play.tv/watching/tv/discovery-channel",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Discovery Asia",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-discovery.png",
 "url": "https://we-play.tv/watching/tv/discovery-asia",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "History",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-history.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-history.png",
 "url": "https://we-play.tv/watching/tv/history-hd",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "H2",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-history2.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-history2.png",
 "url": "https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Nat Geo Graphic",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeo.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-natgeo.png",
 "url": "https://we-play.tv/watching/tv/national-geographic",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Nat Geo Wild",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-natgeowild.jpg",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-natgeowild.jpg",
 "url": "https://we-play.tv/watching/tv/nat-geo-wild",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -675,7 +675,7 @@
 },
 {
 "name": "BBC Earth",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-bbcearth.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-bbcearth.png",
 "url": "https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -688,13 +688,13 @@
 },
 {
 "name": "สำรวจโลก",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-samrujlok.jpg",
 "url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Science Channel",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-discoveryscience.jpg",
 "url": "https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
