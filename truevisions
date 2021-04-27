@@ -8,79 +8,79 @@
 
 {
 "name": "CH3",
-"image": "https://www.img04.xyz/assets/img/ch_logo/hd-ch3.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch3.png",
 "url": "https://www.adintrend.tv/hd/m/ch3",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH3 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch3.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch3.png",
 "url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH5",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch5.png",
 "url": "https://www.adintrend.tv/hd/m/ch5",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "CH5 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch5.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch5.png",
 "url": "https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "CH7",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch7.png",
 "url": "https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH7 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch7.png",
 "url": "https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MCOT",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-mcot.png",
 "url": "https://www.adintrend.tv/hd/m/ch9",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MCOT สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-mcot.png",
 "url": "https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "NBT",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nbt.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-nbt.png",
 "url": "http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "Thai PBS",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-tpbs.png",
 "url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ไทยรัฐ TV",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-thairath.png",
 "url": "http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "TNN16",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-tnn24.png",
 "url": "https://www.tnnthailand.com/live",
 "playInNatPlayer": "tot"
 },
 {
 "name": "TNN16 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tnn24.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-tnn24.png",
 "url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
 "playInNatPlayer": "tot"
 },
@@ -98,121 +98,121 @@
 },
 {
 "name": "Nation TV",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-nation.png",
 "url": "https://www.adintrend.tv/hd/m/ch37",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Nation TV สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-nation.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-nation.png",
 "url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Workpoint",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-workpoint.png",
 "url": "https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "Workpoint สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-workpoint.png",
 "url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "true4U",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-24u.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-24u.png",
 "url": "https://true4u.com/live/",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "true4U สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-24u.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-24u.png",
 "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "GMM 25",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-gmmchannel.png",
 "url": "https://www.adintrend.tv/hd/m/ch0",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "GMM 25 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-gmmchannel.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-gmmchannel.png",
 "url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "CH8",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch8.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch8.png",
 "url": "https://www.adintrend.tv/hd/m/ch33",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CH8 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch8.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-ch8.png",
 "url": "https://cdn6.goprimetime.info/feed/ch8/index.m3u8",
 "playInNatPlayer": "tot"
 }, 
 {
 "name": "MONO29",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mono.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-mono.png",
 "url": "https://www.adintrend.tv/hd/m/ch38",
 "playInNatPlayer": "tot"
 },
 {
 "name": "MONO29 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-mono.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-mono.png",
 "url": "https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ONE 31",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-gmmone.png",
 "url": "https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "ONE 31 สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-gmmone.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-gmmone.png",
 "url": "https://cdn6.goprimetime.info/feed/chonehd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Amarin TV",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-amarin.png",
 "url": "https://www.adintrend.tv/hd/m/ch26",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Amarin TV สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-amarin.png",
 "url": "https://cdn6.goprimetime.info/feed/chamarin/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "PPTV",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-pptv.png",
 "url": "https://www.adintrend.tv/hd/m/ch25",
 "playInNatPlayer": "tot"
 },
 {
 "name": "PPTV สำรอง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-pptv.png",
 "url": "https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "NEWS 1",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/NEWS1.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/NEWS1.png",
 "url": "http://news1.live14.com/stream/news1_hi.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "Fan TV",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-fantv.jpg",
 "url": "https://www.livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -224,13 +224,13 @@
 },
 {
 "name": "TGN",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TGN.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/TGN.png",
 "url": "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "JKN",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/JKN.png",
 "url": "https://www.livedoomovies.com/02_JKN_480p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -248,37 +248,37 @@
 },
 {
 "name": "TPTV",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/TPTVLOGO.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/TPTVLOGO.png",
 "url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Cartoon Club",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/CartoonClub.png",  
 "url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Cartoon Club สำรอง",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/CartoonClub.png",  
 "url": "https://www.we-play.tv/watching/tv/cartoon-club",
 "playInNatPlayer": "true"
 },
 {
 "name": "Boomerang",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/Boomerang.png",  
 "url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "Disney XD",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/DISNEYXD.png",  
 "url": "https://www.we-play.tv/watching/tv/disney-xd",
 "playInNatPlayer": "true"
 },
 {
 "name": "Disney Channel",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-disney.png",  
 "url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
 },
@@ -290,7 +290,7 @@
 },
 {
 "name": "Cartoon Network",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-cartoonnetwork.png",  
 "url": "https://www.we-play.tv/watching/tv/cartoon-network",
 "playInNatPlayer": "true"
 },
@@ -302,13 +302,13 @@
 },
 {
 "name": "Baby TV",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/BabyTVHD.png",  
 "url": "https://www.we-play.tv/watching/tv/babytv",
 "playInNatPlayer": "true"
 },
 {
 "name": "True Spark Jump",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-sparkjump.png",  
 "url": "https://www.we-play.tv/watching/tv/true-spark-jump",
 "playInNatPlayer": "true"
 },
@@ -338,7 +338,7 @@
 },
 {
 "name": "มังกร",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/MANGORN.png",
 "url": "https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8",
 "playInNatPlayer": "tot"
 },
@@ -350,19 +350,19 @@
 },
 {
 "name": "Zee หนัง",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/ZeeNung.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/ZeeNung.png",
 "url": "https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "M Channel",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/m-channel.png",
+"image": "https://www.img05.xyz/assets/img/ch_logo/m-channel.png",
 "url": "http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "CCM",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CCM.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/CCM.png",  
 "url": "https://we-play.tv/watching/tv/ccm",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -389,21 +389,21 @@
 },
 {
 "name": "True Film HD",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-tfilm.jpg",  
 "url": "https://we-play.tv/watching/tv/true-film-hd",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "True Thai Film",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-thaifilm.png",  
 "url": "https://we-play.tv/watching/tv/true-thai-film",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "True Asian Series",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-asianseries.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-filmasia.png",  
 "url": "https://we-play.tv/watching/tv/true-asian-series-hd",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -417,7 +417,7 @@
 },
 {
 "name": "True Music",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-tmusic.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/sd-tmusic.png",  
 "url": "https://www.we-play.tv/watching/tv/true-music-hd",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -438,33 +438,33 @@
 },
 {
 "name": "FOX Movies",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-foxpremium.png",  
 "url": "https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX Action",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-foxaction.png",  
 "url": "https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX Family Movies",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-foxfamily.png",  
 "url": "https://www.we-play.tv/watching/tv/fox-family-movies",
 "playInNatPlayer": "true"
 },
 {
 "name": "TVN",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-tvn.png",  
 "url": "https://www.we-play.tv/watching/tv/tvn",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "FOX CRIME",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-foxcrime.jpg",  
 "url": "https://we-play.tv/watching/tv/fox-crime",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -478,21 +478,21 @@
 },
 {
 "name": "HBO",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-hbo.jpg",  
 "url": "https://we-play.tv/watching/tv/hbo-hd",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "HBO Hits",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-hbohits.jpg",  
 "url": "https://we-play.tv/watching/tv/hbo-hits",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
 },
 {
 "name": "HBO signature",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",  
+"image": "https://www.img05.xyz/assets/img/ch_logo/hd-hbosignature.jpg",  
 "url": "https://we-play.tv/watching/tv/hbo-signature",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
