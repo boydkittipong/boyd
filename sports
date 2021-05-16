@@ -117,6 +117,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "MUTV",
+"image": "https://img.apksum.com/f4/com.manutd.mutv/2.8.0/icon.png",
+"url": "https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "True Sport HD",
 "image": "https://www.img05.xyz/assets/img/ch_logo/hd-tsport1.png",
 "url": "https://we-play.tv/watching/tv/true-sports-hd",
