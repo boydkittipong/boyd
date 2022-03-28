@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.picz.in.th/image/PVL8Jn",แสงจันทร์ทีวี
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL8Jn.png",แสงจันทร์ทีวี
 http://freelive.inwstream.com:1935/freelive-edge/sangjun.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.picz.in.th/image/PVL37y",FWMOV
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL37y.png",FWMOV
 http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.picz.in.th/image/PVL37y",FWMOV
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL37y.png",FWMOV
 https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.picz.in.th/image/PVLzln=",FWSOV
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVLzln.png",FWSOV
 http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.picz.in.th/image/PVL7FQ",FWTOON
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL7FQ.png",FWTOON
 http://freelive2.inwstream.com:1935/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.picz.in.th/image/PVL7FQ",FWTOON
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL7FQ.png",FWTOON
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",TOPNEWS
 http://live.topnews.co.th/hls/topnews.m3u8
