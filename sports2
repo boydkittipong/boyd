@@ -43,6 +43,8 @@ http://freelive.inwstream.com:1935/freelive-edge/nbt/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5Q0ma.jpg",PPTV HD
 http://freelive.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5Q0ma.jpg",PPTV HD
+https://smart-tv.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5EQV2.jpg",MONO
 https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5EQV2.jpg",MONO
