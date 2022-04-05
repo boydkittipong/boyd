@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5Q0ma.jpg",PPTV HD
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88/astro4/sport-inter/astro4/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL8Jn.png",แสงจันทร์ทีวี
 http://freelive.inwstream.com:1935/freelive-edge/sangjun.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2021/06/01/PVL37y.png",FWMOV
@@ -44,7 +45,7 @@ https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5Q0ma.jpg",PPTV HD
 http://freelive.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5Q0ma.jpg",PPTV HD
-https://smart-tv.livedoomovies.com:4431/04_PPTVHD_720p/chunklist.m3u8
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88/astro4/sport-inter/astro4/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5EQV2.jpg",MONO
 https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2020/12/10/j5EQV2.jpg",MONO
