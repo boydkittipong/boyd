@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd1.png",TRUE SPORTHD1
 http://103.13.30.246:1919/sport/truesporthd1/chunks.m3u8
 #EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd2.png",TRUE SPORTHD2
