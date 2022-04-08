@@ -1,219 +1,26 @@
-#EXTM3U
-#EXTINF:-1,CH3
-https://edge6a.v2h-cdn.com/m2i1/3HD.stream_360p/playlist.m3u8
-#EXTINF:-1,CH7
-https://edge6a.v2h-cdn.com/m2i1/7HD.stream_360p/playlist.m3u8
-#EXTINF:-1,MONO 29
-https://edge6a.v2h-cdn.com/m2i1/Mono.stream_360p/playlist.m3u8
-#EXTINF:-1,ONE
-https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_360p/playlist.m3u8
-#EXTINF:-1,WORKPOINT
-http://119.59.125.74/stream/totnew.php?channel_id=a9a68ab5471d4d39ba25695a66957067&.m3u8
-#EXTINF:-1,CH8
-http://stream.rs.co.th/ch8-low/index.m3u8
-#EXTINF:-1,THAIRATH TV
-https://edge6a.v2h-cdn.com/m2i4/ThairathHD.stream_360p/playlist.m3u8
-#EXTINF:-1,AMARIN TV
-https://edge6a.v2h-cdn.com/m2i1/AmarinHD.stream_360p/playlist.m3u8
-#EXTINF:-1,PPTV
-https://edge6a.v2h-cdn.com/m2i1/PPTV.stream_360p/playlist.m3u8
-#EXTINF:-1,MCOT
-https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_360p/playlist.m3u8
-#EXTINF:-1,NATION TV
-https://edge6a.v2h-cdn.com/m2i1/Nation.stream_360p/playlist.m3u8
-#EXTINF:-1,TRUE4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
-#EXTINF:-1,TV5
-https://edge6a.v2h-cdn.com/m2i1/TV5HD.stream_360p/playlist.m3u8
-#EXTINF:-1,NBT
-https://edge6a.v2h-cdn.com/m2i3/NBT.stream_360p/playlist.m3u8
-#EXTINF:-1,THAI TPBS
-https://edge6a.v2h-cdn.com/m2i1/TPBS.stream_360p/playlist.m3u8
-#EXTINF:-1,NEW TV 18
-https://edge6a.v2h-cdn.com/m2i1/NEW.stream_360p/playlist.m3u8
-#EXTINF:-1,BOONNIYOM TV HD
-http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
-#EXTINF:-1,BOONNIYOM TV
-http://live.boonniyom.tv:1935/live/bntvsd/playlist.m3u8
-#EXTINF:-1,BOOMERANG
-https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
-#EXTINF:-1,TOONEE
-https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
-#EXTINF:-1,TP TV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1,CARTOON CLUB
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1,M-CHANNEL
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1,MONO PLUS
-https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
-#EXTINF:-1,JKN
-https://edge6a.v2h-cdn.com/m2i4/JKN.stream_360p/playlist.m3u8
-#EXTINF:-1,THAIBAN TV
-https://edge6a.v2h-cdn.com/m2i3/Thaiban.stream_360p/playlist.m3u8
-#EXTINF:-1,HAPPY TV
-https://edge6a.v2h-cdn.com/m2i3/Happy.stream_360p/playlist.m3u8
-#EXTINF:-1,tvn THAI
-https://edge6a.v2h-cdn.com/m2i7/TVN_THAI.stream_360p/playlist.m3u8
-#EXTINF:-1,CH2
-http://stream.rs.co.th/ch2-low/index.m3u8
-#EXTINF:-1,FAN TV
-https://edge6a.v2h-cdn.com/m2i4/FanTV.stream_360p/playlist.m3u8
-#EXTINF:-1,Top line
-https://edge6a.v2h-cdn.com/m2i7/Topline.stream_360p/playlist.m3u8
-#EXTINF:-1,GMM25
-http://119.59.125.74/stream/totnew.php?channel_id=ab0b43ef8363438098a94101e93ca138
-#EXTINF:-1,TVB THAI SERIES
-https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_360p/playlist.m3u8
-#EXTINF:-1,VOICE TV
-https://edge6a.v2h-cdn.com/m2i3/WOWSH.stream_360p/playlist.m3u8
-#EXTINF:-1,MVTV
-https://edge6a.v2h-cdn.com/m2i4/MVTV75.stream_360p/playlist.m3u8
-#EXTINF:-1,CCTV
-https://edge6a.v2h-cdn.com/m2i10/CCTV4.stream_360p/playlist.m3u8
-#EXTINF:-1,TNN24
-https://cdn-laos.workpoint.news/sd-tnn24_480/index.m3u8
-#EXTINF:-1,CH3 BACK UP
-https://cdn-laos.workpoint.news/hd-ch3_720/index.m3u8
-#EXTINF:-1,CH7 BACK UP
-http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
-#EXTINF:-1,PPTV BACK UP
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1,THAIRATH TV BACK UP
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1,ONE BACK UP
-https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1,TV5 BACK UP
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1,MONO29 BACK UP
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:-1,WORKPOINT BACK UP
-http://119.59.125.74/stream/totnew.php?channel_id=a9a68ab5471d4d39ba25695a66957067&.m3u8
-#EXTINF:-1,DLTV 1
-https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
-#EXTINF:-1,DLTV 2
-https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
-#EXTINF:-1,DLTV 3
-https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
-#EXTINF:-1,DLTV 4
-https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
-#EXTINF:-1,DLTV 5
-https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
-#EXTINF:-1,DLTV 6
-https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
-#EXTINF:-1,DLTV 7
-https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
-#EXTINF:-1,DLTV 8
-https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-#EXTINF:-1,DLTV 9
-https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
-#EXTINF:-1,DLTV 10
-https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
-#EXTINF:-1,DLTV 11
-https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
-#EXTINF:-1,DLTV 12
-https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
-#EXTINF:-1,DLTV 13
-https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
-#EXTINF:-1,DLTV 14
-https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
-#EXTINF:-1,DLTV 15
-https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
-#EXTINF:-1,ETV
-http://host4.dynns.com/wevelwe/dbab2fe24ce643689045d3c81e1954d6.m3u8
-#EXTINF:-1,บุญนิยม HD
-http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
-#EXTINF:-1,บุญนิยม SD
-http://live.boonniyom.tv:1935/live/bntvsd/playlist.m3u8
-#EXTINF:-1,Champa1
-https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
-#EXTINF:-1,Champa2
-https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
-#EXTINF:-1,Champa3
-https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
-#EXTINF:-1,MVLAO
-https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1228847336.m3u8
-#EXTINF:-1,TVK
-https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
-#EXTINF:-1,MRTV 4HD
-https://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/index_450_av-p.m3u8
-#EXTINF:-1,100Automoto
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1,CBC Drama ARB
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1,Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1,MoviesCinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
-#EXTINF:-1,MoviesClassicsTamil
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
-#EXTINF:-1,I film2
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
-#EXTINF:-1,ONE the judge
-http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
-#EXTINF:-1,movie Now
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1,Rai Premuium
-http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
-#EXTINF:-1,Cartoon T&J
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1,CCTV1
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
-#EXTINF:-1,CCTV2
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv2_2/index.m3u8
-#EXTINF:-1,CCTV3
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv3_2/index.m3u8
-#EXTINF:-1,CCTV4
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
-#EXTINF:-1,CCTV6
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv6_2/index.m3u8
-#EXTINF:-1,CCTV7
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv7_2/index.m3u8
-#EXTINF:-1,CCTV8
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv8_2/index.m3u8
-#EXTINF:-1,CCTV9
-https://cctvcnchwh5ca.v.cdn20.com/live/cctvjilu_2/index.m3u8
-#EXTINF:-1,CCTV10
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv10_2/index.m3u8
-#EXTINF:-1,CCTV11
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv11_2/index.m3u8
-#EXTINF:-1,CCTV12
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv12_2/index.m3u8
-#EXTINF:-1,CCTV13
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv13_2/index.m3u8
-#EXTINF:-1,CCTV14
-https://cctvakhwh5ca-cntv.akamaized.net/live/cctvchild_2/index.m3u8
-#EXTINF:-1,CCTV15
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv15_2/index.m3u8
-#EXTINF:-1,CCTV17
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv17_2/index.m3u8
-#EXTINF:-1,SEA TV
-http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
-#EXTINF:-1,PNN
-http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-#EXTINF:-1,CTV 8
-https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CTV 9
-http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
-#EXTINF:-1,Fresh News
-http://167.99.65.12:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,My TV
-http://167.99.65.12:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,Nice TV
-https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v1a1/mono.m3u8
-#EXTINF:-1,World Of Free sports
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1,DW DEUTSCH
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1,DW english
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1,CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,Rusia Today
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1,Aljazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,H264 Bein-Sport-1HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30274.m3u8
+#EXTINF:-1,H264 Bein-Sport-2HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30273.m3u8
+#EXTINF:-1,H264 Bein-Sport-3HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30281.m3u8
+#EXTINF:-1,H264 Bein-Sport-4HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30283.m3u8
+#EXTINF:-1,H264 Bein-Sport-5HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30270.m3u8
+#EXTINF:-1,H264 Bein-Sport-6HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30280.m3u8
+#EXTINF:-1,H264 Bein-Sport-7HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30279.m3u8
+#EXTINF:-1,H264 Bein-Sport-8HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30269.m3u8
+#EXTINF:-1,H264 Bein-Sport-9HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30272.m3u8
+#EXTINF:-1,H264 Bein-Sport-10HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30277.m3u8
+#EXTINF:-1,H264 Bein-Sport-11HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30284.m3u8
+#EXTINF:-1,H264 Bein-Sport-12HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30271.m3u8
+#EXTINF:-1,H264 Bein-Sport-13-HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30282.m3u8
