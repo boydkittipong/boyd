@@ -1,26 +1,140 @@
-#EXTINF:-1,H264 Bein-Sport-1HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30274.m3u8
-#EXTINF:-1,H264 Bein-Sport-2HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30273.m3u8
-#EXTINF:-1,H264 Bein-Sport-3HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30281.m3u8
-#EXTINF:-1,H264 Bein-Sport-4HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30283.m3u8
-#EXTINF:-1,H264 Bein-Sport-5HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30270.m3u8
-#EXTINF:-1,H264 Bein-Sport-6HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30280.m3u8
-#EXTINF:-1,H264 Bein-Sport-7HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30279.m3u8
-#EXTINF:-1,H264 Bein-Sport-8HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30269.m3u8
-#EXTINF:-1,H264 Bein-Sport-9HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30272.m3u8
-#EXTINF:-1,H264 Bein-Sport-10HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30277.m3u8
-#EXTINF:-1,H264 Bein-Sport-11HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30284.m3u8
-#EXTINF:-1,H264 Bein-Sport-12HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30271.m3u8
-#EXTINF:-1,H264 Bein-Sport-13-HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30282.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Cable TV" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/NEWS1.png",NEWS1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="2" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT 2
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1 tvg-id="3" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",CH 3
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1 tvg-id="4" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_320.png",ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="5" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png",CH 5
+https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+#EXTINF:-1 tvg-id="6" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="7" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240", CH 7
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1 tvg-id="8" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F26%2Febe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=320&h=240", CH 8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="9" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F482a2a27-3942-4356-8f12-4aec229badc6.png&w=320&h=240", 9 MCOT
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+#EXTINF:-1 tvg-id="10" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_320.png",TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
+#EXTINF:-1 tvg-id="11" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-id="12" group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cropped-topnews-logo.png/250px-Cropped-topnews-logo.png",TOPNEWS
+http://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 tvg-id="13" group-title="Cable TV" tvg-logo="http://thaitv8.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",CHANNEL 8
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
+#EXTINF:-1 tvg-id="14" group-title="Cable TV" tvg-logo="http://ctbtv.co.th/wp-content/uploads/2016/08/ctbtv-390x170.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-id="15" group-title="Cable TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Zee_Nung.jpg/revision/latest/scale-to-width-down/250?cb=20180625111402",ZEE NUNG
+https://freelive.inwstream.com:1936/freelive-edge/zeenang/playlist.m3u8
+#EXTINF:-1 tvg-id="16" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",TNN16
+https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
+#EXTINF:-1 tvg-id="17" group-title="Cable TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="18" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png",JKN18
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="19" group-title="Cable TV" tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNbxy.jpg",FWMOV
+http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="20" group-title="Cable TV" tvg-logo="https://sv1.picz.in.th/images/2021/11/12/ueNod9.jpg",FWSOV
+http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="21" group-title="Cable TV" tvg-logo="https://sv1.picz.in.th/images/2021/11/28/6KXLJW.jpg",FWTOON
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="22" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F952c9806-c7db-42d0-9647-415a643375b3.png&w=320&h=240",Nation TV
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 tvg-id="23" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2Fac08e9d4-6e97-478f-9c29-fc8e851a8c89.png&w=320&h=240",Workpoint TV
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1 tvg-id="24" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",True4U 24
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 tvg-id="25" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM25
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="26" group-title="Cable TV" tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1 tvg-id="27" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F02%2F26%2Febe998c5-7d25-402b-ab70-46f1ad6dcc4e.png&w=320&h=240",CH8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="28" group-title="Cartoon" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png",CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="29" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=320&h=240",MONO29
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+#EXTINF:-1 tvg-id="30" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F482a2a27-3942-4356-8f12-4aec229badc6.png&w=320&h=240",MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+#EXTINF:-1 tvg-id="31" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=320&h=240",ONE31
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 tvg-id="32" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F8761bb82-f902-4372-8b9f-34b019d36fb7.png&w=320&h=240",Thairath TV 32
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1 tvg-id="33" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",CH3 HD
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/18
+#EXTINF:-1 tvg-id="34" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",AMARIN TV
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1 tvg-id="35" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F1b6b5ad2-a97c-4935-886a-bc6c60073f67.png&w=320&h=240",CH 7 HD
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/20
+#EXTINF:-1 tvg-id="36" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_320.png",PPTV HD 36
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="37" group-title="Cable TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-23-112706.png",CABLE 37 HD
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-id="38" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7XtuRD_5ZF2GTm8qZgNAXx8Dn8FuGFAeWaA&usqp=CAU",MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="39" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",Siam TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-id="40" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png",GOLIVE
+https://live1.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1 tvg-id="41" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-id="42" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",Looktung TVHD
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="43" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtU8Td47J2kTGQW2dqzj6IHrqi_L_NHrXsA&usqp=CAU",MV Lao
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="44" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="45" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png",Dubai Sports1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="46" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAFzW2.jpg",Dubai Sports2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="47" group-title="Sports" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png",Dubai Sports3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="48" group-title="Sports" tvg-logo="https://www.elboox.com/wp-content/uploads/2021/04/%D9%82%D9%86%D8%A7%D8%A9-%D8%AF%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg",Dubai Sports4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",World of Freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAr4nI.jpg",Maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="53" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="54" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="55" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="56" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="55" group-title="Sports" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg",CCTV 5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="56" group-title="Sports" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg",CCTV 5 +
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/71c8e173bd1af2df31eaae8a0b7e73c2.png",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/a423e4e6b140d137b29889f4d74b1ba2.png",FOX NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/b0bd2c9deec0cf3138da41603bb16b41.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/65f92203e0cd066cf7f654f34ef3a098.png",CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/65f92203e0cd066cf7f654f34ef3a098.png",CBS NEWS
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-014942.jpg",CHANNEL NEWS ASIA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061119.jpg",ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L._SY355_.png",CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmdEsRdX6PQ-2OXtpEcmTCbD16h4DHD_Bt1HEd8Qe7cfR5jAUf&usqp=CAU",BreaKingNew
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK Chinese
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
