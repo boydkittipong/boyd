@@ -1,325 +1,283 @@
-#EXTM3U
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn32k.png",NBT HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://doo2you.com/icon/tpbs.png",TPBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://bit.ly/34rddx4",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://bit.ly/375FOsI",TPTV
-https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w1909958619.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMntTE.png",5HD
-http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6yra.png",TNN16
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://doo2you.com/icon/JKNDramax.png",JKN18
-https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6v9D.png",T Sport7
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6I0q.png",NationsHD
-https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSVo1DW6QwMP2q9Bkwd1UPR0)/dm/3/x6eoldf/d/live-3.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn9yv.png",Workpiont HD
-https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8sXcp6tIO-kgKlpGCRmlgqw)/dm/3/x6g9qjj/s/live-4.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnB8t.png",True4You
-http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8 
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Gj9.png",Gmm25 HD
-https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8sXcp6tIO-kgKlpGCRmlgqw)/dm/3/x6g9qjj/s/live-4.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnNUP.png",ch8 HD
-https://stream-05.sg1.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOuTprnQVnUAUHXkBZCHZnkc)/dm/3/x84ukk7/s/live-2.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn4NI.png",Mcot HD
-https://stream-04.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xoc1aXR7Eut3x3woKlcjvW8)/dm/3/x74wlgj/s/live-2.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnYvZ.png",ONE31 HD
-https://stream-04.sg1.dailymotion.com/sec(-0fhsFhycCtfi6ARUwilaIzLyQse9oGmZkoTLtkxDXg)/dm/3/x6824x8/s/live-3.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnSju.png",ไทยรัฐ ทีวี
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMndyR.png",3HD
-http://gmm-live-test.sky-cdn.com:1935/3hd/3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Mcz.png",Amarin
-http://gmm-live-test.sky-cdn.com:1935/amarin/amarin.stream/playlist.m3u8 
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnWs8.png",7HD
-http://gmm-live-test.sky-cdn.com:1935/7hd/7hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6JpJ.png",PPTV HD
-http://gmm-live-test.sky-cdn.com:1935/pptv/pptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://bit.ly/3K2GUnu",VoiceTV
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136436_ico.png",TOPNEWs
-https://live.topnews.co.th/hls/topnews_720.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136456_ico.png",News
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/33
-#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136461_ico.png",ฟ้าวันใหม่
-http://119.161.100.50:9999/tot/76221348029846b6a86cce2f76e60f82.m3u8
-#EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/srtvonline/srtvonline.png",SurutTv
-https://live1.thaitvstream.com/play/srtvonline/index.m3u8
-#EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/aetv/aetv.png",AETV
-https://live1.thaitvstream.com/play/aetv/index.m3u8
-#EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",SiamTV
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png",GOLIVE
-https://live1.thaitvstream.com/play/gochannel/index.m3u8
-#EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png",Thainews
-https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 group-title="CableTV"tvg-logo="https://thaitvstream.com/streaming/pretv/pretv.png",PRETV
-https://live.thaitvstream.com/play/pretv/index.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png",NICK JR 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://f.ptcdn.info/020/075/000/r0c2e138oiqqbnB5Cj8k-o.jpg",SparkJump
-https://mediasv.online/stream_tv/445_SparkJump/playlist.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17764188_ico.png",Sparkplay
-http://stream.cableth.com:1935/aslive/kix/playlist.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZBJGQ.png",CN
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg",BOOMERANG
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZBTvS.png",BOOMERANG EN
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/302/302.mpd
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg",TOONEE
-http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRGeI.png",nextKid
-https://mediasv.online/stream_tv/goodtv66_nextKid./playlist.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nicke
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKFqpE.jpg",Cartoonclub
-https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w1762315251.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKF1QZ.png",Zoomoo
-http://61.19.242.134/feed/202105171329//LC38/index.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZByHg.png",FWTOON
-https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTuA58.jpg",Aniplus
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/aniplus/chunks.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAKOj9.png",Da Vinci Kids 
-http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZfWC1.png",Nickelodeon
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/nickelodeon/chunks.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2021/09/17/CoyL61.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTCOvk.jpg",CONTV Anime
-https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/37impVJ",CCM 
-https://mediasv.online/stream_tv/233_CCM/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3pRm8iJ",AXN 
-https://mediasv.online/stream_tv/336_AXN/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3vO1aVX",TRUE THAI FILM
-https://mediasv.online/stream_tv/236_TrueThaiFilmHD/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3tLnpck",TrueFilmAsia
-https://mediasv.online/stream_tv/237_TrueFilmAsia/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3hVQRad",TRUE MOVIE HITS 
-https://mediasv.online/stream_tv/224_MovieHit/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3tIrXAh",TRUE FILM 1
-https://mediasv.online/stream_tv/222_True_Film_HD/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3hUcLKY",TRUE FILM 2
-https://mediasv.online/stream_tv/223_True_Film_HD2/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3pRgyx0",TRUE CHAINESE MORE
-https://mediasv.online/stream_tv/225_TrueChinessMore/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SoYof.png",TRUE ASIAN MORE 
-https://mediasv.online/stream_tv/239_AsianMore/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SltvW.png",TRUE KOREAN MORE
-https://mediasv.online/stream_tv/238_KoreanMore/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2022/02/27/r5q4IS.png",TVB
-https://mediasv.online/stream_tv/235_TVB/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2022/02/27/r5qKCJ.png",KMTV
-https://mediasv.online/stream_tv/347_KMTV/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113151022koreanmore.png",KBS
-https://mediasv.online/stream_tv/245_KBS/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3Hk7HKd",Rock_Entertainment
-https://mediasv.online/stream_tv/337_Rock_Entertainment/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zlslb.png",ROCK EXTREME
-https://mediasv.online/stream_tv/338_Rock_Extreme/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173826paramount.jpg",Paramount
-https://mediasv.online/stream_tv/232_Paramount/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220301173818warner.webp",warner
-https://mediasv.online/stream_tv/228_warner/playlist.m3u8?
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3soQATg",OUTDOOR
-https://mediasv.online/stream_tv/673_OUTDOOR/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3C1o6lx",Food_Network
-https://mediasv.online/stream_tv/342_Food_Network/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://www.img.in.th/images/c895d79e8c08314c7e27141dd6f9793f.jpg",GEM
-https://mediasv.online/stream_tv/244_GEM/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://bit.ly/3HlfozK",TrueInsideHD
-https://mediasv.online/stream_tv/335_TrueInsideHD/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://www.img.in.th/images/338f02ba80c47db2bafcc83d17d8b0cb.png",TVN 
-https://mediasv.online/stream_tv/566_TLC/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZfdFy.png",MONO29 Plus
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuaZW.png",FWMOV
-https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2020/06/18/qyuvm1.png",FWSOV
-https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19562634_ico.png",@แอททีวี
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",Mix Major
-http://119.161.100.50:9999/tot/AB6ACB38607A4AFF9DC773A6772C91FC.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKyLnS.png",มังกร
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZBr8e.png",จอมยุทธ์
-http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZ3tw1.png",Cool Channel
-https://moviektu.com/Cool/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.tvjaa.com/storage/tv-channels/ctbtv.png",CTB 
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3-channel.png",CH3
+https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/pptv-channel.png",PPTV36
+https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5-channel.png",CH5
+https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/7-channel.png",CH7
+https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",ONE31
+https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png",GMM25
+https://streaming.livescorethai.net/iptv/sd-gmmchannel.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",AMARIN TV
+https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/gmm-channel.png",MONO29
+https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",Workpoint TV
+https://streaming.livescorethai.net/iptv/hd-workpoint.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-4u.png",True4U 24
+https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/8-channel.png",CH8
+https://streaming.livescorethai.net/iptv/hd-ch8.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mcot-hd.png",9 MCOT
+https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thairath-tv.png",Thairath TV 32
+https://streaming.livescorethai.net/iptv/hd-thairath.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/thai-pbs.png",Thai PBS
+https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",NBT2
+https://streaming.livescorethai.net/iptv/sd-nbt.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://we-play.live/uploads/posters/jkn-18-poster.jpg",JKN18
+https://streaming.livescorethai.net/iptv/sd-new.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/amarin-tv.png",TNN 24
+https://streaming.livescorethai.net/iptv/sd-tnn24.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nation.png",Nation TV
+https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/โทรทัศน์รัฐสภา.png",TPTV
+https://streaming.livescorethai.net/iptv/sd-tptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",Thai Film (TH)
+https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png",Movie Hits (TH)
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/film-hd.png",True Film 1 (TH)
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hbo.png",HBO (English)
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="http://thaitv8.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",CHANNEL 8
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="http://ctbtv.co.th/wp-content/uploads/2016/08/ctbtv-390x170.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17129634_ico.png",Channel 8
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SEkEv.png",Sun Movie
-http://61.19.242.134/feed/202105171329/LC1/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SEqzD.png",Samurai
-http://61.19.242.134/feed/202105171329/LC2/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SE6nZ.png",Movies World 1
-http://61.19.242.134/feed/202105171329/LC11/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKibuZ.png",Snook
-http://61.19.242.134/feed/202105171329/LC53/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbzGl.png",ZeeNung
-http://61.19.242.134/feed/202105171329/LC5/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SOzQD.png",Box Film
-http://61.19.242.134/feed/202105171329/LC52/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKieYy.jpg",Warner TV
-http://61.19.242.134/feed/202105171329/LC28/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKRSOz.jpg",Thrill
-http://61.19.242.134/feed/202105171329/LC26/index.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17130849_ico.png",3BB ASIAN
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbNfk.png",HBO HD 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17706273_ico.png",HBO HITS 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvRma.png",HBO SIGNATURE 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvisf.png",HBO FAMILY 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbKJW.png",CINEMAX 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 1
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Zee_Nung.jpg/revision/latest/scale-to-width-down/250?cb=20180625111402",ZEE NUNG
+https://freelive.inwstream.com:1936/freelive-edge/zeenang/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/fwmov53.webp",FWMOV
+http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/fwson70.webp",FWSOV
+http://freelive.inwstream.com:1935/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
+#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://fusovideoarte.com/2021/wp-content/uploads/2021/08/Sobre.jpg",FusoMOV 2
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqwbI.png",FusoMOV 2
-http://203.159.95.172:8081/live/comedy1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png",FusoSerie 1
-http://203.159.95.172:8081/live/banner0002/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2021/12/13/6CQcK1.png",FusoSerie 2
-http://203.159.95.172:8081/live/invest003/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISIONS"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113193432truemusic.png",TRUE MUSI
-https://mediasv.online/stream_tv/367_Super_bunteung/playlist.m3u8
-#EXTINF:-1 group-title="ໂທລະພາບລາວ"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19403623_ico.png",Vte       
-https://livefta.malimarcdn.com/ftaedge00/vlctemple.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="ໂທລະພາບລາວ"tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/MASTER-MVLOA.png",MvLao
-https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1708989851.m3u8
-#EXTINF:-1 group-title="ໂທລະພາບລາວ"tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/lao-1.png",ລາວຈຳປາ
-https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ໂທລະພາບລາວ"tvg-logo="https://thaitvstream.com/application/mtvlive/image/button/lao-1.png",ລາວຈຳປາ2
-https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ໂທລະພາບລາວ"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17810460_ico.png",ໂອ້ ເມືອງລາວ
-https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 group-title="ໂທລະພາບລາວ"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17810460_ico.png",ໂອຍລາວ
-https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ໂທລະພາບລາວ"tvg-logo="https://sv1.picz.in.th/images/2022/03/22/rMeg0S.png",Airtv
-https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://bit.ly/3JPtgUp",ท็อปไลน์ ทีวี
-https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgK9e.png",RUSH Stories
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgZjl.png",A'lure Channel
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
-#EXTINF:-1 group-title="Entertainment"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgu2b.png",MONO29 Music
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgiNv.jpg",PSIHD
-https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlZYcJ.png",KhongDee
-https://mediasv.online/stream_tv/goodtv37_KhongDee./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlcGen.png",Busaba
-https://mediasv.online/stream_tv/goodtv38_Busaba./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlcMnD.png",JustFun
-https://mediasv.online/stream_tv/goodtv39_JustFun./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlgU0N.png",ThaiNess
-https://mediasv.online/stream_tv/goodtv40_ThaiNess./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlgXBz.png",RealMetro
-https://mediasv.online/stream_tv/goodtv41_RealMetro./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rliQfq.png",Sweet
-https://mediasv.online/stream_tv/goodtv42_Sweet./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlivhg.png",Heart
-https://mediasv.online/stream_tv/goodtv43_Heart./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlR7ha.png",Hero
-https://mediasv.online/stream_tv/goodtv44_Hero./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqWPD.png",Sumlojlok
-https://mediasv.online/stream_tv/goodtv55_Sumlojlok./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRQAQ.png",AnimalShow
-https://mediasv.online/stream_tv/goodtv56_AnimalShow./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRu3f.png",BXcite
-https://mediasv.online/stream_tv/goodtv57_BXcite./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/nexdeI.png",MYSci
-https://mediasv.online/stream_tv/goodtv58_MYSci./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRVnR.png",New_Explorer
-https://mediasv.online/stream_tv/goodtv59_New_Explorer./playlist.m3u8
-#EXTINF:-1 group-title="GoodTV"tvg-logo="https://sv1.picz.in.th/images/2022/03/03/rlRGeI.png",nextKid
-https://mediasv.online/stream_tv/goodtv66_nextKid./playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqWPD.png",สำรวจโลก
-http://61.19.242.134/feed/202105171329//LC8/index.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/nexdeI.png",MYSCI
-http://61.19.242.134/feed/202105171329/LC37/index.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKRonD.png",เจริญเคเบิ้ล
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKg279.jpg",ดูนี่
-http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg",LOVENATURE 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg",LOVENATURE
-https://mediasv.online/stream_tv/563_Love_Nature/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg",BBC EARTH
-http://stream.cableth.com:1935/aslive/bbcearth/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/08/r0gxB9.png",Smithsonian
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://bit.ly/3spKrWM",ExploreWild
-https://mediasv.online/stream_tv/559_ExploreWild/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113192658tlc.png",TLC
-https://mediasv.online/stream_tv/566_TLC/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113035915outdoor.png",OUTDOOR
-https://mediasv.online/stream_tv/673_OUTDOOR/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://bit.ly/3hOT8nA",Discovery
-https://mediasv.online/stream_tv/562_Discovery/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://doo2you.com/icon/DiscoveryAsia.png",Discovery Asia True
-https://mediasv.online/stream_tv/557_H2/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://doo2you.com/icon/HistoryChannelHD.png",history
-https://mediasv.online/stream_tv/556_History/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://doo2you.com/icon/H2.png",H2HD
-https://mediasv.online/stream_tv/557_H2/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKglv2.webp",Nationnal_geographic
-https://mediasv.online/stream_tv/558_Nationnal_geographic/playlist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18576633_ico.png",ถื่นใต้
-https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True PremierHD 1
-https://mediasv.online/stream_tv/600_eng1/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True PremierHD 2
-https://mediasv.online/stream_tv/602_eng2/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True PremierHD 3
-https://mediasv.online/stream_tv/603_eng3/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True PremierHD 4 
-https://mediasv.online/stream_tv/604_eng4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="TrueSports",True PremierHD 5 
-https://mediasv.online/stream_tv/605_eng5/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
-https://mediasv.online/stream_tv/607_BEIN1/playlist.m3u8 
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT HD 2
-https://mediasv.online/stream_tv/607_BEIN2/playlist.m3u8 
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd1.png",TRUE SPORT HD 1 
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd1/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd2.png",TRUE SPORT HD 2 
-https://mediasv.online/stream_tv/668_Ts_HD3/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd3.png",TRUE SPORT HD 3
-https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd4.png",TRUE SPORT HD 4
-https://mediasv.online/stream_tv/669_Ts_HD4/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/TrueSport5.png",TRUE SPORT 5 
-https://mediasv.online/stream_tv/684_TSP5/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/TrueSport7.png",TRUE SPORT 7 
-https://mediasv.online/stream_tv/686_TSP7/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://sv1.picz.in.th/images/2021/02/08/oklyIR.png",TRUE NFL
-https://mediasv.online/stream_tv/672_NFL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/truetennisicon.png",TRUE TENNIS
-https://mediasv.online/stream_tv/670_Tennis/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/GolfChannel.png",TRUE GOLF
-https://mediasv.online/stream_tv/675_GOLF_HD/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFEwf.jpg",TRUE GOLF+
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/golf2/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png",3BB SPORT 1
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/rama-channel-2.png",Rama Channel
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png",TVB
+https://streaming.livescorethai.net/iptv/sd-tvb.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/d-drama.png",Drama (UK)
+https://streaming.livescorethai.net/iptv/uk-drama.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cna.png",Film 4 (UK)
+https://streaming.livescorethai.net/iptv/uk-film4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png",CBS Drama (UK)
+https://streaming.livescorethai.net/iptv/uk-cbsdrama.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/alibi.png",CBS Action (UK)
+https://streaming.livescorethai.net/iptv/uk-cbsaction.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cna.png",Channel NewsAsia
+https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png",Sky News (UK)
+https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/alibi.png",Alibi (UK)
+https://streaming.livescorethai.net/iptv/uk-alibi.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-01.png",Sky 1 (UK)
+https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-channel.png",Channel 4 (UK)
+https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cna.png",Arirang (KR)
+https://streaming.livescorethai.net/iptv/sd-arirang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png",Bloomberg Asia
+https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/alibi.png",CNN (UK)
+https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-01.png",FOX News (UK)
+https://streaming.livescorethai.net/iptv/uk-foxnews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-channel.png",Gold (UK)
+https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-world-news.png",BBC World News
+https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-news.png",BBC News (UK)
+https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/itv-hd.png",ITV 1 HD (UK)
+https://streaming.livescorethai.net/iptv/uk-itv1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/itv-hd.png",ITV 3 HD (UK)
+https://streaming.livescorethai.net/iptv/uk-itv3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/itv-hd.png",ITV 4 HD (UK)
+https://streaming.livescorethai.net/iptv/uk-itv4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/hln.png",HLN
+https://streaming.livescorethai.net/iptv/sd-hln.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",History (UK)
+https://streaming.livescorethai.net/iptv/uk-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/itv-be.png", ITV Be (UK)
+https://streaming.livescorethai.net/iptv/uk-itvbe.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/inside-crime-investigation.png", Crime & Investigation (UK)
+https://streaming.livescorethai.net/iptv/uk-ci.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvn.png",TVN (KR)
+https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/wb-tv.png",Warner TV (HD)
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tlc.png",TLC (EN)
+https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/axn.png",AXN (TH)
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-more.png",More 4 (UK) 
+https://streaming.livescorethai.net/iptv/uk-more4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4-channel.png",Channel 4 (UK)
+https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/4e-channel.png",E4 Channel
+https://streaming.livescorethai.net/iptv/uk-e4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cbs-reality.png",CBS Reality (UK)
+https://streaming.livescorethai.net/iptv/uk-cbsreality.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Lifetime (EN)
+https://streaming.livescorethai.net/iptv/hd-lifetimeeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/3e.png",3e (IE)
+https://streaming.livescorethai.net/iptv/ie-3e.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5usa.png",5 USA (UK)
+https://streaming.livescorethai.net/iptv/uk-usa.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/5star.png",5 Star (UK)
+https://streaming.livescorethai.net/iptv/uk-5star.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/47.png",4 Seven (UK)
+https://streaming.livescorethai.net/iptv/uk-4sevenhd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/rte-one.png",RTE One (IE)
+https://streaming.livescorethai.net/iptv/ie-rte1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://media.info/i/lf/0/1388405575/113.png",RTE Two (IE)
+https://streaming.livescorethai.net/iptv/ie-rte2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/challenge.png",Challenge (UK)
+https://streaming.livescorethai.net/iptv/uk-challenge.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/dave.png",Dave (UK)
+https://streaming.livescorethai.net/iptv/uk-dave.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-inside-hd-1.png",Inside (TH)
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png",Lifetime (TH)
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png",True Explore Wild (TH)
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/h2-hd.png",H2 (TH)
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png",H (TH)
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/afc-asian-food-channel.png",Asian Food Channel (TH)
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png",BBC Earth (TH)
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/asia-discovery.png",Discovery Asia (TH)
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-turbo.png",Discovery Turbo (UK)
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/national-geographic.png",National Geographic (TH)
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png",True Explore Wild (TH)
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/national-geographic.png",National Geographic (EN)
+https://streaming.livescorethai.net/iptv/hd-natgeoeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/id-investigation-discovery.png",Investigation Discovery (UK)
+https://streaming.livescorethai.net/iptv/uk-id.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-channel.png",Discovery Channel (EN)
+https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-channel.png",Discovery Channel (UK)
+https://streaming.livescorethai.net/iptv/uk-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-history.png",Discovery History (UK)
+https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/dmax.png",DMAX (UK)
+https://streaming.livescorethai.net/iptv/uk-dmax.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png",BBC One (UK)
+https://streaming.livescorethai.net/iptv/uk-bbc1hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/national-geographic.png",BBC Two (UK)
+https://streaming.livescorethai.net/iptv/uk-bbc2hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/id-investigation-discovery.png",BBC Three (UK)
+https://streaming.livescorethai.net/iptv/uk-bbc3hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-channel.png",BBC Four (UK)
+https://streaming.livescorethai.net/iptv/uk-bbc4hd.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704118.jpeg",True Sport 1
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD1
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD2
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD3
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2021/09/True-Premier-Football-HD1-1-300x86.png.webp",True Premier Football HD4
+https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/True-Premier-Football-HD5.png",True Premier Football HD5
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704118.jpeg",True Sport 1
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704124.jpeg",True Sport 2
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704141.jpeg",True Sport 3
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704158.jpeg",True Sport 5
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602704170.jpeg",True Sport 7
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png",True Tennis HD (TH)
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf-channel.png",Golf Channel Thailand (TH)
+https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nba-tv.png",NBA TV (TH)
+https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703707.png",Beinsport 1 TH
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://we-play.live/uploads/posters/-poster1602703712.png",Beinsport 2 TH
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png",Beinsport 3 TH
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png",Premier Sports (UK)
+https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png",Sky Bundesliga (DE)
+https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png",Sky Sports Premier League (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png",Sky Sports Mix (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-golf.png",Sky Sports Golf (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football-1.png",Sky Sports Football (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mutv.png",MUTV (UK)
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png",Liverpool FC TV
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf.png",NBC Golf
+https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png",Skysports-epl (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.png",Skysports-football (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://e3.365dm.com/tvlogos/channels/4002-Logo.png",Skysports-mainevent (UK)
+https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="SPORTS", Astro Sport 1
+https://www.mireasa-live.com/cdn/premium123/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTS", Astro Sport 3
+https://www.mireasa-live.com/cdn/premium125/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://pokerindustrypro.com/site_media/media/uploads/news/wpt-2022-new-logo.jpg",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTS TV 1
+http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTS TV 2
+http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/13122017-022525PM.png",ABU DHABI SPORT 1 HD
+http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/13122017-022604PM.png",ABU DHABI SPORT 2 HD
+http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
+#EXTINF:-1  group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/13122017-022552PM.png",ABU DHABI SPORT 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--333.png",SK1
+http://194.15.225.98:8000/play/a2qu
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--334.png",SK2
+http://194.15.225.98:8000/play/a2qz
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png",SK3
+http://194.15.225.98:8000/play/a2qt
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-extra-1-1164.png",beIN SPORT XTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein SPORT 1 HD
+http://62.210.137.234:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png",Bein SPORT 2 HD
+http://62.210.137.234:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",BeIN sport 1 fr
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png",BeIN sport 2 fr
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png",BeIN sport 3 fr
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/cpmepvrs/laliga-1.png?width=500",S La Liga
+http://178.218.196.218:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/yvuloxza/premier-league-1.png?width=500",S Premier League
+http://77.247.109.116/live/abr_b-1/live/b-1_480p/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/l0xffoec/grandstand-1.png?width=500",S Grandstand
+http://178.218.196.218:8000/play/a008/index.m3u8
