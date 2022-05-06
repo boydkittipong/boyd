@@ -80,9 +80,8 @@
 {"name": "ep 5", "image": "https://www.img01.xyz/assets/movie_poster/6/62bcaaf49e264cd433ea673b4208a339.jpg","url": "https://server38.oneplayer.online/hls/lvCv1rg/file_1080.mp4/index-v1-a1.m3u8","referer": "https://www.movie87hd.com/","playInNatPlayer": "true"},  
 {"name": "ep 6", "image": "https://www.img01.xyz/assets/movie_poster/6/62bcaaf49e264cd433ea673b4208a339.jpg","url": "https://server40.oneplayer.online/hls/fnLd6mK/file_1080.mp4/index-v1-a1.m3u8","referer": "https://www.movie87hd.com/","playInNatPlayer": "true"},  
 
-]},{"name": "Importar-muse-mix-tv","image": "https://sv1.picz.in.th/images/2020/12/18/jntmzb.png","groups":[
-
-{"name": "animation-series","image": "https://logos.flamingtext.com/Word-Logos/series-design-power-name.gif","url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/series","import": false},
+]},{"name": "series หน้า 2","image": "https://sv1.picz.in.th/images/2020/12/18/jntmzb.png","stations":[
+{"url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/series","import": false},
      
 
 ]
