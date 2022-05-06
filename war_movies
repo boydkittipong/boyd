@@ -17,12 +17,7 @@
 {"name": "ep 4", "image": "https://subserieshd.com/img/Moon-Knight-Season-1.jpg","url": "https://xxx.77player.xyz/ioshls/34ea567497520cdc52b97597109dc0f7/34ea567497520cdc52b97597109dc0f7.m3u8","referer": "","playInNatPlayer": "true"},  
 {"name": "ep 5", "image": "https://subserieshd.com/img/Moon-Knight-Season-1.jpg","url": "https://xxx.77player.xyz/autoplaylist/77b49c5c97d11756ac929d12/77b49c5c97d11756ac929d12.m3u8","referer": "","playInNatPlayer": "true"},  
 {"name": "ep 6", "image": "https://subserieshd.com/img/Moon-Knight-Season-1.jpg","url": "https://server5.oneplayer.online/hls/7GSTPME/file_,1080,720,360,.mp4.urlset/master.m3u8","referer": "https://www.siammovie-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 7", "image": "https://subserieshd.com/img/Moon-Knight-Season-1.jpg","url": "","referer": "","playInNatPlayer": "true"},  
-{"name": "ep 8", "image": "https://subserieshd.com/img/Moon-Knight-Season-1.jpg","url": "","referer": "","playInNatPlayer": "true"},  
-{"name": "ep 9", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
-{"name": "ep 10", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
-{"name": "ep 11", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
-{"name": "ep 12", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+
 
 ]},{"name": "Peacemaker Season 1 (2022) [พากย์ไทย]","image": "https://www.img01.xyz/assets/movie_poster/e/e2ac685a66c9ebb64468fbff74958d43.jpg","stations":[
 {"name": "ep 1", "image": "https://m.media-amazon.com/images/M/MV5BODk2NjAyOWMtM2FjZC00MjZhLTkxMjQtZTM3NjJlYTE5MDdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg","url": "https://server6.cdn-link.com/hls/ByjAuBK/file_1080.mp4/index-v1-a1.m3u8","referer": "https://www.ilike-movie.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},  
@@ -85,7 +80,9 @@
 {"name": "ep 5", "image": "https://www.img01.xyz/assets/movie_poster/6/62bcaaf49e264cd433ea673b4208a339.jpg","url": "https://server38.oneplayer.online/hls/lvCv1rg/file_1080.mp4/index-v1-a1.m3u8","referer": "https://www.movie87hd.com/","playInNatPlayer": "true"},  
 {"name": "ep 6", "image": "https://www.img01.xyz/assets/movie_poster/6/62bcaaf49e264cd433ea673b4208a339.jpg","url": "https://server40.oneplayer.online/hls/fnLd6mK/file_1080.mp4/index-v1-a1.m3u8","referer": "https://www.movie87hd.com/","playInNatPlayer": "true"},  
 
+]},{"name": "Importar-muse-mix-tv","image": "https://sv1.picz.in.th/images/2020/12/18/jntmzb.png","groups":[
 
+{"name": "animation-series","image": "https://logos.flamingtext.com/Word-Logos/series-design-power-name.gif","url": "https://raw.githubusercontent.com/boydkittipong/bflix/main/series","import": false},
      
 
 ]
