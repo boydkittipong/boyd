@@ -310,6 +310,25 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv1/sport-inter/sporttv1/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/i0jS150030.png",SPORT TV 2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/ballmun/sporttv2/sport-inter/sporttv2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://ballmun.com/
 
+#EXTINF:-1 tvg-id="" tvg-country="SE" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png" group-title="Sports",ASTRO SUPER SPORT 1
+http://203.154.243.89:21201/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%202.png" group-title="Sports",ASTRO SUPER SPORT 2
+http://203.154.243.89:21202/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%203.png" group-title="Sports",ASTRO SUPER SPORT 3
+http://203.154.243.89:21203/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png" group-title="Sports",ASTRO SUPER SPORT 4
+http://203.154.243.89:21204/nakhon
+
+#EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://www.i-pic.info/i/QMEr150062.png",DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://www.i-pic.info/i/WdsZ150061.png",DUBAI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="51" group-title="Sports" tvg-logo="https://www.i-pic.info/i/D9gt150059.png",DUBAI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="52" group-title="Sports" tvg-logo="https://www.i-pic.info/i/G7b4150060.png",DUBAI SPORTS 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:-1 tvg-id="53" group-title="Sports" tvg-logo="https://www.i-pic.info/i/XimK150063.png",DUBAI SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
 
 #EXTINF:-1 group-title="Sports" tvg-id="canal11hd.tv.vodafone.pt" tvg-name="11 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXz9x2lKoVuvYIkq-_UxhPA0u8AESixuGW-QC-_bHKcFKf3SLdlyYexOP6T_uNX1zOwY&usqp=CAU",CANAL 11
 #KODIPROP:inputstream=inputstream.adaptive
