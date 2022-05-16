@@ -14,9 +14,9 @@ https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8|User-Agent=e
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
 https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
-https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://stream-05.sg1.dailymotion.com/sec(-0fhsFhycCtfi6ARUwilaIoxElgRAH3hLGY5gG1HElYPgreZ3CH8y_evqYKi4nBe)/dm/3/x6824x8/s/live-4.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://streaming.livescorethai.net/iptv/sd-gmmchannel.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_QLcRQlvqwW_3FiyvgptpVzEP7VezLxnSmhGLb1hLfbC)/dm/3/x6rz4t7/s/live-4.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/5PcV148378.png",MARIN TV
 https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
@@ -479,3 +479,5 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #EXTINF:-1 group-title="👼 | Kênh KIDS & CARTOON" tvg-logo="https://i.imgur.com/GETG2sS.png",CONtv Anime
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 ,Discovery Science
+http://103.55.144.46/hls/dis-science.m3u8
