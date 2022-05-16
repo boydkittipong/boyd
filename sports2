@@ -381,7 +381,7 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8|Referer=https://player.licens
 https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/qelH155239.png",WORLD SNOOKER
 http://203.154.243.89:28010/pa/snooker.ts
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/tkXA155238.png",WTB
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/eQnW161181.png",WTB
 http://203.154.243.89:28010/pa/wtb.ts
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/9Cwz150075.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
