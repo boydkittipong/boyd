@@ -108,7 +108,7 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/kYEF161105.png" group-title="KidsTV",ANIMAX (Soundtrack)
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
-#EXTINF:-1 group-title="KidsTV" tvg-logo="https://samuigreenstation.net/wp-content/uploads/2022/05/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87-CONtv-ANIME-670x422.jpg",CONTV ANIME (Soundtrack)
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/BfFX161147.png",CONTV ANIME (Soundtrack)
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
 
@@ -281,15 +281,15 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/sport/spotv2/chunks
 
 
 
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232041_arenasport1serbia.jpg",ARENA SPORT 1
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://www.i-pic.info/i/merG161142.png",ARENA SPORT 1
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/sport-inter/arenasport1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232135_arenasport2serbia.jpg",ARENA SPORT 2
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://www.i-pic.info/i/PxIR161143.png",ARENA SPORT 2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport2/sport-inter/arenasport2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232129_arenasport3serbia.jpg",ARENA SPORT 3
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://www.i-pic.info/i/cKyX161144.png",ARENA SPORT 3
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/sport-inter/arenasport3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222232141_arenasport4serbia.jpg",ARENA SPORT 4
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://www.i-pic.info/i/Zd8G161145.png",ARENA SPORT 4
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/sport-inter/arenasport4/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
-#EXTINF:-1 group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122145748_arenasport5sr.png",ARENA SPORT 5
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://www.i-pic.info/i/mYX0161146.png",ARENA SPORT 5
 http://5.206.237.66:9000/play/a074
 #EXTINF:-1 group-title="World Sports" tvg-logo="https://www.i-pic.info/i/ybng150064.png",EURO SPORT 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
