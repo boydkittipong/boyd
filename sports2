@@ -324,6 +324,24 @@ http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png" group-title="Sports",ASTRO SUPER SPORT 4
 http://203.154.243.89:21204/nakhon
 
+
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/tglY149436.png",BEIN SPORT 1
+https://streaming.livescorethai.net/iptv/hd-bein8.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/1JEy149437.png",BEIN SPORT 2
+https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/UJYO149438.png",BEIN SPORT 3
+https://streaming.livescorethai.net/iptv/hd-bein3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/xioR149439.png",BEIN SPORT 4
+https://streaming.livescorethai.net/iptv/hd-bein4.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/t1Gr149440.png",BEIN SPORT 5
+https://streaming.livescorethai.net/iptv/hd-bein5.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/AbOc149441.png",BEIN SPORT 6
+https://streaming.livescorethai.net/iptv/hd-bein6.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/1CZz149442.png",BEIN SPORT 7
+https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.i-pic.info/i/lGJZ149445.png",BEIN SPORT XTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
 #EXTINF:-1 tvg-id="49" group-title="Sports" tvg-logo="https://www.i-pic.info/i/QMEr150062.png",DUBAI SPORTS
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="50" group-title="Sports" tvg-logo="https://www.i-pic.info/i/WdsZ150061.png",DUBAI SPORTS 1
