@@ -70,20 +70,25 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF:-1 group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/mSlT152050.png",COOL CHANNEL
 https://moviektu.com/Cool/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",DOONEETV
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",DOONEE TV
 http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/SBpi155299.png",NAKHON PLENG
+http://203.154.243.89:28008/nakhon/nakhonplange
+#EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/z7cy155297.png",MON PLENG
+http://203.154.243.89:28008/nakhon/monplange
 
 #EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CARTOONCLUB
 https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Zt6a148469.png",BOOMERANG
 https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.i-pic.info/i/jb2N148473.png",KidsTV | TOONEE
+#EXTINF:-1 group-title="KidsTV"tvg-logo="https://www.i-pic.info/i/jb2N148473.png",TOONEE
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 #EXTINF:-1 tvg-id="21" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
 https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",UMI
 http://203.154.243.89:28010/pa/umi.ts
-#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON NETWORK  (Soundtrack)
+#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON NETWORK (Soundtrack)
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CT2e4E.jpg",ZOOMOO (Soundtrack)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -152,7 +157,7 @@ http://203.154.243.89:28010/pa/animal.ts
 http://203.154.243.89:28010/pa/sci.ts
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8|Referer=https://player.licenses4.me
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png",Documentary | XPLORE
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png",XPLORE
 https://xplore-plex.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX
 https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
@@ -160,7 +165,7 @@ https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|User-Agen
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Yj8J152288.png" group-title="Variety",FOX LIFE
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Documentary",Documentary | NASA TV
+#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Documentary",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
