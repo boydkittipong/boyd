@@ -460,55 +460,19 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=History_HD&q=800&e=.m3u8
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live1
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live2
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live3
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live4
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live5
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live6
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live7
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live8
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live9
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live10
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live11
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live12
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live13
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live14
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live15
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live16
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live17
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live18
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live19
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live20
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="Live",Live21
-http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO Asia
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits Asia
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cinemax.jpg",Cinemax Asia
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family Asia
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
+https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
