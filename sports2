@@ -253,15 +253,15 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m
 #EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/W1Be149381.png",BEIN SPORT 3
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/sport/bein3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/N91L149387.png",TRUE SPORT 1
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/sport/truesporthd1/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/ymaQ149388.png",TRUE SPORT 2
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/sport/truesporthd2/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/zodM149389.png",TRUE SPORT 3
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/sport/truesporthd3/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/1SWo149391.png",TRUE SPORT 5
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/sport/truesportsd5/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/ecN1149392.png",TRUE SPORT 7
-https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/sport/truesportsd7/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://dooball2you.com/
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/jP9z149418.png",TRUE TENNIS
 https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/aKLU149421.png",GOLF CHANNEL
