@@ -4,37 +4,37 @@ https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
 https://freelive.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/fsq3148381.png",CH7
-https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+http://gmm-live-test.sky-cdn.com:1935/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/i3GZ148383.png",9 MCOT
-http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/PREF148389.png",NBT
 http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/XFrL148393.png",THAI PBS
-http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/jnG4148392.png",PPTV
-http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
+http://gmm-live-test.sky-cdn.com:1935/pptv/pptv.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nxJd148391.png",ONE31
-https://stream-05.sg1.dailymotion.com/sec(-0fhsFhycCtfi6ARUwilaIoxElgRAH3hLGY5gG1HElYPgreZ3CH8y_evqYKi4nBe)/dm/3/x6824x8/s/live-4.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/wQxS148385.png",GMM25
-https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_QLcRQlvqwW_3FiyvgptpVzEP7VezLxnSmhGLb1hLfbC)/dm/3/x6rz4t7/s/live-4.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/5PcV148378.png",AMARIN TV
-https://freelive.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
+http://gmm-live-test.sky-cdn.com:1935/amarin/amarin.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/ay0i148387.png",MONO29
-http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6tGq148397.png",WORKPOINT TV
-http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/skWC148395.png",TRUE4U
-http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
+http://gmm-live-test.sky-cdn.com:1935/true4u/true4u.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
-http://61.19.242.134/feed/202105171329/ch8/index.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-http://61.19.242.134/feed/202105171329/chthairath/index.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
-http://61.19.242.134/feed/202105171329/newtv/index.m3u8
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
 https://freelive.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/sRiS148388.png",NATION TV
-http://61.19.242.134/feed/202105171329/chnation/index.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
 https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w1209799966.m3u8
 
