@@ -449,33 +449,11 @@ http://38.123.205.70:8000/play/a09b/index.m3u8|Referer=https://player.licenses4.
 http://94.229.250.73:8008/play/a002|Referer=https://player.licenses4.me
 
 
-#EXTINF:-1,SLO: ŠPORT TV 1 ᴴᴰ
-http://roi-tv.net:9000/iptv-t2/xtream-08-02-17-POlkrT6!/30
-#EXTINF:-1,SLO: ŠPORT TV 2 ᴴᴰ
-http://roi-tv.net:9000/iptv-t2/xtream-08-02-17-POlkrT6!/31
-#EXTINF:-1,SLO: ŠPORT TV 3 ᴴᴰ
-http://roi-tv.net:9000/iptv-t2/xtream-08-02-17-POlkrT6!/32
-
-#EXTINF:-1,AU Fox Sports 501 FHD
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/21618
-#EXTINF:-1,AU Fox Sports 502 FHD
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/21619
-#EXTINF:-1,AU Fox Sports 502 NRL
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/144729
-#EXTINF:-1,AU Fox Sports 503 FHD
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/21620
-#EXTINF:-1,AU Fox Sports 504 FHD
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/21621
-#EXTINF:-1,AU Fox Sports 504 NRL
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/144730
-#EXTINF:-1,AU Fox Sports 505 FHD
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/21622
-#EXTINF:-1,AU Fox Sports 506 FHD
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/21623
-#EXTINF:-1,AU Fox Sports 507 FHD
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/21624
-
-
+{
+name:"HBO HITS",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
+url:"http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd"
+},
 
 
 
