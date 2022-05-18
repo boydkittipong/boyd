@@ -466,3 +466,5 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/2c6bff237c495869826df47f1dbe5603.png?fbclid=IwAR3IsKCS_GculXwryMiUgnOgK-Hn-IUinKl6-cMkps610q-nCG15ZwZ1gOw" group-title="กิฬานอก", VTV6HD
+https://mutixx5hq1liv.akamaized.net/vtv6/index.m3u8
