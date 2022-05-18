@@ -440,16 +440,21 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 
 #EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="XXX" tvg-logo="https://www.i-pic.info/i/dMAL152063.png",PLAY BOY
-http://38.123.205.70:8000/play/a09a/index.m3u8|Referer=https://player.licenses4.me
+http://38.123.205.70:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="sextreme.co" tvg-name="SEXTREME" group-title="XXX" tvg-logo="https://www.i-pic.info/i/VETO152052.png",SEX XTREME
-http://38.123.205.70:8000/play/a09c/index.m3u8|Referer=https://player.licenses4.me
+http://38.123.205.70:8000/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="XXX" tvg-logo="https://www.i-pic.info/i/XkeE152061.png",VENUS
-http://38.123.205.70:8000/play/a09b/index.m3u8|Referer=https://player.licenses4.me
+http://38.123.205.70:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
-http://94.229.250.73:8008/play/a002|Referer=https://player.licenses4.me
+http://94.229.250.73:8008/play/a002
 
 
-
-
-
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU" group-title="Movie",HBO HITS (Soundtrack)
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU" group-title="Movie",HBO SIGNATURE (Soundtrack)
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU" group-title="Movie",HBO FAMILY (Soundtrack)
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU" group-title="Movie",CINEMAX (Soundtrack)
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 
