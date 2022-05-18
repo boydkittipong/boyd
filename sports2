@@ -450,11 +450,19 @@ http://94.229.250.73:8008/play/a002
 
 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU" group-title="Movie",HBO HITS (Soundtrack)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU" group-title="Movie",HBO SIGNATURE (Soundtrack)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU" group-title="Movie",HBO FAMILY (Soundtrack)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU" group-title="Movie",CINEMAX (Soundtrack)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 
