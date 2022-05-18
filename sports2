@@ -448,21 +448,6 @@ http://38.123.205.70:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=blah&User-Agent=Blah
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU" group-title="Movie",HBO HITS (Soundtrack)
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=blah&User-Agent=Blah
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09O5ynHfI9H3pDVYQX_c7FcMmbFwDq7r1hg&usqp=CAU" group-title="Movie",HBO SIGNATURE (Soundtrack)
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=blah&User-Agent=Blah
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN11kZp9C_j2aeVsfbtcXeC7HouWQjY4wMaQ&usqp=CAU" group-title="Movie",HBO FAMILY (Soundtrack)
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=blah&User-Agent=Blah
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKvK6eieRrscO48zmUXTgfT-vlhcNrcPUDw&usqp=CAU" group-title="Movie",CINEMAX (Soundtrack)
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/2c6bff237c495869826df47f1dbe5603.png?fbclid=IwAR3IsKCS_GculXwryMiUgnOgK-Hn-IUinKl6-cMkps610q-nCG15ZwZ1gOw" group-title="กิฬานอก", VTV6HD
 https://mutixx5hq1liv.akamaized.net/vtv6/index.m3u8
@@ -470,8 +455,8 @@ https://mutixx5hq1liv.akamaized.net/vtv6/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="",True Premier Fooball HD 1
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="",True Premier Fooball HD 1
-https://playerembed-lb.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU" group-title="",Thai league 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
