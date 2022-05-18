@@ -466,3 +466,6 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/2c6bff237c495869826df47f1dbe5603.png?fbclid=IwAR3IsKCS_GculXwryMiUgnOgK-Hn-IUinKl6-cMkps610q-nCG15ZwZ1gOw" group-title="กิฬานอก", VTV6HD
 https://mutixx5hq1liv.akamaized.net/vtv6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="",True Premier Fooball HD 1
+http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
