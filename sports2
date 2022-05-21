@@ -449,9 +449,9 @@ http://94.229.250.73:8008/play/a002
 https://mutixx5hq1liv.akamaized.net/vtv6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="",True Premier Fooball HD 1
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="",True Premier Fooball HD 2
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="",True Premier Fooball HD 1
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
@@ -493,5 +493,11 @@ https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 RealStories tvg-logo="https://i.imgur.com/TVfuBfJ.jpg", Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,T Sports 7
+https://youdooball.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8
+
+#EXTINF:-1,Sumlojlok
+http://61.19.242.134/feed/202105171329/LC8/index.m3u8
 
 
