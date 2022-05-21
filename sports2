@@ -466,13 +466,8 @@ https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI=
 
 
-
 #EXTINF:-1 Spark Tv, tvg-logo="https://i.imgur.com/vTGknv3.png",Spark Tv
 https://sparktv-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 RealStories tvg-logo="https://i.imgur.com/TVfuBfJ.jpg", Real Stories
-https://realstories-samsung-uk.amagi.tv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtBpRq.jpg",Chiangrai Channel 
@@ -536,10 +531,8 @@ https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2
 
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/bbc-lifestyle24.webp",BBC lifestyle
 https://mediasv.online/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowNDo0MCBQTSZoYXNoX3ZhbHVlPXBNN3hRMzM4am43RGlxZGVvTVBrQ0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzAmaWQ9Y2hfMTU3Nzk=
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/bbc-lifestyle24.webp",BBC lifestyle
-https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppGXAVxFcNXR30eEOO17XCyu3H6m6Dxn3Lg&usqp=CAU",Rock Entertainment
-https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r8/blueant/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDEwOjI0OjMzIEFNJmhhc2hfdmFsdWU9RWx6Z2ZqbkRBa3dYeEFnaEZZVGl0QT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIyJmlkPTk2MDc4Nw==
+https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r8/blueant/chunklist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDEwOjI0OjMzIEFNJmhhc2hfdmFsdWU9RWx6Z2ZqbkRBa3dYeEFnaEZZVGl0QT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIyJmlkPTk2MDc4Nw==
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyhylkMh12QLIYQue1RJB1rznESNif0AYTg&usqp=CAU",HBO SIGNATURE
-https://r3-sn-5fo-c37ed1.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDEwOjI3OjAwIEFNJmhhc2hfdmFsdWU9eGZqVlovTmY0UTZHQjFpZUR4Skl1Zz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTIyODg4Nw==
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDEwOjQxOjM0IEFNJmhhc2hfdmFsdWU9NmROMldidHExZmFGYWd6eGNnT0kwdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTIyMjUzNQ==
