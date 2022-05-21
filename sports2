@@ -537,7 +537,8 @@ https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r8/blueant/chunklist.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyhylkMh12QLIYQue1RJB1rznESNif0AYTg&usqp=CAU",HBO SIGNATURE
 https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIyIDEwOjQxOjM0IEFNJmhhc2hfdmFsdWU9NmROMldidHExZmFGYWd6eGNnT0kwdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTIyMjUzNQ==
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="Movies", HBO Signature
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
