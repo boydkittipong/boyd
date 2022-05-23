@@ -168,8 +168,6 @@ https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|User-Agen
 https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/EIyG156893.png",DISCOVERY CHANNEL
-https://edge-s2a.onlineprostream.com:460/hmcb4rf66f-th1/sd-discovery_480/chunks.m3u8?nimblesessionid=439054&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIyIDM6MzQ6MDAgQU0maGFzaF92YWx1ZT1kNHFuZERTa3poWWdyVHZuQWpmOVNBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9OTcyMDg0MnxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDEuMC40OTUxLjY3IFNhZmFyaS81MzcuMzZ8MTY1MzI3Njg0MHxzZC1kaXNjb3ZlcnlfNDgwfDk3MjA4NDJ8MTE4LjE3Mi4xMjQuMTMz
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
@@ -235,8 +233,6 @@ https://mediasv.online/stream_live/224_MovieHit/playlist.m3u8?wmsAuthSign=c2Vydm
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://mediasv.online/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1Nzo1MiBQTSZoYXNoX3ZhbHVlPWhzdTcwbTBLVXk2cjI0RTdPVWlJd0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNTE1Njg=
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tfilm2.png",TRUE FILM 2
-https://edge-s2a.onlineprostream.com:460/hmcb4rf66f-th1/hd-tfilm2_720/chunks.m3u8?nimblesessionid=439193&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIyIDM6NTQ6MjggQU0maGFzaF92YWx1ZT1oR3dDdWw1VXVGUEs0N2dHRnoxQjh3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjgmaWQ9MjE3MzYwOXxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDEuMC40OTUxLjY3IFNhZmFyaS81MzcuMzZ8MTY1MzI3ODA2OHxoZC10ZmlsbTJfNzIwfDIxNzM2MDl8MTE4LjE3Mi4xMjQuMTMz
 
 
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/r3zy155234.png",UNIVERSAL MOVIES
@@ -275,8 +271,6 @@ https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzozMSBQTSZoYXNoX3ZhbHVlPURzSmtMcjFuYVYycEIyY0IvbXk2cmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNDE5OTk=
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
 https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzowMSBQTSZoYXNoX3ZhbHVlPUVkSEJkRUxqKzROVEVzRE80WEdzRnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNjM5MTE=
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png",ROCK ENTERTAINMENT
-https://edge-s2a.onlineprostream.com:460/hmcb4rf66f-th1/hd-rtlcbs_480/chunks.m3u8?nimblesessionid=439133&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIyIDM6NDg6MjIgQU0maGFzaF92YWx1ZT0rc2x3VGZxemp6K1NPaEwyYlVWU3N3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjgmaWQ9MTQzMDQ2MHxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDEuMC40OTUxLjY3IFNhZmFyaS81MzcuMzZ8MTY1MzI3NzcwMnxoZC1ydGxjYnNfNDgwfDE0MzA0NjB8MTE4LjE3Mi4xMjQuMTMz
 
 
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hero53.webp",HERO
