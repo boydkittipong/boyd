@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  ,HBO
+https://r3-sn-5fo-c37ed2.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIyIDEwOjU3OjM5IEFNJmhhc2hfdmFsdWU9Z0poYmdDbDlYQlZwaVdkWXh3K3ZtQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI2JmlkPTc1NzI1MQ==
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
