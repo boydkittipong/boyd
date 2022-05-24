@@ -1,4 +1,7 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=7892470,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
+chunk.m3u8?nimblesessionid=3151&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIyIDU6MzU6MDQgQU0maGFzaF92YWx1ZT1PcjgzZTVGamhxc0JETmFhR2JuZnp3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTY2JmlkPWNoXzI5NTky
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
