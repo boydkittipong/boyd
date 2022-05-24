@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,A lure channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
