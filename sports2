@@ -114,6 +114,12 @@ http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/BfFX161147.png",CONTV ANIME (Soundtrack)
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png",LEGO
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSXLuAItc_2TxyAIYYjZELL7FqMWaJjJ2wH3vuGTw=s900-c-k-c0x00ffffff-no-rj",DISNEY CHANNEL (Soundtrack)
 https://h5.ustvgo.la/Disney/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDIyIDM6MzY6MTkgQU0maGFzaF92YWx1ZT1QZmFTVjh4aHhmUXlBR3c1WUYzSk53PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://i.pinimg.com/originals/fb/bb/41/fbbb41eb62f4cb95dcd30474468887df.jpg",DISNEY XD (Soundtrack)
@@ -570,17 +576,3 @@ http://38.123.205.70:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
 
-
-
-#EXTINF:0  tvg-logo="http://i.picasion.com/resize90/d4bc8ec2d5082d4546b33e04aa5d7d92.png",LEGO
-https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/7JgSZuVf9ECsjfHwfJ/giphy_s.gif",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-
-#EXTINF:-1, Cable Series 2
-http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
-#EXTINF:-1, MOVIE CHANNEL 3
-http://203.159.95.172:8081/live/banner003/playlist.m3u8
-#EXTINF:-1 , MOVIE CHANNEL 5
-http://203.159.95.172:8081/live/comedy1/playlist.m3u8
