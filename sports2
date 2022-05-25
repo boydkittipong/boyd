@@ -566,3 +566,17 @@ http://38.123.205.70:8000/play/a09c/index.m3u8
 http://38.123.205.70:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
+
+
+#EXTINF:-1 tvg-logo="http://www.bbc.co.uk/staticarchive/a80b8cc5b66da5e883eba7ba58449472a8a3e075.jpg",True spark jump
+https://wacth.tv/tv-player/true-spark-jum.html
+#EXTINF:0  tvg-logo="http://i.picasion.com/resize90/d4bc8ec2d5082d4546b33e04aa5d7d92.png",LEGO
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="https://media1.giphy.com/media/7JgSZuVf9ECsjfHwfJ/giphy_s.gif",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/Spacetoon.png",SpaceToon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w37599061_b1296000_slAR.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/12/16/jP80WW.png",Cartoon Network Thai
+https://siamtv88.co/index.php?a=live_details&channel_code=th-cartoonnetwork
+#EXTINF:-1 tvg-logo="https://youdooball.com/wp-content/uploads/2020/08/fc9ea58f-72b7-44a4-b27b-3179df6c8445.png",Spark play
+https://siamtv88.co/index.php?a=live_details&channel_code=th-sparkplay
