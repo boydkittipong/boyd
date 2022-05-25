@@ -233,6 +233,9 @@ http://203.154.243.89:28010/pa/ping.ts
 #EXTINF:-1 tvg-id="N/A" group-title="TV Series" tvg-logo="https://www.i-pic.info/i/RQ7a155236.png",SERIES CHANNEL
 http://203.154.243.89:28007/mss/series
 
+
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/TS_MKXdBZaPJn2vAZ_NZos9MdedCJtOdhxOs0C15WTH1bVHPKsa5RNnJi4Wyq19UEw" group-title="TV Series",THE CW (Soundtrack)
+https://h4.ustvgo.la/CW/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDIyIDU6Mjk6MzcgQU0maGFzaF92YWx1ZT1vSjF0aGdsclRvdkgwRWZxeEcxT2VBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYrt9umo0mc7EseA9Zs3igMeQHDIs3PLgEdZmkmRqNY5TD_-nCIf-XybdN04xQj-NI7Q&usqp=CAU" group-title="TV Series",AMC (Soundtrack)
 https://h4.ustvgo.la/AMC/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDIyIDU6MDA6NDggQU0maGFzaF92YWx1ZT1hMTdmVndoUVhNanlPY25XdUt1WE1BPT0mdmFsaWRtaW51dGVzPTI0MA==
 
