@@ -574,3 +574,10 @@ https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://media1.giphy.com/media/7JgSZuVf9ECsjfHwfJ/giphy_s.gif",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
+
+#EXTINF:-1, Cable Series 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
+#EXTINF:-1, MOVIE CHANNEL 3
+http://203.159.95.172:8081/live/banner003/playlist.m3u8
+#EXTINF:-1 , MOVIE CHANNEL 5
+http://203.159.95.172:8081/live/comedy1/playlist.m3u8
