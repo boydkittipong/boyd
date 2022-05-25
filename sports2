@@ -115,6 +115,8 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/BfFX161147.png",CONTV ANIME (Soundtrack)
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSXLuAItc_2TxyAIYYjZELL7FqMWaJjJ2wH3vuGTw=s900-c-k-c0x00ffffff-no-rj",DISNEY CHANNEL (Soundtrack)
+https://h5.ustvgo.la/Disney/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDIyIDM6MzY6MTkgQU0maGFzaF92YWx1ZT1QZmFTVjh4aHhmUXlBR3c1WUYzSk53PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 
