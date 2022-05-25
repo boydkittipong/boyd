@@ -227,6 +227,8 @@ http://203.154.243.89:28010/pa/ping.ts
 #EXTINF:-1 tvg-id="N/A" group-title="TV Series" tvg-logo="https://www.i-pic.info/i/RQ7a155236.png",SERIES CHANNEL
 http://203.154.243.89:28007/mss/series
 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYrt9umo0mc7EseA9Zs3igMeQHDIs3PLgEdZmkmRqNY5TD_-nCIf-XybdN04xQj-NI7Q&usqp=CAU" group-title="TV Series",AMC (Soundtrack)
+https://h4.ustvgo.la/AMC/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDIyIDU6MDA6NDggQU0maGFzaF92YWx1ZT1hMTdmVndoUVhNanlPY25XdUt1WE1BPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/dZvR148415.png",TRUE MOVIE HITS
@@ -250,9 +252,9 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="N/A" group-title="Movies"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
+#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Movies"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",KBS WORLD
@@ -302,6 +304,8 @@ http://103.167.190.250/hls/star-worldhd.m3u8
 http://103.167.190.250/hls/starmovies.m3u8
 #EXTINF:-1,tvg-logo="https://www.i-pic.info/i/rkIZ161112.png" group-title="Movie",KKTV (Soundtrack)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
