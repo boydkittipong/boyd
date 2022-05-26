@@ -11,6 +11,188 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg" group-title="World Sports",J SPORTS 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 group-title="FILMES/SERIES",AMC
+http://200.4.96.59:8002/play/a0dp/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",AXN
+http://187.85.237.8:8825/ipvt_005
+
+#EXTINF:-1 group-title="FILMES/SERIES",Canal Sony
+http://187.13.85.16:4000/play/a09r
+
+#EXTINF:-1 group-title="FILMES/SERIES",CineBrasil TV
+http://168.205.87.198:8555/live/4666/123456/145.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cinecanal
+http://200.4.96.59:8002/play/a0g7/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Cinemax
+http://200.4.96.59:8002/play/a0ez/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Classique TV
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w227761684.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",CLC Filmes
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Curta!
+http://200.4.96.59:8002/play/a0dk/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",DC TV [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137489
+
+#EXTINF:-1 group-title="FILMES/SERIES",Eurochannel
+http://200.4.96.59:8002/play/a0dt/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Fandom TV
+http://168.205.87.198:8555/live/4666/123456/197.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Fiction Movies [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137515
+
+#EXTINF:-1 group-title="FILMES/SERIES",Film&Arts
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Acao [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137494
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Classicos [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137495
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Comedia [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137497
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Terror [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137502
+
+#EXTINF:-1 group-title="FILMES/SERIES",Filmes Western [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137496
+
+#EXTINF:-1 group-title="FILMES/SERIES",FX
+http://200.4.96.59:8002/play/a0f5/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",GLN TV
+https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO 2
+http://189.91.128.146:4444/udp/227.10.20.155:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Family
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Mundi
+http://200.4.96.59:8002/play/a0f0/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Plus
+http://189.91.128.146:4444/udp/227.10.20.156:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Pop
+http://189.91.128.146:4444/udp/227.10.20.99:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Portugal [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137492
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Signature
+http://189.91.128.146:4444/udp/227.10.20.158:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",HBO Xtreme
+http://200.4.96.59:8002/play/a0f1/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",I.Sat
+http://200.24.92.20:4000/play/a043
+
+#EXTINF:-1 group-title="FILMES/SERIES",Marvel [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137493
+
+#EXTINF:-1 group-title="FILMES/SERIES",Marvel II [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137490
+
+#EXTINF:-1 group-title="FILMES/SERIES",Megapix
+http://200.4.96.59:8003/play/a04k/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",My Time Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Netflix [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137491
+
+#EXTINF:-1 group-title="FILMES/SERIES",Paramount
+http://200.24.92.20:4000/play/a045
+
+#EXTINF:-1 group-title="FILMES/SERIES",RunTime Acao
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 group-title="FILMES/SERIES",RunTime Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="FILMES/SERIES",Series Classicas
+http://168.205.87.198:8555/live/4666/123456/160.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Space
+http://187.13.85.16:4000/play/a0e7
+
+#EXTINF:-1 group-title="FILMES/SERIES",Spark TV
+https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Channel
+http://200.4.96.59:8002/play/afte/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Star Wars [LEG]
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/137504
+
+#EXTINF:-1 group-title="FILMES/SERIES",Studio Universal
+http://187.13.85.16:4000/play/a07a
+
+#EXTINF:-1 group-title="FILMES/SERIES",Syfy
+http://187.13.85.16:4000/play/a09s
+
+#EXTINF:-1 group-title="FILMES/SERIES",TBS
+http://200.24.92.20:4000/play/a040
+
+#EXTINF:-1 group-title="FILMES/SERIES",TCM
+http://200.4.96.59:8003/play/a040/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Action
+http://200.4.96.59:8003/play/a04l/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Cult
+http://200.4.96.59:8003/play/a04n/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Fun
+http://200.4.96.59:8003/play/a04m/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Pipoca
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Premium
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+
+#EXTINF:-1 group-title="FILMES/SERIES",Telecine Touch
+http://187.13.85.16:4000/play/a073
+
+#EXTINF:-1 group-title="FILMES/SERIES",TNT Series
+http://187.13.85.16:4000/play/a09m
+
+#EXTINF:-1 group-title="FILMES/SERIES",Universal TV
+http://200.4.96.59:8002/play/a0eq/index.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Movies
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/chunklist_w627497384.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Urban Series
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w949993906.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES",Warner Channel
+http://200.24.92.20:4000/play/a046
+
+
+
 #EXTINF:-1 tvg-id="1" group-title="Top Movies" tvg-name="King Naresuan 1" ,ตำนานสมเด็จพระนเรศวรมหาราช ๑ องค์ประกันหงสา
 https://vs01.kkembed.com/files/mp4/o/oFaLs.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Top Movies" tvg-name="King Naresuan 2" ,ตำนานสมเด็จพระนเรศวรมหาราช ๒ ประกาศอิสระภาพ
