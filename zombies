@@ -11,6 +11,28 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg" group-title="World Sports",J SPORTS 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 group-title="VARIEDADES",Discovery Channel
+http://191.212.169.139:8000/play/a033
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery H&H
+http://200.4.96.59:8002/play/a0en/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery ID
+http://191.212.169.139:8000/play/a035
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Science
+http://200.4.96.59:8002/play/a0ds/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Theater
+http://200.4.96.59:8041/play/a03e/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery Turbo
+http://200.4.96.59:8002/play/a0eo/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Discovery World
+http://200.4.96.59:8041/play/a03f/index.m3u8
+
+
 #EXTINF:-1 group-title="FILMES/SERIES",AMC
 http://200.4.96.59:8002/play/a0dp/index.m3u8
 
