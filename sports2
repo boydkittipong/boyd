@@ -957,3 +957,6 @@ http://200.4.96.59:8002/play/a0eo/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",Discovery World
 http://200.4.96.59:8041/play/a03f/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+http://191.212.169.139:8000/play/a03f
