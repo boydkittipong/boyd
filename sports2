@@ -600,32 +600,54 @@ http://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (teen)
 http://cdn.adultiptv.net/teen.m3u8
 
-
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/12108746_1172707072743452_4844197158146755416_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zw1bTBCOPo0AX8RNshx&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT9DlShkyTekmTXnuSYjeDPnTjX0_Ttg8dMdaDmaNU2mGw&oe=62B772DE",SUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
+
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/12109151_1172707049410121_4940337440526308634_n.png?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=Wz_QzPX0FWwAX91CY7S&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT97LXXEb2XsPfsgW1ytvWHTPMAqTXxXmRpmJPdm8M5Gjg&oe=62B920B6",SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
+
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="",BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
-#EXTINF:-1 group-title="ทีวีดาวเทียม" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.6435-9/85127968_900064630432050_2901275804589621248_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UAqtRdcyyHcAX8Me7IJ&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT9aHeM0f9Q_jjn8mciwFfauaRLO0Fy0A8Os_H8BKHlgxA&oe=62B72D71" ,LAKORN THAI
-https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/chunks.m3u8
+
 #EXTINF:-1 group-title="การ์ตูน" ,Sanook
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8
+
 #EXTINF:-1 tvg-id="RockEntertainment.sg" group-title="บันเทิง" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAiF1W.jpg",Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="RockExtreme.sg" group-title="บันเทิง" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CARZ6P.jpg",Blue Ant Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="Kix.hk" group-title="บันเทิง",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://sv1.picz.in.th/images/2021/10/02/Cm6pmJ.jpg",DreamWorks VN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png" group-title="World Sports",J SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="World Sports",J SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png" group-title="World Sports",J SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg" group-title="World Sports",J SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 
 
 
