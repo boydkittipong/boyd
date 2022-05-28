@@ -247,7 +247,8 @@ http://freelive2.inwstream.com:1935/freelive-edge/fwmov_fw-iptv.stream/playlist.
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/OZgs148484.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/12108746_1172707072743452_4844197158146755416_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zw1bTBCOPo0AX8RNshx&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT9DlShkyTekmTXnuSYjeDPnTjX0_Ttg8dMdaDmaNU2mGw&oe=62B772DE",SUN
+https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
