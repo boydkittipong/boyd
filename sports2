@@ -28,7 +28,7 @@ https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/yJ2z148382.png",CH8
 https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/PnKO148394.png",THAIRATH TV
-https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/tQeY148386.png",JKN18
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/GcQn148403.png",TNN16
