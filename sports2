@@ -481,6 +481,8 @@ http://203.154.243.89:28010/pa/snooker.ts
 http://203.154.243.89:28010/pa/wtb.ts
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/9Cwz150075.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnd3ZS51bml2ZXJzZV9pY29uXzE1NjQwNTI5ODdfMDAy/icon.png?w=&fakeurl=1",WWE
+http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/mpuD150072.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
