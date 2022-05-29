@@ -631,7 +631,5 @@ http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 ,RUSH STORIES
-https:aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+https:aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd|User-Agent=exoplayer_video&Referer=https://3bbtv.com
