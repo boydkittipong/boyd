@@ -620,5 +620,5 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 
 
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",tfilm2
-#EXTVLCOPT:http-referrer=https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c_details&channel_code=hd-tfilm2_720
-https://edge-m1.onlineprostream.com:444/hmcb4rf66f-th1/hd-tfilm2_720/chunks.m3u8?restrict_session_ip = false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://playerembed-lb.blackboxsys.net/player.php?channel="hd-tfilm2_720"&api_key=hmcb4rf66f
