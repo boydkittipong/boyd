@@ -248,21 +248,7 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/OZgs148484.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/12108746_1172707072743452_4844197158146755416_n.png?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=Zw1bTBCOPo0AX8RNshx&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT9DlShkyTekmTXnuSYjeDPnTjX0_Ttg8dMdaDmaNU2mGw&oe=62B772DE",SUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/12109151_1172707049410121_4940337440526308634_n.png?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=Wz_QzPX0FWwAX91CY7S&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT97LXXEb2XsPfsgW1ytvWHTPMAqTXxXmRpmJPdm8M5Gjg&oe=62B920B6",SAMURAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
-
-#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="",BOX FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน" ,Sanook
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://cdn6.goprimetime.info/feed/202105171329/LC53/index.m3u8
 
 
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
@@ -274,6 +260,22 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 http://203.159.95.172:8081/live/action001/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="",SUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="",SANOOK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="",SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1",AMC PRESENTS
@@ -311,18 +313,8 @@ http://203.154.243.89:28010/pa/hchannel.ts
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png" group-title="Movie",SONY PIX (Soundtrack)
-http://103.167.190.250/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uRT5156889.png" group-title="Movie",MNX (Soundtrack)
-http://103.167.190.250/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.i-pic.info/i/iOZU156900.png" group-title="Movie",MN+ (Soundtrack)
-http://103.167.190.250/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/PZoE156901.png" group-title="Movie",MOVIES NOW (Soundtrack)
-http://103.167.190.250/hls/movies-now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movie" tvg-logo="https://www.i-pic.info/i/dURS156921.png" group-title="Movie", STAR WORLD (Soundtrack)
-http://103.167.190.250/hls/star-worldhd.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",STAR MOVIES (Soundtrack)
-http://103.167.190.250/hls/starmovies.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo="https://www.i-pic.info/i/rkIZ161112.png" group-title="Movie",KKTV (Soundtrack)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
@@ -610,26 +602,36 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
-#EXTINF:-1 ,BOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202105171329/LC52/index.m3u8
 
-#EXTINF:-1 ,SUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202105171329/LC1/index.m3u8
 
-#EXTINF:-1 ,SANOOK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202105171329/LC53/index.m3u8
-
-#EXTINF:-1 ,Samurai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202105171329/LC2/index.m3u8
-
-#EXTINF:-1 ,THAILEAGUE
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
 
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
 
-#EXTINF:-1 ,HIT
-https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r7/hitsmovie/chunks.m3u8?nimblesessionid=13783244&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDIyIDM6NDg6MzMgQU0maGFzaF92YWx1ZT1tOWZsbGRIOHlFRDZvWU1KQkVKTkl3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjQmaWQ9MTExNzk2|User-Agent=exoplayer_video&Referer=https://www.doofootball.com/
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
+
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
