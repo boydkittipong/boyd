@@ -629,3 +629,7 @@ http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 #EXTINF:-1 ,THAILEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8
+
+#EXTINF:-1 ,liver
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8
