@@ -618,6 +618,45 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
 
+#EXTINF:-1 group-title = "CANALESTVLAT2",HBO
+http://45.181.121.154:8000/play/a00l
+
+#EXTINF:-1 group-title = "CANALESTVLAT2",HBO 2
+http://45.181.121.154:8000/play/a00j
+
+#EXTINF:-1 group-title = "CANALESTVLAT2",HBO FAMILY
+http://45.181.121.154:8000/play/a00h
+
+#EXTINF:-1 group-title = "CANALESTVLAT2",HBO PLUS
+http://45.181.121.154:8000/play/a00i
+
+#EXTINF:-1 group-title = "CANALESTVLAT2",HBO POP
+http://45.181.121.154:8000/play/a00m
+
+#EXTINF:-1 group-title = "CANALESTVLAT2",HBO XTREAM
+http://45.181.121.154:8000/play/a00k
+
+#EXTINF:0,Percy Vs Goliath
+http://files.idevcreations.com/r70/ml-content/movie/s24/Percy-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/f6ePQ8YqyyyVyr1ASkjs7heil7y-200x300.jpg
+#DETAIL:Year:2021,Story:When a massive biotech company sues a farmer because of their genetically modified seeds have blown into his field, a fight is on between big business and the little guy.
+
+#EXTINF:0,The Lockdown Hauntings
+http://files.idevcreations.com/r70/ml-content/movie/s24/TheLockdownHauntings-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/ix9FilNvqYKKHHcWzyUkfC08Oas-225x300.jpg
+#DETAIL:Year:2021,Story:With the streets now empty, it isn’t just nature that is taking advantage of this unprecedented global disaster. Spirits are freer than ever before and the spirit of a notorious serial killer, AKA ‘The Locksmith’, is back from the dead
+
+#EXTINF:0,The Mitchells vs. The Machines
+http://files.idevcreations.com/r70/ml-content/movie/s24/TheMitchellsVsTheMachines-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/1RjkFdP1pQrqQ3DYKuxR9JnQ5JO-203x300.jpg
+#DETAIL:Year:2021,Story:A quirky, dysfunctional family’s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity’s unlikeliest last hope.
+
+#EXTINF:0,Tom Clancy’s Without Remorse
+http://files.idevcreations.com/r70/ml-content/movie/s24/TomClancysWithoutRemorse-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/rEm96ib0sPiZBADNKBHKBv5bve9-204x300.jpg
+#DETAIL:Year:2021,Story:An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.
+
+
 
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",tfilm2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.1.1; nl-nl; POV_TV-HDMI-200BT Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
