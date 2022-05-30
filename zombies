@@ -1,4 +1,26 @@
 #EXTM3U
+
+#EXTINF:0,Percy Vs Goliath
+http://files.idevcreations.com/r70/ml-content/movie/s24/Percy-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/f6ePQ8YqyyyVyr1ASkjs7heil7y-200x300.jpg
+#DETAIL:Year:2021,Story:When a massive biotech company sues a farmer because of their genetically modified seeds have blown into his field, a fight is on between big business and the little guy.
+
+#EXTINF:0,The Lockdown Hauntings
+http://files.idevcreations.com/r70/ml-content/movie/s24/TheLockdownHauntings-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/ix9FilNvqYKKHHcWzyUkfC08Oas-225x300.jpg
+#DETAIL:Year:2021,Story:With the streets now empty, it isn’t just nature that is taking advantage of this unprecedented global disaster. Spirits are freer than ever before and the spirit of a notorious serial killer, AKA ‘The Locksmith’, is back from the dead
+
+#EXTINF:0,The Mitchells vs. The Machines
+http://files.idevcreations.com/r70/ml-content/movie/s24/TheMitchellsVsTheMachines-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/1RjkFdP1pQrqQ3DYKuxR9JnQ5JO-203x300.jpg
+#DETAIL:Year:2021,Story:A quirky, dysfunctional family’s road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity’s unlikeliest last hope.
+
+#EXTINF:0,Tom Clancy’s Without Remorse
+http://files.idevcreations.com/r70/ml-content/movie/s24/TomClancysWithoutRemorse-1080p-MovieLand.mp4
+#PIC:https://movie.idevcreations.com/wp-content/uploads/2021/05/rEm96ib0sPiZBADNKBHKBv5bve9-204x300.jpg
+#DETAIL:Year:2021,Story:An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.
+
+
 #EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png" group-title="World Sports",J SPORTS 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
