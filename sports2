@@ -618,27 +618,6 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8|User-Agent=exoplayer_video&Referer=https://ais-vidnt.com
 
-#EXTINF:-1 group-title = "CANALESTVLAT2",HBO
-http://45.181.121.154:8000/play/a00l
-
-#EXTINF:-1 group-title = "CANALESTVLAT2",HBO 2
-http://45.181.121.154:8000/play/a00j
-
-#EXTINF:-1 group-title = "CANALESTVLAT2",HBO FAMILY
-http://45.181.121.154:8000/play/a00h
-
-#EXTINF:-1 group-title = "CANALESTVLAT2",HBO PLUS
-http://45.181.121.154:8000/play/a00i
-
-#EXTINF:-1 group-title = "CANALESTVLAT2",HBO POP
-http://45.181.121.154:8000/play/a00m
-
-#EXTINF:-1 group-title = "CANALESTVLAT2",HBO XTREAM
-http://45.181.121.154:8000/play/a00k
-
-
-
-
 
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png",tfilm2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.1.1; nl-nl; POV_TV-HDMI-200BT Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
