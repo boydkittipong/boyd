@@ -624,7 +624,12 @@ http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DzQJ165089.png",ADULTIPTV (anal)
 http://cdn.adultiptv.net/anal.m3u8
 
-
+#EXTINF:-1 tvg-id="GoodIdeaTV.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/Gocyzww.png" group-title="Entertainment",Good Idea TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal10Asia.se" tvg-country="ASIA" tvg-language="Swedish" tvg-logo="https://i.imgur.com/RQXBwlz.png" group-title="Religious",Kanal 10 Asia (540p)
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 
 
 
