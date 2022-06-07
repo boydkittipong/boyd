@@ -445,7 +445,7 @@ http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/tglY149436.png",BEIN SPORT 1
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/110
+http://213.202.230.51:25461/live_sport/live_sport_ios/4
 #EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/1JEy149437.png",BEIN SPORT 2
 https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/UJYO149438.png",BEIN SPORT 3
