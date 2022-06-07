@@ -464,6 +464,27 @@ https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8|User-Agen
 #EXTINF:-1 group-title="World Sports" tvg-logo="https://www.i-pic.info/i/lGJZ149445.png",BEIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
+#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165715_digisport1romania.jpg",DIGI SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/648
+
+#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165720_digisport2romania.jpg",DIGI SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/649
+
+#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062823_digisport3romania.jpg",DIGI SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/650
+
+#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062844_digisport4romania.jpg",DIGI SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/651
+
+
+#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223025645_ziggosportselect.jpg",ZIGGO SELECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/679
+
 #EXTINF:-1 tvg-id="49" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/QMEr150062.png",DUBAI SPORTS
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="50" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/WdsZ150061.png",DUBAI SPORTS 1
@@ -636,24 +657,5 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165715_digisport1romania.jpg",DIGI SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/648
 
-#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165720_digisport2romania.jpg",DIGI SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/649
-
-#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062823_digisport3romania.jpg",DIGI SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/650
-
-#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210220062844_digisport4romania.jpg",DIGI SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/651
-
-
-#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223025645_ziggosportselect.jpg",Ziggo select
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/679
 
