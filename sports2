@@ -595,6 +595,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t39.30808-6/276992545_339040228258333_5387921364615321751_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Okzik2XoWXQAX92GXY2&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT-dPt9_QTFWcQ0UgrR35ECC7-fDkBh0fJHaJ4VKkgDrAQ&oe=62A365B0" group-title="News",UN WEB TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-country="INT" tvg-language="English" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.6435-9/186528896_104727085143600_3893218713372426163_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEBgnn9DL-Ifrti8x26I3aB_d9Brm4p4bT930GubinhtMT8fKmmPPfJsnAOK7e4DxM&_nc_ohc=XeL2G-c29_YAX-T6geY&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT95EIlf9d0-uZWXsweOcZl1CgaLxbZfNI04eQj7YJTGAw&oe=62C59725" group-title="News",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1 (Back Up)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -631,12 +633,12 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTVHD.us" tvg-country="TH;VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/1oHtGxq.png" group-title="Shop",Lao-Thai US TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",Metro Globe Network
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://i.dlpng.com/static/png/501135_preview.png",DIGI SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/648
 
 
 
