@@ -36,6 +36,42 @@
 "playInNatPlayer"	:	"true"
 },
 {
+"name"			:	"TRUE FIAM ASIA",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/ture-fiamasia.webp",
+"url"			:	"https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1ODozOCBQTSZoYXNoX3ZhbHVlPW42ZzhpM0p3OTVEbU1nNW1vU1ZOdHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDEyODc=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"TRUE ASIAN MORE",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/asian-more-49.webp",
+"url"			:	"https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1OToxMSBQTSZoYXNoX3ZhbHVlPXloWGswNktIa2FtZnVLS050NERpMXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjc3MjU=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"TRUE CHINESE MORE",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/true-chinese-more100.webp",
+"url"			:	"https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MToxMyBQTSZoYXNoX3ZhbHVlPW1IZXhtREdBT21sRzBTaDFxWG5GTHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfOTk3NDA=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"TRUE KOREAN MORE",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/true-korean-more50.webp",
+"url"			:	"https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NDoxNCBQTSZoYXNoX3ZhbHVlPXBleDRmT0hXNS8zMUQzbmV4MWVSNkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMjYwNzI=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
 "name"			:	"UNIVERSAL MOVIES",
 "image"			:	"https://www.i-pic.info/i/r3zy155234.png",
 "url"			:	"http://203.154.243.89:28010/pa/universal.ts",
@@ -108,9 +144,36 @@
 "playInNatPlayer"	:	"true"
 },
 {
+"name"			:	"CCM",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/ccm.webp",
+"url"			:	"https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI=",
+"referer"		:	"",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"HBO (Sub TH)",
+"image"			:	"https://www.i-pic.info/i/fbDM148472.png",
+"url"			:	"http://ip2121.com:8081/web1/hbo/playlist.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
 "name"			:	"TRUE SERIES",
 "image"			:	"https://www.i-pic.info/i/VBJT155433.png",
 "url"			:	"https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"HERO",
+"image"			:	"https://doofreemovie88.com/public/upload/tv/hero53.webp",
+"url"			:	"https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDowMSBBTSZoYXNoX3ZhbHVlPUJOenluWVI4ZTV4MUFHUWxTaW1vYVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMzg2NTg=",
 "referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
