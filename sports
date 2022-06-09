@@ -5,37 +5,129 @@
 "url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/sports",
 "stations": [
 
+
+
+
 {
-"name"			:	"TRUE PREMIER FOOTBALL 1",
+"name"			:	"True Premier Football 1",
 "image"			:	"https://www.i-pic.info/i/Po4g149382.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
 },
+ 
 {
-"name"			:	"TRUE PREMIER FOOTBALL 2",
+"name"			:	"True Premier Football 2",
 "image"			:	"https://www.i-pic.info/i/dIrz149383.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
 },
+ 
 {
-"name"			:	"TRUE PREMIER FOOTBALL 3",
+"name"			:	"True Premier Football 3",
 "image"			:	"https://www.i-pic.info/i/RTfV149384.png",
-"url"			:	"hhttps://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
 },
+ 
 {
-"name"			:	"TRUE PREMIER FOOTBALL 4",
+"name"			:	"True Premier Football 4",
 "image"			:	"https://www.i-pic.info/i/W3BI149385.png",
-"url"			:	"https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
 },
+ 
 {
-"name"			:	"TRUE PREMIER FOOTBALL 5",
+"name"			:	"True Premier Football 5",
 "image"			:	"https://www.i-pic.info/i/Ub26149386.png",
 "url"			:	"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
+{
+"name"			:	"True Sport 1",
+"image"			:	"https://www.i-pic.info/i/N91L149387.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
 },
 
+{
+"name"			:	"True Sport 2",
+"image"			:	"https://www.i-pic.info/i/ymaQ149388.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Sport 3",
+"image"			:	"https://www.i-pic.info/i/zodM149389.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+{
+"name"			:	"True Sport 5",
+"image"			:	"https://www.i-pic.info/i/1SWo149391.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"			:	"True Sport 7",
+"image"			:	"https://www.i-pic.info/i/ecN1149392.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+
+
+{
+"name"			:	"BEIN SPORT 1",
+"image"			:	"https://www.i-pic.info/i/xmLZ149380.png",
+"url"			:	"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{
+"name"			:	"BEIN SPORT 3",
+"image"			:	"https://www.i-pic.info/i/W1Be149381.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 
 
 
