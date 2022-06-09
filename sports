@@ -1,90 +1,45 @@
-#EXTM3U
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd1.png",TRUE SPORTHD1
-http://103.13.30.246:1919/sport/truesporthd1/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd2.png",TRUE SPORTHD2
-http://103.13.30.246:1919/sport/truesporthd2/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd3.png",TRUE SPORTHD3
-http://103.13.30.246:1919/sport/truesporthd3/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/2sporthd4.png",TRUE SPORTHD4
-https://mediasv.online/stream_tv/669_Ts_HD4/playlist.m3u8
-http://103.13.30.246:1919/sport/truesporthd3/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/TrueSport5.png",TRUESPORT 5
-http://103.13.30.246:1919/sport/truesportsd5/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/TrueSport7.png",TRUESPORT 7
-http://103.13.30.246:1919/sport/truesportsd7/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True PremierHD 1
-http://103.13.30.246:1919/sport/tpf1/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD1.png",True PremierHD 1/1
-https://mediasv.online/stream_tv/600_eng1/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True PremierHD 2
-http://103.13.30.246:1919/sport/tpf2/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD2.png",True PremierHD 2/1
-https://mediasv.online/stream_tv/602_eng2/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True PremierHD 3
-http://103.13.30.246:1919/sport/tpf3/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD3.png",True PremierHD 3/1
-https://mediasv.online/stream_tv/603_eng3/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True PremierHD 4 
-http://103.13.30.246:1919/sport/tpf4/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports" tvg-logo="https://doo2you.com/icon/TruePremierFootballHD4.png",True PremierHD 4/1
-https://mediasv.online/stream_tv/604_eng4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="TrueSports",True PremierHD 5 
-http://103.13.30.246:1919/sport/tpf5/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://doo2you.com/icon/TruePremierFootballHD5.png" group-title="TrueSports",True PremierHD 5/1
-https://mediasv.online/stream_tv/605_eng5/playlist.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
-https://mediasv.online/stream_tv/607_BEIN1/playlist.m3u8 
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1/1
-http://103.13.30.246:1919/sport/bein1/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT HD 2
-https://mediasv.online/stream_tv/607_BEIN2/playlist.m3u8 
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://www.img10.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT HD 2/1
-http://103.13.30.246:1919/sport/bein2/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/spotv.png",SPOTV1
-http://103.13.30.246:1919/sport/spotv1/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/spotv2.png",SPOTV2
-http://103.13.30.246:1919/sport/spotv2/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://doo2you.com/icon/GolfChannel.png",GOLF1
-http://103.13.30.246:1919/sport/golf/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/golf2png.png.webp",GOLF2
-http://103.13.30.246:1919/sport/golf2/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/nfl-png-1.png.webp",NFL
-http://103.13.30.246:1919/sport/nfl/chunks.m3u8
-#EXTINF:-1 group-title="TrueSports"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/tnnis-1.png.webp",TENNIS
-http://103.13.30.246:1919/sport/truetennis/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/04/sport1.png.webp",SPORTTV 1
-http://103.13.30.246:1919/sport-inter/sporttv1/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/04/sport2.png.webp",SPORTTV 2
-http://103.13.30.246:1919/sport-inter/sporttv2/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/04/sport3.png.webp",SPORTTV 3
-http://103.13.30.246:1919/sport-inter/sporttv3/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/04/sport4.png.webp",SPORTTV 4
-http://103.13.30.246:1919/sport-inter/sporttv4/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at1.png.webp",astro1
-http://103.13.30.246:1919/sport-inter/astro1/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at2.png.webp",astro2
-http://103.13.30.246:1919/sport-inter/astro2/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at3.png.webp",astro3
-http://103.13.30.246:1919/sport-inter/astro3/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at4.png.webp",astro4
-http://103.13.30.246:1919/sport-inter/astro4/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://doo2you.com/icon/BTSport1HD.png",BTSPORT 1
-http://103.13.30.246:1919/sport-inter/btsport1/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://doo2you.com/icon/BTSport2HD.png",BTSPORT 2
-http://103.13.30.246:1919/sport-inter/btsport2/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://sv1.picz.in.th/images/2022/03/31/8wv6Ff.png",BTSPORT 3
-http://103.13.30.246:1919/sport-inter/btsport3/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an1.png.webp",ARENA 1
-http://103.13.30.246:1919/sport-inter/arenasport1/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an2.png.webp",ARENA 2
-http://103.13.30.246:1919/sport-inter/arenasport2/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an3.png.webp",ARENA 3
-http://103.13.30.246:1919/sport-inter/arenasport3/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/an4.png.webp",ARENA 4
-http://103.13.30.246:1919/sport-inter/arenasport4/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi1.png.webp",DIGISPORT 1
-http://103.13.30.246:1919/sport-inter/digisport1/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi2.png.webp",DIGISPORT 2
-http://103.13.30.246:1919/sport-inter/digisport2/chunks.m3u8
-#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/digi3.png.webp",DIGISPORT 4
-http://103.13.30.246:1919/sport-inter/digisport3/chunks.m3u8
+{
+"name": "ช่องกีฬา",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://sv1.picz.in.th/images/2020/12/19/jrulTg.png",
+"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/sports",
+"stations": [
+
+{
+"name"			:	"TRUE PREMIER FOOTBALL 1",
+"image"			:	"https://www.i-pic.info/i/Po4g149382.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+},
+{
+"name"			:	"TRUE PREMIER FOOTBALL 2",
+"image"			:	"https://www.i-pic.info/i/dIrz149383.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/bsb-epl2.stream/chunks.m3u8",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+},
+{
+"name"			:	"TRUE PREMIER FOOTBALL 3",
+"image"			:	"https://www.i-pic.info/i/RTfV149384.png",
+"url"			:	"hhttps://streaming.livescorethai.net/iptv/bsb-epl3.stream/chunks.m3u8",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+},
+{
+"name"			:	"TRUE PREMIER FOOTBALL 4",
+"image"			:	"https://www.i-pic.info/i/W3BI149385.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/bsb-epl4.stream/chunks.m3u8",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+},
+{
+"name"			:	"TRUE PREMIER FOOTBALL 5",
+"image"			:	"https://www.i-pic.info/i/Ub26149386.png",
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+},
+
+
+
+
+
+
+]
+}
