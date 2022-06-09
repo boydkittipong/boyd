@@ -655,9 +655,71 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTVHD.us" tvg-country="TH;VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/1oHtGxq.png" group-title="Shop",Lao-Thai US TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",True Premier Fooball HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" group-title="JapanTV-BS",BS Fuji TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
 https://playerembed-lb.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f&ref=none
 
+#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" group-title="JapanTV-BS",BS Fuji TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://press.jal.co.jp/ja/items/uploads/a89741436e550f5d12646481975ad63fd075c490.png" group-title="JapanTV",WINI LIVE
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 
+#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="JapanTV",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+
+
+#EXTINF:0 tvg-id="wavve|K01" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KoreaTV",KBS1
+http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="wavve|K02" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KoreaTV",KBS2
+http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="",DISCOVERY
+http://103.55.144.46:80/hls/discovery.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/FHoE161103.png",DISCOVERY SCIENCE
+http://103.55.144.46/hls/dis-science.m3u8
+##EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="",TRAVEL XP
+#https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/5BHD156905.png" group-title="Movie",SONY PIX (Soundtrack)
+http://103.55.144.46:80/hls/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1
+http://103.55.144.46//hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="SPORTS",Sony ten 2
+http://103.55.144.46//hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png"group-title="SPORTS",Sony Ten 3
+http://103.55.144.46//hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six HD
+http://103.55.144.46:80/hls/sonysix.m3u8
+#EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports
+http://103.55.144.46/hls/ten.m3u8
+
+
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
+https://birutv.com/sport@birutv/live/bt1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
+https://birutv.com/sport@birutv/live/bt2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
+https://birutv.com/sport@birutv/live/bt3.m3u8
