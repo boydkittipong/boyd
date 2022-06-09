@@ -9,7 +9,7 @@
 "name"			:	"TLC",
 "image"			:	"https://www.i-pic.info/i/ji0F149425.png",
 "url"			:	"https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8",
-"referer"		:	"",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
@@ -18,7 +18,7 @@
 "name"			:	"TRUE EXPLORE WILD",
 "image"			:	"https://www.i-pic.info/i/Dq0i155440.png",
 "url"			:	"https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI=",
-"referer"		:	"",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
@@ -27,7 +27,7 @@
 "name"			:	"HISTORY",
 "image"			:	"https://www.i-pic.info/i/8UiS149431.png",
 "url"			:	"https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8",
-"referer"		:	"",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
@@ -36,7 +36,7 @@
 "name"			:	"HISTORY 2",
 "image"			:	"https://www.i-pic.info/i/iO4Z149430.png",
 "url"			:	"https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8",
-"referer"		:	"",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
@@ -45,7 +45,7 @@
 "name"			:	"BBC EARTH",
 "image"			:	"https://www.i-pic.info/i/89tg149420.png",
 "url"			:	"https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8",
-"referer"		:	"",
+"referer"		:	"https://freetvdd.com/",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
