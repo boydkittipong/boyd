@@ -633,18 +633,54 @@ http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnD
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c
 
 
-#EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="XXX" tvg-logo="https://www.i-pic.info/i/dMAL152063.png",PLAY BOY
-http://38.123.205.70:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="sextreme.co" tvg-name="SEXTREME" group-title="XXX" tvg-logo="https://www.i-pic.info/i/VETO152052.png",SEX XTREME
-http://38.123.205.70:8000/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="XXX" tvg-logo="https://www.i-pic.info/i/XkeE152061.png",VENUS
-http://38.123.205.70:8000/play/a09b/index.m3u8
+
 #EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/v5Lo165090.png",ADULTIPTV (livecams)
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DzQJ165089.png",ADULTIPTV (anal)
 http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (bigass)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (bigdick)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (bigtits)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (blonde)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (blowjob)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (brunette)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (compilation)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (cuckold)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (fetish)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (gangbang)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (hardcore)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (latina)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (lesbian)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (milf)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (pornstar)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (pov)
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (rough)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (russian)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="US Live"tvg-logo="Live",ADULTIPTV (teen)
+http://cdn.adultiptv.net/teen.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="GoodIdeaTV.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/Gocyzww.png" group-title="Entertainment",Good Idea TV
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
