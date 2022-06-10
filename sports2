@@ -101,7 +101,6 @@ https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c
 https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDo0NyBBTSZoYXNoX3ZhbHVlPXJMZGQ2U2R4TFA1NmY4ZzBpejlkQ0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNjgwNTE=
 
 #EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="KidsTV",AT-X
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://sub2.neetball.net/live/neet.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/oVtL161121.png",ZOOMOO (Soundtrack)
@@ -143,7 +142,7 @@ https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
 https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/VGHX149422.png",TRUE INSIDE
-https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|Referer=https://freetvdd.com
+https://mediasv.online/stream_live/335_TrueInsideHD/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/HNdC149435.png",LIFETIME
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/F8JO149429.png",ASIAN FOOD CHANNEL
@@ -179,6 +178,8 @@ https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=h
 https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.complaintsboard.com/images/business/200x200/123352/discovery-channel.jpg",DISCOVERY CHANNEL 
+https://mediasv.online/stream_live/562_Discovery/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
@@ -187,6 +188,8 @@ https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Re
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/en2R155439.png",NATIONAL GEOGRAPHIC WILD
 https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQAlvM3EJ3d_ZUigBLllAvVYn30_U58Cj4AoHhIqw=s900-c-k-c0x00ffffff-no-rj",OUTDOOR
+https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
 http://203.154.243.89:28010/pa/animal.ts
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
@@ -284,35 +287,33 @@ http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
 https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI=
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/paramount-channel92.webp",PARAMOUNT
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/paramount-channel92.webp",PARAMOUNT
 https://mediasv.online/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NTo1NyBQTSZoYXNoX3ZhbHVlPVJOeTZ6dDhkRmo3SUNlVnpGN1AyS0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjE4NTY=
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ture-fiamasia.webp",TRUE FIAM ASIA
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/ture-fiamasia.webp",TRUE FIAM ASIA
 https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1ODozOCBQTSZoYXNoX3ZhbHVlPW42ZzhpM0p3OTVEbU1nNW1vU1ZOdHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDEyODc=
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/asian-more-49.webp",TRUE ASIAN MORE
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/asian-more-49.webp",TRUE ASIAN MORE
 https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1OToxMSBQTSZoYXNoX3ZhbHVlPXloWGswNktIa2FtZnVLS050NERpMXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjc3MjU=
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-chinese-more100.webp",TRUE CHINESE MORE
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/true-chinese-more100.webp",TRUE CHINESE MORE
 https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MToxMyBQTSZoYXNoX3ZhbHVlPW1IZXhtREdBT21sRzBTaDFxWG5GTHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfOTk3NDA=
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/gem48.webp",GEM
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/aRhl156899.png" group-title="Movie",TRUE KOREAN MORE
+https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/gem48.webp",GEM
 https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDo0OSBQTSZoYXNoX3ZhbHVlPTFndXJXdEpZT1E0NytNbkw1QXJaVEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTY3MTU=
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/xzyte-hd.webp",TRUE XZYTE
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/xzyte-hd.webp",TRUE XZYTE
 https://mediasv.online/stream_live/340_Xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzozMSBQTSZoYXNoX3ZhbHVlPURzSmtMcjFuYVYycEIyY0IvbXk2cmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNDE5OTk=
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/IQ7f156904.png",ROCK EXTREME
 https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzowMSBQTSZoYXNoX3ZhbHVlPUVkSEJkRUxqKzROVEVzRE80WEdzRnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNjM5MTE=
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Vgrv156903.png" group-title="Movie",ROCK ENTERTAINMENT 
+https://mediasv.online/stream_live/337_Rock_Entertainment/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hero53.webp",HERO
+#EXTINF:-1 group-title="Movie" tvg-logo="https://doofreemovie88.com/public/upload/tv/hero53.webp",HERO
 https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDowMSBBTSZoYXNoX3ZhbHVlPUJOenluWVI4ZTV4MUFHUWxTaW1vYVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfMzg2NTg=
 
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbohit-hd.webp" group-title="Movie",HBO HITS 
-http://139.99.80.237:9998/hboh/tracks-v1a1/mono.m3u8?token=1307a5acd1d12a249a2918708d252ec83de73ce7-c6430d615b67bc444f9657add860ac68-1654840496-1654829696|Referer=http://udoofree.com/
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/8980/brand.gif?itok=qPBloL7h" group-title="Movie",HBO FAMILY 
-http://139.99.80.237:9998/hbof/tracks-v1a1/mono.m3u8?token=3bb9e227cfbaebc12e5adfd5460e4aa2fb6fe9e9-55bc01c01b74bddfdfad0e801c4403a7-1654841654-1654830854|Referer=http://udoofree.com/
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbosignature-hd.webp" group-title="Movie",HBO SIGNATURE 
-http://139.99.80.237:9998/hbos/tracks-v1a1/mono.m3u8?token=cb4da6e061cd99388553eb6bdf147d501c43c410-9142f18688c4ab463506aa026314bc7a-1654841771-1654830971|Referer=http://udoofree.com/
+
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
@@ -357,7 +358,7 @@ https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8|Referer=h
 https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/1SWo149391.png",TRUE SPORT 5
 https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.i-pic.info/i/ecN1149392.png",TRUE SPORT 7
+#EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/ecN1149392.png",TRUE SPORT 7
 https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/jP9z149418.png",TRUE TENNIS
 https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8|Referer=https://freetvdd.com
@@ -644,7 +645,7 @@ http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPX
 
 
 
-#EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="XXX" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
+#EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="US Live" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
 #EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/v5Lo165090.png",ADULTIPTV (livecams)
 http://cdn.adultiptv.net/livecams.m3u8
