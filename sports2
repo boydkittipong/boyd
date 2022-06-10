@@ -158,6 +158,15 @@ https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|Referer=h
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/7Bim150077.png",FASHION TV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1",AMC PRESENTS
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",KBS WORLD
+https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5
+
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+
 
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
@@ -252,15 +261,6 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w1834550160.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="ช่องหนัง", HBO HITS 
-http://139.99.80.237:9998/hboh/tracks-v1a1/mono.m3u8?token=1307a5acd1d12a249a2918708d252ec83de73ce7-c6430d615b67bc444f9657add860ac68-1654840496-1654829696|Referer=http://udoofree.com/
-
-#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Movie"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
@@ -283,10 +283,7 @@ http://61.19.242.134/feed/202105171329/LC53/index.m3u8
 http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1",AMC PRESENTS
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/kbs-world13.webp",KBS WORLD
-https://mediasv.online/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDg6NTE6MzcgQU0maGFzaF92YWx1ZT10Y3prd2FWdU4zbS93UUUzSFc1bm9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzkyNzM5
+
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
 https://mediasv.online/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1NjoyNiBQTSZoYXNoX3ZhbHVlPWJiSG9VWlp0Qm5SbnVHWDdxdGhzZVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNjI5ODI=
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/paramount-channel92.webp",PARAMOUNT
@@ -310,6 +307,14 @@ https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2Vy
 
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/fbDM148472.png",HBO (Sub TH)
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbohit-hd.webp" group-title="Movie",HBO HITS 
+http://139.99.80.237:9998/hboh/tracks-v1a1/mono.m3u8?token=1307a5acd1d12a249a2918708d252ec83de73ce7-c6430d615b67bc444f9657add860ac68-1654840496-1654829696|Referer=http://udoofree.com/
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/8980/brand.gif?itok=qPBloL7h" group-title="Movie",HBO FAMILY 
+http://139.99.80.237:9998/hbof/tracks-v1a1/mono.m3u8?token=3bb9e227cfbaebc12e5adfd5460e4aa2fb6fe9e9-55bc01c01b74bddfdfad0e801c4403a7-1654841654-1654830854|Referer=http://udoofree.com/
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/hbosignature-hd.webp" group-title="Movie",HBO SIGNATURE 
+http://139.99.80.237:9998/hbos/tracks-v1a1/mono.m3u8?token=cb4da6e061cd99388553eb6bdf147d501c43c410-9142f18688c4ab463506aa026314bc7a-1654841771-1654830971|Referer=http://udoofree.com/
+
+
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/JcYa155231.png",H CHANNEL (Sub TH)
