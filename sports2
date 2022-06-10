@@ -138,19 +138,19 @@ https://mediasv.online/stream_live/goodtv42_Sweet./playlist.m3u8?wmsAuthSign=c2V
 https://mediasv.online/stream_live/goodtv38_Busaba./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozMDozOSBBTSZoYXNoX3ZhbHVlPUZiTDd5QllLWXJBSkszeGtKMDNuSWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNDY4MjM=
 
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/ZFSR149424.png",AXN
-https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/VGHX149422.png",TRUE INSIDE
-https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/HNdC149435.png",LIFETIME
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://freetvdd.com
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/F8JO149429.png",ASIAN FOOD CHANNEL
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://freetvdd.com
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/1q6y150076.png",A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/96Lg150079.png",SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/eAyF150078.png",MTV ASIA
-https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://freetvdd.com
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/RcsF161109.png",COUNTRY MUSIC CHANNEL
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/7Bim150077.png",FASHION TV
