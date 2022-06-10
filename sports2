@@ -253,7 +253,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="ช่องหนัง", HBO HITS 
-http://139.99.80.237:9998/hboh/tracks-v1a1/mono.m3u8?token=1307a5acd1d12a249a2918708d252ec83de73ce7-c6430d615b67bc444f9657add860ac68-1654840496-1654829696
+http://139.99.80.237:9998/hboh/tracks-v1a1/mono.m3u8?token=1307a5acd1d12a249a2918708d252ec83de73ce7-c6430d615b67bc444f9657add860ac68-1654840496-1654829696|Referer=http://udoofree.com/
 
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
