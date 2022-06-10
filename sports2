@@ -93,19 +93,21 @@ http://203.154.243.89:28010/pa/umi.ts
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON NETWORK
 https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|Referer=https://freetvdd.com
 
-#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-spark-play92.webp",SPARK JUMP
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-spark-play92.webp" group-title="KidsTV" ,SPARK JUMP
 https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1Mjo0NCBQTSZoYXNoX3ZhbHVlPVdHOHFlOEFURXhwcG43NllQbytyTWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfOTAyMjc=
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/next-kid10.webp",NEXTKID
 https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozOToxMyBBTSZoYXNoX3ZhbHVlPUVVVUhMbVUvYkpxRzB2QzRNbER1bmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfMjgxNzU=
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/just-fun46.webp",JUSTFUN
 https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDo0NyBBTSZoYXNoX3ZhbHVlPXJMZGQ2U2R4TFA1NmY4ZzBpejlkQ0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNjgwNTE=
 
+#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="KidsTV",AT-X
+https://sub2.neetball.net/live/neet.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/oVtL161121.png",ZOOMOO (Soundtrack)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/5yTM161114.png",NICK (Soundtrack)
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Kid" tvg-logo="https://www.i-pic.info/i/9VfR161115.png",NICKELODEON (Soundtrack)
+#EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/9VfR161115.png",NICKELODEON (Soundtrack)
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/BbNd161116.png",NICK JR.(Soundtrack)
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
@@ -250,6 +252,8 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="ช่องหนัง", HBO HITS 
+https://hboasialive.akamaized.net/hls/live/2007801/HITS/hdntl=exp=1654915427~acl=%2f*~data=hdntl~hmac=96aefc64a09621bdbae10a073055c2e7b1d965795c376f04f5087b4108fe5a44/4.m3u8|Referer=http://udoofree.com/
 
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -696,8 +700,7 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png" group-title="JapanTV",AT-X
-https://sub2.neetball.net/live/neet.m3u8
+
 
 
 #EXTINF:0 tvg-id="wavve|K01" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KoreaTV",KBS1
