@@ -242,14 +242,15 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Documentary",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Knowledge" , Inwild
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Knowledge" ,Inwild
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="Knowledge" , Inwonder
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="Knowledge" ,Inwonder
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" group-title="Knowledge" , Introuble
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" group-title="Knowledge" ,Introuble
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4LGRoT1EgdJkiKD0MZsZ0etm-1Qdwugnfg&usqp=CAU" group-title="Knowledge" ,AMERICAN OUTDOOR
+https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/VBJT155433.png",TRUE SERIES
@@ -301,6 +302,17 @@ http://61.19.242.134/feed/202105171329/LC53/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",PHET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://thaitvstream.com/streaming/wadyantv/wadyantv.png",CHANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://live.thaitvstream.com/play/wadyantv/index.m3u8
+
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/847655346835345408/LMtLVgDa_400x400.jpg",MOVIES WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://doofreemovie88.com/public/upload/tv/ccm.webp",CCM
