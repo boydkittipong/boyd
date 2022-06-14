@@ -709,6 +709,7 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 
 #EXTINF:-1 tvg-id="FashionTVMidniteSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="XXX",Fashion TV Midnite Secrets (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV México (720p) [Not 24/7]
