@@ -243,12 +243,16 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Knowledge" ,Inwild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="Knowledge" ,Inwonder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" group-title="Knowledge" ,Introuble
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4LGRoT1EgdJkiKD0MZsZ0etm-1Qdwugnfg&usqp=CAU" group-title="Knowledge" ,AMERICAN OUTDOOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 
 
