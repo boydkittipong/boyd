@@ -48,8 +48,11 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/AGu7155232.png",HI CABLE TV
 http://203.154.243.89:28010/pa/hinews.ts
+
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT43ZZ2nuCL7R9S-Xjl9-__PZomcrRAU3iFlA&usqp=CAU",HI SPORT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://203.154.243.31:8081/live/hisport/index.m3u8
+
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/OnXe152037.png",THIN TAI TV
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/TIF0152043.png",FARM TV
@@ -121,7 +124,6 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="KidsTV" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/26231687_859946060833815_7714966175086221220_n.png?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeE3vshtmKLEf362FxEGP2gRZWYgRzTLCRRlZiBHNMsJFM4CjRTnQpv08zHJ-9z43wk&_nc_ohc=sT8vEQdb3dMAX-l9cfC&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT_hUW2cB4fZ5EA-DmtuKfU2AZKxWTibAic7VZ_1yn5oew&oe=62CC6678",DAVINCI(Soundtrack)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png",LEGO
