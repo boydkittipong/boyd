@@ -39,7 +39,8 @@ https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w1209799966.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="NBT World HD TH" tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA" group-title="Cable TV",NBT World HD
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/chunklist_w1523836434.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/MrNR148396.png",TOPNEWS
 https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/dzqn148390.png",NEWS 1
@@ -721,4 +722,15 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115415|User-Agent=ProPlayer
 #EXTINF:-1 tvg-id="" tvg-name="Film HD TH 2 TH  [ENG]" tvg-logo="" group-title="Thailand",HI SPORT
 http://203.154.243.31:8081/live/hisport/index.m3u8|User-Agent=ProPlayer
 
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD TH [Multi Audio]" tvg-logo="" group-title="Thailand",Travel Channel HD TH [Multi Audio]
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115832
 
+#EXTINF:-1 tvg-id="" tvg-name="Spark Jump TH" tvg-logo="" group-title="Thailand",Spark Jump TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115529
+#EXTINF:-1 tvg-id="" tvg-name="Spark Play [THAI] TH" tvg-logo="" group-title="Thailand",Spark Play [THAI] TH
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115784
+
+#EXTINF:-1 tvg-id="" tvg-name="Inside HD TH " tvg-logo="" group-title="Thailand",KMTV
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE-HITS TH [Thai]" tvg-logo="" group-title="Thailand",MOVIE-HITS TH [Thai]
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115729
