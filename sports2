@@ -129,6 +129,13 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
 
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://yt3.ggpht.com/UUNJRhft91sQ68eNZBqI7PORtYoIbcSACA4Iy3AZ7ocqHt1Cd8s0Z3x-XtG6MTH1ghJNHjfsBA=s900-c-k-c0x00ffffff-no-rj",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KidsTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51XTdK17fFL.png",BABY FIRST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png",LEGO
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg",BIZNET KIDS
@@ -752,15 +759,6 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://150.95.25.221:8000/T%20Sports?u=covid19:p=AS15788947
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/36
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129-avc1_2000000=6.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=0020229b2c050c96336d70719bcb4ee5&chunkHttps=true&tmid=B0129&tpbk=EL1TMrN1iPdb7hpy&rrt=1655536109&tmod=rfk&rsid=810f7498-c225-4dcd-9439-240581827617&tuid=ab3b5e22f8&cdn=redfox-https&tdid=8f22e5b3ba041ca37aa05c82e641936c&origin=anevia&tfa=f0-fc&tttl=1655617048
 
-#EXTINF:-1 group-title="KidsTV" ,Baby TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="KidsTV" ,Baby First
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
