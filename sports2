@@ -179,69 +179,69 @@ http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/V8Ee156895.png",FOOD NETWORK
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/V8Ee156895.png",FOOD NETWORK
 https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIyIDk6MTQ6NDEgQU0maGFzaF92YWx1ZT1vNkowTFE3Zlg4TlpoZWpRa0NCWk53PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzYwMzcx
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/ji0F149425.png",TLC
 https://streaming.livescorethai.net/iptv/sd-tlceng.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",TRUE EXPLORE WILD
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/Dq0i155440.png",TRUE EXPLORE WILD
 https://mediasv.online/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0MzoxOCBQTSZoYXNoX3ZhbHVlPTl4V2FXdjAvenl3Qm1sZTVqQmZra1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfMjc1ODI=
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/8UiS149431.png",HISTORY
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",HISTORY 2
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/iO4Z149430.png",HISTORY 2
 https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/89tg149420.png",BBC EARTH
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.complaintsboard.com/images/business/200x200/123352/discovery-channel.jpg",DISCOVERY CHANNEL 
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.complaintsboard.com/images/business/200x200/123352/discovery-channel.jpg",DISCOVERY CHANNEL 
 https://mediasv.online/stream_live/562_Discovery/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/fAXp149423.png",DISCOVERY ASIA
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/968J149427.png",DISCOVERY TURBO
 https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/s0bP149432.png",NATIONAL GEOGRAPHIC
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/s0bP149432.png",NATIONAL GEOGRAPHIC
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/en2R155439.png",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/en2R155439.png",NATIONAL GEOGRAPHIC WILD
 https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQAlvM3EJ3d_ZUigBLllAvVYn30_U58Cj4AoHhIqw=s900-c-k-c0x00ffffff-no-rj",OUTDOOR
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQAlvM3EJ3d_ZUigBLllAvVYn30_U58Cj4AoHhIqw=s900-c-k-c0x00ffffff-no-rj",OUTDOOR
 https://mediasv.online/stream_live/673_OUTDOOR/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
 http://203.154.243.89:28010/pa/animal.ts
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/aJkp161113.png",SCIENCE WORLD
 http://203.154.243.89:28010/pa/sci.ts
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LOVE NATURE
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/oh9y152091.png",LOVE NATURE
 https://mediasv.online/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo0OToyMiBQTSZoYXNoX3ZhbHVlPWR0OGgycFRjL01CaGlzYUMvY0UxK2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY1MTU=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t31.18172-8/858067_600936609921371_1040787037_o.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFQJZdBumtr2JmlfqWRvnB2ERuKwda89FMRG4rB1rz0UwAGNPbUVkYAwLFKbEdv8WA&_nc_ohc=i2s7xk-Ry3gAX-s3f4S&tn=Cy6ZJaYfDyt5OaTW&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT_sAjhV4hBcd_Jc_cjbeb5ALsCu9fYjHSX9sZHezo_t5A&oe=62AF51DD",KHONGDEE THAILAND
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t31.18172-8/858067_600936609921371_1040787037_o.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFQJZdBumtr2JmlfqWRvnB2ERuKwda89FMRG4rB1rz0UwAGNPbUVkYAwLFKbEdv8WA&_nc_ohc=i2s7xk-Ry3gAX-s3f4S&tn=Cy6ZJaYfDyt5OaTW&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT_sAjhV4hBcd_Jc_cjbeb5ALsCu9fYjHSX9sZHezo_t5A&oe=62AF51DD",KHONGDEE THAILAND
 https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNTo0MSBBTSZoYXNoX3ZhbHVlPWcva1lCZisveWVqaG5nMzdHelFIc1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzAmaWQ9Y2hfMzQ3NTU=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://yt3.ggpht.com/M58QFPXSvO6_IwLMBdJlD66vJ9UukwfZV-v52oLhd8YhBWUmy3gpi2uQY0Lyr22ixPUtagWdvg=s900-c-k-c0x00ffffff-no-rj",THAINESS
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/M58QFPXSvO6_IwLMBdJlD66vJ9UukwfZV-v52oLhd8YhBWUmy3gpi2uQY0Lyr22ixPUtagWdvg=s900-c-k-c0x00ffffff-no-rj",THAINESS
 https://mediasv.online/stream_live/goodtv40_ThaiNess./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDo0MjoxNiBBTSZoYXNoX3ZhbHVlPUFCTHV6YW4wS0xRSkdWUGRWa1c5ZlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzAmaWQ9Y2hfMTY0OTE=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.i-pic.info/i/Inpo164428.png",BXCITE
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/Inpo164428.png",BXCITE
 https://mediasv.online/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozMTo0NSBBTSZoYXNoX3ZhbHVlPXFWMThkVzFEblN4RDV1ZDlyNjNNWHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNzA2ODY=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://doofreemovie88.com/public/upload/tv/mysci-hd.webp",MYSCI
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://doofreemovie88.com/public/upload/tv/mysci-hd.webp",MYSCI
 https://mediasv.online/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNzoxNCBBTSZoYXNoX3ZhbHVlPXEvb0JGOFVTYmZWc3o3dTlZeWRmVFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjcmaWQ9Y2hfNTg3MzU=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://doofreemovie88.com/public/upload/tv/new-explorer8.webp",NEW EXPLOER
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://doofreemovie88.com/public/upload/tv/new-explorer8.webp",NEW EXPLOER
 https://mediasv.online/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozODoxNyBBTSZoYXNoX3ZhbHVlPVBiN3FzU3IvcWJ5YVdvV0VjMko3MEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzQmaWQ9Y2hfNTQxNjg=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://doofreemovie88.com/public/upload/tv/tv_1.webp",SUMLOJLOK
 https://mediasv.online/stream_live/goodtv55_Sumlojlok./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTo1MzowNCBQTSZoYXNoX3ZhbHVlPVlKd1lzUHE4N1VWSmNrZVhzV1hGQWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfMTg5MTI=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://doofreemovie88.com/public/upload/tv/bbc-lifestyle24.webp",BBC lIFESTYLE
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://doofreemovie88.com/public/upload/tv/bbc-lifestyle24.webp",BBC lIFESTYLE
 https://mediasv.online/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowNDo0MCBQTSZoYXNoX3ZhbHVlPXBNN3hRMzM4am43RGlxZGVvTVBrQ0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzAmaWQ9Y2hfMTU3Nzk=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://doofreemovie88.com/public/upload/tv/animal-planet-true58.webp",ANIMAL PLANET
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://doofreemovie88.com/public/upload/tv/animal-planet-true58.webp",ANIMAL PLANET
 https://mediasv.online/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1MDoxOCBQTSZoYXNoX3ZhbHVlPU5aVFR0QTBUMGU1cVMyNVQwRWJPeXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNzkyNTc=
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://doofreemovie88.com/public/upload/tv/animal-show57.webp",ANIMAL SHOW
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://doofreemovie88.com/public/upload/tv/animal-show57.webp",ANIMAL SHOW
 https://mediasv.online/stream_live/goodtv56_AnimalShow./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1NTo1NCBQTSZoYXNoX3ZhbHVlPUR1NnhMT2ZPV3dGYm9TYnplUkFWa3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzImaWQ9Y2hfOTE2NTc=
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.i-pic.info/i/gs28161104.png",XPLORE
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/gs28161104.png",XPLORE
 https://xplore-plex.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/KjCf149428.png",DMAX
 https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/chunks.m3u8|Referer=https://freetvdd.com
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/vTGknv3.png",SPARK TV
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/vTGknv3.png",SPARK TV
 https://sparktv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.i-pic.info/i/4Zs8161120.png",HUNT CHANNEL
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.i-pic.info/i/4Zs8161120.png",HUNT CHANNEL
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Documentary",NASA TV
+#EXTINF:-73 tvg-logo="https://www.i-pic.info/i/PtMD152101.png" group-title="Knowledge",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Knowledge" ,Inwild
@@ -314,8 +314,7 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/Sat%2520Asia.gif",MOVIES & SAT ASIA
-http://150.95.25.221:8000/Movies%26sat%20Asia?u=covid19:p=AS15788947
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/qDcOkZR.png",LIVE SKY 1
 http://150.95.25.221:8000/LiveSky1?u=covid19:p=AS15788947
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jL3vhXm.png",LIVE SKY 2
@@ -324,13 +323,15 @@ http://150.95.25.221:8000/Live%20Sky2?u=covid19:p=AS15788947
 http://150.95.25.221:8000/Live%20Sky3?u=covid19:p=AS15788947
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/0DB0pQG.png",LIVE SKY 4
 http://150.95.25.221:8000/Live%20Sky4?u=covid19:p=AS15788947
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/A%2520Firlm.gif",A FLIM
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/Sat%2520Asia.gif",MOVIES & SAT ASIA
+http://150.95.25.221:8000/Movies%26sat%20Asia?u=covid19:p=AS15788947
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/A%2520Firlm.gif",A FLIM HD
 http://150.95.25.221:8000/A%20FlimHD?u=covid19:p=AS15788947
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/I-Movie.gif",I-MOVIE
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/I-Movie.gif",I-MOVIE HD
 http://150.95.25.221:8000/i%2D%20Movie%20HD?u=covid19:p=AS15788947
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/I-Asia.jpg",I-ASIA
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/I-Asia.jpg",I-ASIA HD
 http://150.95.25.221:8000/i%2D%20Asia%20HD?u=covid19:p=AS15788947
-#EXTINF:-1 group-title="Entertainment" tvg-logo="",SERIES+HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c0d5a3a50a54f56e2b4c6b0/1547573427053-OPP2BY225XXJRUP0O2D2/SE%CC%81RIEPLUS_LOGO.png",SERIES+HD
 http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=AS15788947
 
 
@@ -362,9 +363,9 @@ https://mediasv.online/stream_live/goodtv44_Hero./playlist.m3u8?wmsAuthSign=c2Vy
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="N/A" group-title="Movies"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/Y6o8148406.png",FUSO MOV 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Movies"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment"tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|Referer=https://freetvdd.com
@@ -374,7 +375,7 @@ http://203.154.243.89:28010/pa/hchannel.ts
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.i-pic.info/i/rkIZ161112.png" group-title="Entertainment",KKTV (Soundtrack)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Movie" tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
+#EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/27
 
 #EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
