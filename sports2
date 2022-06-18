@@ -752,8 +752,11 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129.m3u8|Referer=https://aisplay.ais.co.th/
+http://150.95.25.221:8000/T%20Sports?u=covid19:p=AS15788947
 
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129-avc1_2000000=6.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=0020229b2c050c96336d70719bcb4ee5&chunkHttps=true&tmid=B0129&tpbk=EL1TMrN1iPdb7hpy&rrt=1655536109&tmod=rfk&rsid=810f7498-c225-4dcd-9439-240581827617&tuid=ab3b5e22f8&cdn=redfox-https&tdid=8f22e5b3ba041ca37aa05c82e641936c&origin=anevia&tfa=f0-fc&tttl=1655617048
 
 #EXTINF:-1 group-title="KidsTV" ,Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
