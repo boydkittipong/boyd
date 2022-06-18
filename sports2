@@ -49,7 +49,8 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/AGu7155232.png",HI CABLE TV
 http://203.154.243.89:28010/pa/hinews.ts
-
+#EXTINF:-1 tvg-logo="http://www.cableth.com/assets/202110131452531257005538.png" group-title="TCable TV",HI SPORT
+http://203.154.243.31:8081/live/hisport/index.m3u8|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/OnXe152037.png",THIN TAI TV
 https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
@@ -57,6 +58,8 @@ https://freelive2.inwstream.com:1936/freelive-edge/the_battle.stream/chunks.m3u8
 https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/hJ1N152060.png",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://mvtv.co.th/ios/icons/GIF/Mix-Major.gif" group-title="Cable TV",MIX MAJOR CHANNEL
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w1234273520.m3u8
 #EXTINF:-1 tvg-id="37" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/ELdr152038.png",CABLE 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/JE6P152055.png",GO CHANNEL
@@ -282,6 +285,10 @@ https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/CWAO148414.png",TRUE FILM 1
 https://mediasv.online/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1Nzo1MiBQTSZoYXNoX3ZhbHVlPWhzdTcwbTBLVXk2cjI0RTdPVWlJd0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNTE1Njg=
 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="Entertainment",TRUE FILM 2
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115415|User-Agent=ProPlayer
+#EXTINF:-1 tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.18169-9/995556_577366235645625_152430234_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHBKSikZ71YirNC3eM_wu1OjmY-1LE0ZoqOZj7UsTRmikHAVYeGd4y--dfglFY69PA&_nc_ohc=oySDkNrBM_sAX_IK4Wa&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT_kurPRA9dNJf6oaM4L4FZSKw12_A3U-q5e7LqcKFFBjA&oe=62D15349" group-title="Entertainment",HITS MOVIES
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115729|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/r3zy155234.png",UNIVERSAL MOVIES
 http://203.154.243.89:28010/pa/universal.ts
@@ -311,6 +318,7 @@ http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Entertainment" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",PHET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
 
 
 
@@ -730,28 +738,18 @@ http://cdn.adultiptv.net/teen.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1924674763_b1896000.m3u8
 
 
-#EXTINF:-1 tvg-id="GoodIdeaTV.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-good-idea-tv-texas-6607-300x225.jpg" group-title="Cable TV",Good Idea TV
-https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LaoThaiTVHD.us" tvg-country="TH;VN" tvg-language="Vietnamese" tvg-logo="https://thaitvus.com/wp-content/uploads/2017/10/S_6857965879156.jpg" group-title="Cable TV",Lao-Thai US TV
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Film HD TH 2 TH  [ENG]" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png" group-title="Thailand",Film HD TH 2 TH  [ENG]
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115415|User-Agent=ProPlayer
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Film HD TH 2 TH  [ENG]" tvg-logo="" group-title="Thailand",HI SPORT
-http://203.154.243.31:8081/live/hisport/index.m3u8|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD TH [Multi Audio]" tvg-logo="" group-title="Thailand",Travel Channel HD TH [Multi Audio]
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115832
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115832|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="Spark Jump TH" tvg-logo="" group-title="Thailand",Spark Jump TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115529
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115529|User-Agent=ProPlayer
 #EXTINF:-1 tvg-id="" tvg-name="Spark Play [THAI] TH" tvg-logo="" group-title="Thailand",Spark Play [THAI] TH
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115784
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115784|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="Inside HD TH " tvg-logo="" group-title="Thailand",KMTV
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721
-#EXTINF:-1 tvg-id="" tvg-name="MOVIE-HITS TH [Thai]" tvg-logo="" group-title="Thailand",MOVIE-HITS TH [Thai]
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115729
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
+
