@@ -49,7 +49,7 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/AGu7155232.png",HI CABLE TV
 http://203.154.243.89:28010/pa/hinews.ts
-#EXTINF:-1 tvg-logo="http://www.cableth.com/assets/202110131452531257005538.png" group-title="TCable TV",HI SPORT
+#EXTINF:-1 tvg-logo="http://www.cableth.com/assets/202110131452531257005538.png" group-title="Cable TV",HI SPORT
 http://203.154.243.31:8081/live/hisport/index.m3u8|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="N/A" group-title="Cable TV"tvg-logo="https://www.i-pic.info/i/OnXe152037.png",THIN TAI TV
@@ -754,7 +754,7 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1,Baby TV
+#EXTINF:-1 group-title="KidsTV" ,Baby TV
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1,Baby First
+#EXTINF:-1 group-title="KidsTV" ,Baby First
 http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
