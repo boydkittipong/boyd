@@ -76,12 +76,12 @@ http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 https://moviektu.com/Cool/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Cable TV" tvg-logo="https://www.i-pic.info/i/m9Lh155264.png",DOONEE TV
 http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
-#EXTINF:-1 group-title="Cable tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtBpRq.jpg",CHIANGRAI CHANNEL
+#EXTINF:-1 group-title="Cable TV" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtBpRq.jpg",CHIANGRAI CHANNEL
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-1 group-title="Cable tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.6435-9/119431721_2779480602283680_5209123747662671501_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHJ0u9NDKeU45Eoo1jPsiFtS1h3nd6CXnJLWHed3oJecr5-qpIvE-GSJFlm17rxzwE&_nc_ohc=sPA8FqQzsUUAX_OIbpN&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT-tuT1Qj4kCDD5wf3Co_2uZnCcQTvwUIw5I3uadJanufA&oe=62B03A98",TGN
+#EXTINF:-1 group-title="Cable TV" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.6435-9/119431721_2779480602283680_5209123747662671501_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHJ0u9NDKeU45Eoo1jPsiFtS1h3nd6CXnJLWHed3oJecr5-qpIvE-GSJFlm17rxzwE&_nc_ohc=sPA8FqQzsUUAX_OIbpN&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT-tuT1Qj4kCDD5wf3Co_2uZnCcQTvwUIw5I3uadJanufA&oe=62B03A98",TGN
 http://110.170.117.27:1935/apptv5hd1live/tgn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Cable tvg-logo="https://thaitvstream.com/streaming/wadyantv/wadyantv.png",CHANTV
+#EXTINF:-1 tvg-id="N/A" group-title="Cable TV" tvg-logo="https://thaitvstream.com/streaming/wadyantv/wadyantv.png",CHANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://live.thaitvstream.com/play/wadyantv/index.m3u8
 
@@ -752,4 +752,4 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129-avc1_2000000=6.m3u8|Referer=https://ais-vidnt.com
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129.m3u8|Referer=https://ais-vidnt.com
