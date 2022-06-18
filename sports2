@@ -353,7 +353,7 @@ https://mediasv.online/stream_live/237_TrueFilmAsia/playlist.m3u8?wmsAuthSign=c2
 https://mediasv.online/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1OToxMSBQTSZoYXNoX3ZhbHVlPXloWGswNktIa2FtZnVLS050NERpMXc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfNjc3MjU=
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/TvLi156892.png",TRUE CHINESE MORE
 https://mediasv.online/stream_live/225_TrueChinessMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNTo1MToxMyBQTSZoYXNoX3ZhbHVlPW1IZXhtREdBT21sRzBTaDFxWG5GTHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MzEmaWQ9Y2hfOTk3NDA=
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/aRhl156899.png" group-title="Entertainments",TRUE KOREAN MORE
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/aRhl156899.png" group-title="Entertainment",TRUE KOREAN MORE
 https://mediasv.online/stream_live/238_KoreanMore/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.i-pic.info/i/Tsnc156894.png",GEM
 https://mediasv.online/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMDo0OSBQTSZoYXNoX3ZhbHVlPTFndXJXdEpZT1E0NytNbkw1QXJaVEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTkmaWQ9Y2hfNTY3MTU=
@@ -457,13 +457,13 @@ https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8|Refe
 #EXTINF:-1 tvg-id="N/A" group-title="World Sports" tvg-logo="https://www.i-pic.info/i/gfqU150020.png",BTSPORT 3
 https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8|Referer=https://freetvdd.com
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Mwar156961.png" group-title="ESPORTES",ESPN 1 PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Mwar156961.png" group-title="World Sports",ESPN 1 PORTUGAL
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MNWT156967.png" group-title="ESPORTES",ESPN 2 PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/MNWT156967.png" group-title="World Sports",ESPN 2 PORTUGAL
 http://189.91.128.146:4444/udp/227.10.20.152:1234?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/z3Z0156968.png" group-title="ESPORTES",ESPN 3 PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/z3Z0156968.png" group-title="World Sports",ESPN 3 PORTUGAL
 http://189.91.128.146:4444/udp/227.10.20.153:1234?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/AGju156969.png" group-title="ESPORTES",ESPN 4 PORTUGAL
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/AGju156969.png" group-title="World Sports",ESPN 4 PORTUGAL
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 
 
@@ -753,3 +753,8 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/HLS/B0129.m3u8|Referer=https://ais-vidnt.com
+
+#EXTINF:-1,Baby TV
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Baby First
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
