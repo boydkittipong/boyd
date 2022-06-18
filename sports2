@@ -38,6 +38,9 @@ https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/n3Lo148404.png",TPTV
 https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w1209799966.m3u8
 
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/36
 
 #EXTINF:-1 tvg-id="" tvg-name="NBT World HD TH" tvg-logo="https://play-lh.googleusercontent.com/YPonYDTx9DzrLjorg1nPO8ERgL72DmVF-Gpu09h3ES_q5tytG44Ov0OkOIBPzVRZnGA" group-title="Cable TV",NBT World HD
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/chunklist_w1523836434.m3u8
@@ -757,18 +760,6 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115784|User-Agent=ProPlayer
 #EXTINF:-1 tvg-id="" tvg-name="Inside HD TH " tvg-logo="" group-title="Thailand",KMTV
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://yt3.ggpht.com/uIi9U2IGUK3Gy2XJvlAsjlGlGtGXkb5zdJ2_OQbIKRaB6Qw741A7mgIZamZ2zhfbWgnlAB6z=s900-c-k-c0x00ffffff-no-rj",T-SPORTS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/36
 
-#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/JP03156926.png",ANIPLUS (Soundtrack)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0175/HLS/V0175.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/JP03156926.png",ANIPLUS (Soundtrack)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0175/HLS/V0175.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1 group-title="KidsTV" tvg-logo="https://www.i-pic.info/i/JP03156926.png",ANIPLUS (Soundtrack)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8|Referer=https://ais-vidnt.com
