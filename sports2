@@ -749,18 +749,18 @@ http://cdn.adultiptv.net/teen.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Spark Jump TH" tvg-logo="https://doofreemovie88.com/public/upload/tv/spark-jump.webp" group-title="Thailand",SPARK JUMP
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/spark-jump.webp",SPARK JUMP
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115529|User-Agent=ProPlayer
-#EXTINF:-1 tvg-id="" tvg-name="Spark Play [THAI] TH" tvg-logo="https://doofreemovie88.com/public/upload/tv/true-spark-play92.webp" group-title="Thailand",SPARK PLAY
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-spark-play92.webp",SPARK PLAY
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115784|User-Agent=ProPlayer
 
-#EXTINF:-1 tvg-id="" tvg-name="Inside HD TH " tvg-logo="" group-title="Thailand",KMTV
+#EXTINF:-1 tvg-logo="" group-title="Thailand",KMTV
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 
-#EXTINF:-1 group-title="1"tvg-logo="https://www.i-pic.info/i/TGRX180410.png",MEDIA TV
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TGRX180410.png",MEDIA TV
 https://stream-05.sg1.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUMjEz92OmSX_sBSwoIXam8t30sjFLqo0JTuj4famam7C)/dm/3/x7yxvbp/s/live-0.m3u8
 
-#EXTINF:-1 group-title="1"tvg-logo="https://www.diario26.com/images/xmusictop_logo.png,q3.pagespeed.ic.EFHscT-sJo.png",MUSIC TOP
+#EXTINF:-1 https://www.diario26.com/images/xmusictop_logo.png,q3.pagespeed.ic.EFHscT-sJo.png",MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w779077467_b964000_sleng.m3u8
 
 
