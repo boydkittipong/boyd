@@ -190,11 +190,11 @@ http://203.154.243.89:28010/pa/snooker.ts
 http://203.154.243.89:28010/pa/wtb.ts
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/9Cwz150075.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnd3ZS51bml2ZXJzZV9pY29uXzE1NjQwNTI5ODdfMDAy/icon.png?w=&fakeurl=1",WWE
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnd3ZS51bml2ZXJzZV9pY29uXzE1NjQwNTI5ODdfMDAy/icon.png?w=&fakeurl=1",WWE
 http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/mpuD150072.png",REDBULL TV
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/mpuD150072.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
 https://streaming.livescorethai.net/iptv/sd-cctv4.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/32eO150074.png",CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
@@ -203,11 +203,11 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/EMOa167251.png",SITV
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8|Referer=https://ais-vidnt.com
 
@@ -215,15 +215,15 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8|Referer=https://ais-vidnt.com
 
-#EXTINF:-1 tvg-id="N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU",THAILEAGUE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8|Referer=https://ais-vidnt.com
 
