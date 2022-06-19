@@ -168,25 +168,25 @@ http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/nFLr150080.png",PREMIER SPORTS
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/nFLr150080.png",PREMIER SPORTS
 https://streaming.livescorethai.net/iptv/uk-premiersports.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/wKG1150031.png",SKY BUNDESLIGA
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/wKG1150031.png",SKY BUNDESLIGA
 https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ODqv150065.png",RUSH HD
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xCZd149454.png",MUTV
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Aswc149456.png",LFCTV
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Aswc149456.png",LFCTV
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/k8wy152107.png",GSTV
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/k8wy152107.png",GSTV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/sAiF155255.png",BARCA TV
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/sAiF155255.png",BARCA TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8|Referer=https://player.licenses4.me
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/mwzu149433.png",NBC GOLF
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/mwzu149433.png",NBC GOLF
 https://streaming.livescorethai.net/iptv/hd-golfeng.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/qelH155239.png",WORLD SNOOKER
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/qelH155239.png",WORLD SNOOKER
 http://203.154.243.89:28010/pa/snooker.ts
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/eQnW161181.png",WTB
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/eQnW161181.png",WTB
 http://203.154.243.89:28010/pa/wtb.ts
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/9Cwz150075.png",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
@@ -194,7 +194,7 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/mpuD150072.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/WwTE150073.png",CCTV4
 https://streaming.livescorethai.net/iptv/sd-cctv4.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/32eO150074.png",CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
