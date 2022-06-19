@@ -1,87 +1,55 @@
-{
-"name": "ช่องการ์ตูน",
-"author": "ฺฺBoyd_Kittipong",
-"image": "https://sv1.picz.in.th/images/2020/12/18/jntpLy.png",
-"url": "https://raw.githubusercontent.com/boydkittipong/boyd/main/ch_cartoon",
-"stations": [
-{
-"name": "Cartoon Club",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
-"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Cartoon Club สำรอง",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/CartoonClub.png",  
-"url": "https://www.we-play.tv/watching/tv/cartoon-club",
-"playInNatPlayer": "true"
-},
-{
-"name": "Boomerang",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png",  
-"url": "https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Disney XD",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/DISNEYXD.png",  
-"url": "https://www.we-play.tv/watching/tv/disney-xd",
-"playInNatPlayer": "true"
-},
-{
-"name": "Disney Channel",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-disney.png",  
-"url": "https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Aniplus",  
-"image": "https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg",  
-"url": "https://www.we-play.tv/watching/tv/aniplus",
-"playInNatPlayer": "true"
-},
-{
-"name": "Cartoon Network",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-cartoonnetwork.png",  
-"url": "https://www.we-play.tv/watching/tv/cartoon-network",
-"playInNatPlayer": "true"
-},
-{
-"name": "Nickelodeon",  
-"image": "http://tvsmagazine.com/images/channels/sm_NICK.jpg",  
-"url": "https://www.we-play.tv/watching/tv/nickelodeon",
-"playInNatPlayer": "true"
-},
-{
-"name": "Baby TV",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png",  
-"url": "https://www.we-play.tv/watching/tv/babytv",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Spark Jump",  
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/sd-sparkjump.png",  
-"url": "https://www.we-play.tv/watching/tv/true-spark-jump",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Spark Play",  
-"image": "https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",  
-"url": "https://we-play.tv/watching/tv/true-spark-play",
-"playInNatPlayer": "true"
-},
-{
-"name": "Toonee",  
-"image": "https://il.mahidol.ac.th/upload/img/2020-11-11-052323.png",  
-"url": "https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name": "Animax",  
-"image": "https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",  
-"url": "http://203.154.177.124:8899/live/ch5/playlist.m3u8",
-"playInNatPlayer": "true"
-},
+#EXTM3U
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CARTOONCLUB
+https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Zt6a148469.png",BOOMERANG
+https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/jb2N148473.png",TOONEE
+http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/Wd4w155237.png",UMI
+http://203.154.243.89:28010/pa/umi.ts
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/fxdz148470.png",CARTOON NETWORK
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8|Referer=https://freetvdd.com
 
-]
-}
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/true-spark-play92.webp",SPARK JUMP
+https://mediasv.online/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMzo1Mjo0NCBQTSZoYXNoX3ZhbHVlPVdHOHFlOEFURXhwcG43NllQbytyTWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjUmaWQ9Y2hfOTAyMjc=
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/next-kid10.webp",NEXTKID
+https://mediasv.online/stream_live/goodtv66_nextKid./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozOToxMyBBTSZoYXNoX3ZhbHVlPUVVVUhMbVUvYkpxRzB2QzRNbER1bmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfMjgxNzU=
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/just-fun46.webp",JUSTFUN
+https://mediasv.online/stream_live/goodtv39_JustFun./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNDozNDo0NyBBTSZoYXNoX3ZhbHVlPXJMZGQ2U2R4TFA1NmY4ZzBpejlkQ0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjkmaWQ9Y2hfNjgwNTE=
+
+#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.at-x.com/favicon_android.png",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/oVtL161121.png",ZOOMOO (Soundtrack)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/5yTM161114.png",NICK (Soundtrack)
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/9VfR161115.png",NICKELODEON (Soundtrack)
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/BbNd161116.png",NICK JR.(Soundtrack)
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/9dia161108.png",PBS KIDS (Soundtrack)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.i-pic.info/i/dCiW161111.png",JUNIOR (Soundtrack)
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/BfFX161147.png",CONTV ANIME (Soundtrack)
+https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/UUNJRhft91sQ68eNZBqI7PORtYoIbcSACA4Iy3AZ7ocqHt1Cd8s0Z3x-XtG6MTH1ghJNHjfsBA=s900-c-k-c0x00ffffff-no-rj",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51XTdK17fFL.png",BABY FIRST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/768px-LEGO_logo.svg.png",LEGO
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/V9j3167852.png",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
+#EXTINF:-1  tvg-logo="https://www.animationxpress.com/wp-content/uploads/2015/11/Xilam.jpg",XILAM TV
+https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
