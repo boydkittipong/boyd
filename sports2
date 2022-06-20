@@ -97,8 +97,11 @@ http://203.154.243.89:28008/nakhon/monplange
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/ANk6148438.png",CARTOONCLUB
 https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/chunklist_w1586345374.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Zt6a148469.png",BOOMERANG
-https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/jb2N148473.png",TOONEE
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/gLBx148487.png",FWTOON
@@ -266,7 +269,7 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/hUzD180408.png",INWONDER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/EQ6Slim2i8d3YgXWGgHNgOnHVhZB40iBFDmjrzliJJY8ddgS9UEAb1hImPIGIsEjhNo9Cg_K=s900-c-k-c0x00ffffff-no-rj" ,INTROUBLE
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/EQ6Slim2i8d3YgXWGgHNgOnHVhZB40iBFDmjrzliJJY8ddgS9UEAb1hImPIGIsEjhNo9Cg_K=s900-c-k-c0x00ffffff-no-rj",INTROUBLE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4LGRoT1EgdJkiKD0MZsZ0etm-1Qdwugnfg&usqp=CAU",AMERICAN OUTDOOR
@@ -391,7 +394,7 @@ http://203.159.95.172:8081/live/action001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/iFxv148407.png",FUSO MOV 2 (Sub TH)
 http://203.159.95.172:8081/live/banner003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/pXRq148432.png",WARNER TV (Sub TH)
-https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|Referer=https://freetvdd.com
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/JcYa155231.png",H CHANNEL (Sub TH)
 http://203.154.243.89:28010/pa/hchannel.ts
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/T8AR152036.png",CINEMAX (Sub TH)
