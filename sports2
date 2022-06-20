@@ -646,116 +646,116 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_4_4k.jpg",J SPORTS 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/Ufg7152064.png",NHK
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/Ufg7152064.png",NHK
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/PgDh152048.png",CHANNEL NEWSASIA
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/PgDh152048.png",CHANNEL NEWSASIA
 https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/AfQX152071.png",SKY NEWS
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/AfQX152071.png",SKY NEWS
 https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/hBHG152070.png",SKY ONE
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/hBHG152070.png",SKY ONE
 https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/mAUP152040.png",ALIBI
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mAUP152040.png",ALIBI
 https://streaming.livescorethai.net/iptv/uk-alibi.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/bMuT152044.png",ARIRANG
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/bMuT152044.png",ARIRANG
 https://streaming.livescorethai.net/iptv/sd-arirang.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
 https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/7Jzn152042.png",AL JAZEERA
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/7Jzn152042.png",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/VCKg152056.png",GOLD
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/VCKg152056.png",GOLD
 https://streaming.livescorethai.net/iptv/uk-gold.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/ZxKh152046.png",BBC WORLD NEWS
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ZxKh152046.png",BBC WORLD NEWS
 https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/27ij152045.png",BBC NEWS
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/27ij152045.png",BBC NEWS
 https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/YJ4c152035.png",CHANNEL 4
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/YJ4c152035.png",CHANNEL 4
 https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Referer=https://freetvdd.com
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/mqBf152074.png",CGTN
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mqBf152074.png",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="https://www.i-pic.info/i/KuZm152047.png",BLOOMBERG ASIA
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/rTji152041.png",ABC NEWS
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/rTji152041.png",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="News"tvg-logo="https://www.i-pic.info/i/VDpb155290.png",ABC AUSTRALIA
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VDpb155290.png",ABC AUSTRALIA
 http://203.154.177.124:8899/live/ch8/playlist.m3u8
-#EXTINF:-1 group-title="News"tvg-logo="https://www.i-pic.info/i/K4Oc155289.png",DW
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/K4Oc155289.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="News"tvg-logo="https://www.i-pic.info/i/e0qU152065.png",TRT WORLD
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/e0qU152065.png",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="News"tvg-logo="https://www.i-pic.info/i/EgqF152054.png",FRANCE 24 
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/EgqF152054.png",FRANCE 24 
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/f5dm152053.png",FOX NEWS
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/f5dm152053.png",FOX NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.i-pic.info/i/IEDv152075.png",CBS NEWS
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/IEDv152075.png",CBS NEWS
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t39.30808-6/276992545_339040228258333_5387921364615321751_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Okzik2XoWXQAX92GXY2&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT-dPt9_QTFWcQ0UgrR35ECC7-fDkBh0fJHaJ4VKkgDrAQ&oe=62A365B0" group-title="News",UN WEB TV
+#EXTINF:-1 tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t39.30808-6/276992545_339040228258333_5387921364615321751_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Okzik2XoWXQAX92GXY2&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT-dPt9_QTFWcQ0UgrR35ECC7-fDkBh0fJHaJ4VKkgDrAQ&oe=62A365B0",UN WEB TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-country="INT" tvg-language="English" tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.6435-9/186528896_104727085143600_3893218713372426163_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEBgnn9DL-Ifrti8x26I3aB_d9Brm4p4bT930GubinhtMT8fKmmPPfJsnAOK7e4DxM&_nc_ohc=XeL2G-c29_YAX-T6geY&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT95EIlf9d0-uZWXsweOcZl1CgaLxbZfNI04eQj7YJTGAw&oe=62C59725" group-title="News",METRO GLOBE NETWORK
+#EXTINF:-1 tvg-logo="https://scontent.fhdy1-1.fna.fbcdn.net/v/t1.6435-9/186528896_104727085143600_3893218713372426163_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEBgnn9DL-Ifrti8x26I3aB_d9Brm4p4bT930GubinhtMT8fKmmPPfJsnAOK7e4DxM&_nc_ohc=XeL2G-c29_YAX-T6geY&_nc_ht=scontent.fhdy1-1.fna&oh=00_AT95EIlf9d0-uZWXsweOcZl1CgaLxbZfNI04eQj7YJTGAw&oe=62C59725",METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1 (Back Up)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1 (Back Up)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2 (Back Up)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2 (Back Up)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3 (Back Up)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3 (Back Up)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnDsSbFvTbf7js_lZPA5JNVAnZJL0PU5LjL2v0bJkOlWFKoQLBC4RZZ-yuMRajQf0rjWFfuKTNL-
-#EXTINF:-1 tvg-id="N/A" group-title="True Visions" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4 (Back Up)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4 (Back Up)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c
 
 
-#EXTINF:-1 tvg-id="playboy.co" tvg-name="PLAYBOY" group-title="XXX" tvg-logo="https://www.i-pic.info/i/dMAL152063.png",PLAY BOY
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dMAL152063.png",PLAY BOY
 http://91.215.188.171:8001/play/69/index.m3u8
-#EXTINF:-1 tvg-id="sextreme.co" tvg-name="SEXTREME" group-title="XXX" tvg-logo="https://www.i-pic.info/i/VETO152052.png",SEX XTREME
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VETO152052.png",SEX XTREME
 http://187.171.246.131:9000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="XXX" tvg-logo="https://www.i-pic.info/i/XkeE152061.png",VENUS
 http://45.225.47.234:41/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="venus.co" tvg-name="EROX" group-title="US Live" tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (livecams)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (livecams)
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (anal)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (anal)
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (bigass)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (bigass)
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (bigdick)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (bigdick)
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (bigtits)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (bigtits)
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (blonde)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (blonde)
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (blowjob)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (blowjob)
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (brunette)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (brunette)
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (compilation)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (compilation)
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (cuckold)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (cuckold)
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (fetish)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (fetish)
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (gangbang)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (gangbang)
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (hardcore)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (hardcore)
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (latina)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (latina)
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (lesbian)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (lesbian)
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (milf)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (milf)
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (pornstar)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (pornstar)
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (pov)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (pov)
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (rough)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (rough)
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (russian)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (russian)
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="US Live"tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (teen)
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/DGju180409.png",ADULTIPTV (teen)
 http://cdn.adultiptv.net/teen.m3u8
 
 
@@ -770,10 +770,8 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115784|User-Agent=ProPlayer
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",KMTV
 http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115721|User-Agent=ProPlayer
 
-#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/TGRX180410.png",MEDIA TV
-https://stream-05.sg1.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUMjEz92OmSX_sBSwoIXam8t30sjFLqo0JTuj4famam7C)/dm/3/x7yxvbp/s/live-0.m3u8
 
-#EXTINF:-1 https://www.diario26.com/images/xmusictop_logo.png,q3.pagespeed.ic.EFHscT-sJo.png",MUSIC TOP
+#EXTINF:-1 tvg-logo="https://www.diario26.com/images/xmusictop_logo.png,q3.pagespeed.ic.EFHscT-sJo.png",MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w779077467_b964000_sleng.m3u8
 
 
