@@ -672,7 +672,7 @@ https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8|Referer
 https://streaming.livescorethai.net/iptv/uk-channel4hd.stream/chunks.m3u8|Referer=https://freetvdd.com
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/mqBf152074.png",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="News"tvg-logo="https://www.i-pic.info/i/KuZm152047.png",BLOOMBERG ASIA
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/KuZm152047.png",BLOOMBERG ASIA
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/rTji152041.png",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -711,7 +711,7 @@ http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPX
 http://91.215.188.171:8001/play/69/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VETO152052.png",SEX XTREME
 http://187.171.246.131:9000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="venus.co" tvg-name="VENUS" group-title="XXX" tvg-logo="https://www.i-pic.info/i/XkeE152061.png",VENUS
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.i-pic.info/i/XkeE152061.png",VENUS
 http://45.225.47.234:41/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
