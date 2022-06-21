@@ -551,7 +551,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 http://91.215.188.171:8001/play/69/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/VETO152052.png",SEX XTREME
 http://187.171.246.131:9000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://www.i-pic.info/i/XkeE152061.png",VENUS
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/XkeE152061.png",VENUS
 http://45.225.47.234:41/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/uy8t152051.png",EROX
 http://94.229.250.73:8008/play/a002
