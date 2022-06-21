@@ -304,7 +304,7 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
 
-#EXTINF:-1 ttvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/sport/tpf2/chunks.m3u8|Referer=https://dooball2you.com/
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2 (Back Up)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -322,7 +322,8 @@ http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPX
 
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/sport/tpf5/chunks.m3u8|Referer=https://dooball2you.com/
-
+#EXTINF:-1 tvg-logo="https://www.i-pic.info/i/Ub26149386.png",TRUE PREMIER FOOTBALL 5
+https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|Referer=https://youdooball.com/
 #EXTINF:-1 tvg-id="N/A" tvg-logo="https://www.i-pic.info/i/xmLZ149380.png",BEIN SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/sport/bein1/chunks.m3u8|Referer=https://dooball2you.com/
