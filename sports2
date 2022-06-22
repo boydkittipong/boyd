@@ -1,10 +1,11 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="",True Film 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tfilm.png",True Film 1
 https://edge-s1.onlineprostream.com:458/fsdkMND674567hn-th1/hd-tfilm_1080/chunks.m3u8?nimblesessionid=10070557&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIyIDU6MTA6NTYgQU0maGFzaF92YWx1ZT1NdjlWOGFMNGFndjc5QjBCdjcrZGdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTkzMnxzaWFtdHY4OHxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuMC4wIFNhZmFyaS81MzcuMzZ8MTY1NTg3NDY1NnxoZC10ZmlsbXw2MjM2M3wxMTguMTc0LjIyOS4xNg==
-#EXTINF:-1  tvg-logo="",True Film 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://siamtv88.co/index.php?a=live_details&channel_code=hd-tfilm
+#EXTINF:-1  tvg-logo="https://overseer.blackboxsys.net/images/png/sd-series.png",True Series
+https://edge-s1.onlineprostream.com:458/fsdkMND674567hn-th1/sd-series_720/chunks.m3u8?nimblesessionid=10070930&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIyIDU6NDk6NTggQU0maGFzaF92YWx1ZT11eGNUVXlUU1Vyc0hGZHlwa3JVZXlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTkzMnxzaWFtdHY4OHxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuMC4wIFNhZmFyaS81MzcuMzZ8MTY1NTg3Njk5OHxzZC1zZXJpZXN8MzA1OTd8MTE4LjE3NC4yMjkuMTY=
+#EXTINF:-1  tvg-logo="https://overseer.blackboxsys.net/images/png/hd-xzyte.png",X-Zyte HD
+https://edge-s1.onlineprostream.com:457/fsdkMND674567hn-th1/hd-xzyte_1080/chunks.m3u8?nimblesessionid=7414381&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIyIDU6NTI6MDAgQU0maGFzaF92YWx1ZT1MSUhaSGVtYmpxMnFjT0c4bTc5Y3FnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NTkzMnxzaWFtdHY4OHxNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTAyLjAuMC4wIFNhZmFyaS81MzcuMzZ8MTY1NTg3NzEyMHxoZC14enl0ZXwzOTY4MnwxMTguMTc0LjIyOS4xNg==
+
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
