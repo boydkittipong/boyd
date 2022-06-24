@@ -139,6 +139,8 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
 #EXTINF:-1  tvg-logo="https://www.animationxpress.com/wp-content/uploads/2015/11/Xilam.jpg",XILAM TV
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/heart56.webp",HEART
+https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6NDU6MjggUE0maGFzaF92YWx1ZT04QXIvMTdySVdCeEM4cHFESzFKR2VBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzM1MDgx
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/sweet26.webp",SWEET
 http://61.19.242.134/feed/202105171329/LC36/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/1q6y150076.png",A3BIKINI TV
@@ -160,6 +162,11 @@ http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/taLW152185.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593573025939506/dc42caaeaa178fa25136f5bd2760baed.png",KHONGDEE THAILAND
+https://mediasv.online/stream_live/goodtv37_KhongDee./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDU6MzM6NDQgUE0maGFzaF92YWx1ZT1mdXI3b08yOHp2T0V5TVI4WmhIYUFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTMwJmlkPWNoXzc0Mjkz
+
 
 
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/RGys161106.png",ANIMAL WORLD
@@ -237,22 +244,9 @@ http://61.19.242.134/feed/202105171329/LC2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qDcOkZR.png",LIVE SKY 1
-http://150.95.25.221:8000/LiveSky1?u=covid19:p=AS15788947
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jL3vhXm.png",LIVE SKY 2
-http://150.95.25.221:8000/Live%20Sky2?u=covid19:p=AS15788947
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezjnOT1.png",LIVE SKY 3
-http://150.95.25.221:8000/Live%20Sky3?u=covid19:p=AS15788947
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DB0pQG.png",LIVE SKY 4
-http://150.95.25.221:8000/Live%20Sky4?u=covid19:p=AS15788947
-#EXTINF:-1 tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/Sat%2520Asia.gif",MOVIES & SAT ASIA
-http://150.95.25.221:8000/Movies%26sat%20Asia?u=covid19:p=AS15788947
-#EXTINF:-1 tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/A%2520Firlm.gif",A FLIM HD
-http://150.95.25.221:8000/A%20FlimHD?u=covid19:p=AS15788947
-#EXTINF:-1 tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/I-Movie.gif",I-MOVIE HD
-http://150.95.25.221:8000/i%2D%20Movie%20HD?u=covid19:p=AS15788947
-#EXTINF:-1 tvg-logo="https://vc3i.rweb-images.com/www.forwardsat.com/images/column_1273192812/I-Asia.jpg",I-ASIA HD
-http://150.95.25.221:8000/i%2D%20Asia%20HD?u=covid19:p=AS15788947
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZaoD3s40rTlomTjhXuiTDBEnJCji00oO-cw&usqp=CAU",NK TV
+http://tvthai.googlestream.xyz:8888/live/test/Rzlwf7daHi/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c0d5a3a50a54f56e2b4c6b0/1547573427053-OPP2BY225XXJRUP0O2D2/SE%CC%81RIEPLUS_LOGO.png",SERIES+HD
 http://150.95.25.221:8000/Series%2B%20HD?u=covid19:p=AS15788947
 
@@ -273,7 +267,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/djbR155312.png",THIRLL (Soundtrack)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.i-pic.info/i/MGFP152072.png",STAR MOVIES (Soundtrack)
+http://203.154.243.89:28007/mss/izaa
 
 
 
