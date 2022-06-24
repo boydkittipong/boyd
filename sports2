@@ -510,7 +510,7 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/bMuT152044.png",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/ljAo152049.png",CNN
-http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+https://mediasv.online/stream_live/778_CNN/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6Mzg6MDcgUE0maGFzaF92YWx1ZT1NN21mZCtVOTdBcE5jTzRzR3BnT1JnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzk2Nzcy
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/7Jzn152042.png",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/27ij152045.png",BBC NEWS
