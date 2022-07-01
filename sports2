@@ -138,6 +138,11 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1500639285.m3u8
 #EXTINF:-1  tvg-logo="https://www.animationxpress.com/wp-content/uploads/2015/11/Xilam.jpg",XILAM TV
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.i-pic.info/i/JP03156926.png",ANIPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://aisplay.ais.co.th/portal/live?vid=5be2f92ebf6aee07248a5069
+
+
 
 #EXTINF:-1 tvg-logo="https://doofreemovie88.com/public/upload/tv/heart56.webp",HEART
 https://mediasv.online/stream_live/goodtv43_Heart./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDQ6NDU6MjggUE0maGFzaF92YWx1ZT04QXIvMTdySVdCeEM4cHFESzFKR2VBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI3JmlkPWNoXzM1MDgx
