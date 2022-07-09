@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="",STRANGER THINGS
+https://content-videovard-delivery-s54.vidvard.link/hls2/01/00622/musv55r3qt9n_h/index-v1-a1.m3u8|Referer=https://www.nanamovies.me
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/nFBD148379.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://www.i-pic.info/i/6TZS148380.png",CH5
